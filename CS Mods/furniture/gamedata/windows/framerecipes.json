@@ -1,0 +1,32 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.hardwoodwindow",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodwindow" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.concretewindow",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretewindow" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.whiteconcretewindow",
+		"requires":[
+				{ "amount":5, "type":"whiteconcrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"whiteconcretewindow" } 
+				]
+	}
+]

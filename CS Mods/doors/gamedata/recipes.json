@@ -1,0 +1,42 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.door3",
+		"requires":[
+				{ "amount":10, "type":"planks" },
+				],
+		"results":[
+				{ "amount":5, "type":"door3" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.door3x2",
+		"requires":[
+				{ "amount":10, "type":"planks" },
+				],
+		"results":[
+				{ "amount":5, "type":"door3x2" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.door2",
+		"requires":[
+				{ "amount":10, "type":"planks" },
+				],
+		"results":[
+				{ "amount":5, "type":"door2" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.door2x2",
+		"requires":[
+				{ "amount":10, "type":"planks" },
+				],
+		"results":[
+				{ "amount":5, "type":"door2x2" } 
+				]
+	}
+]

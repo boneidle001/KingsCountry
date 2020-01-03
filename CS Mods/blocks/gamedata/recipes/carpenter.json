@@ -1,0 +1,205 @@
+[
+	{
+		"defaultLimit" : 5,
+		"defaultPriority" : -100,
+		"name" : "kc.carpenter.crate",
+		"requires" : [
+			{"type":"planks"},
+			{"amount":4,"type":"coppernails"}
+		],
+		"results" : [
+			{"type":"crate"}
+		]
+	},
+	{
+		"defaultLimit" : 15,
+		"name" : "kc.carpenter.plankstemperate",
+		"requires" : [
+			{"type":"logtemperate"}
+		],
+		"results" : [
+			{"amount":4,"type":"planks"}
+		]
+	},
+	{
+		"defaultLimit" : 15,
+		"name" : "kc.carpenter.plankstaiga",
+		"requires" : [
+			{"type":"logtaiga"}
+		],
+		"results" : [
+			{"amount":4,"type":"planks"}
+		]
+	},
+	{
+		"defaultLimit" : 3,
+		"defaultPriority" : -100,
+		"name" : "kc.carpenter.coatedplanks",
+		"requires" : [
+			{"amount":3,"type":"woodcoating"},
+			{"amount":3,"type":"planks"}
+		],
+		"results" : [
+			{"amount":3,"type":"coatedplanks"}
+		]
+	},
+	{
+		"defaultLimit" : 5,
+		"defaultPriority" : 0,
+		"name" : "kc.carpenter.bucketempty",
+		"requires" : [
+			{"type":"planks"},
+			{"amount":4,"type":"coppernails"},
+			{"amount":2,"type":"copperparts"}
+		],
+		"results" : [
+			{"type":"bucketempty"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.planksred",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"amount":3,"type":"hollyhock"}
+		],
+		"results" : [
+			{"amount":5,"type":"planksred"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.planksgreen",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"amount":2,"type":"alkanet"},
+			{"amount":2,"type":"wolfsbane"}
+		],
+		"results" : [
+			{"amount":5,"type":"planksgreen"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.plankscyan",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"amount":2,"type":"alkanet"},
+			{"amount":1,"type":"wolfsbane"}
+		],
+		"results" : [
+			{"amount":5,"type":"plankscyan"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.planksblue",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"amount":3,"type":"alkanet"}
+		],
+		"results" : [
+			{"amount":5,"type":"planksblue"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.planksyellow",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"amount":3,"type":"wolfsbane"}
+		],
+		"results" : [
+			{"amount":5,"type":"planksyellow"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.plankspink",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"amount":2,"type":"alkanet"},
+			{"amount":2,"type":"hollyhock"}
+		],
+		"results" : [
+			{"amount":5,"type":"plankspink"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.planksgrey",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"type":"charcoal"},
+			{"amount":2,"type":"gypsum"}
+		],
+		"results" : [
+			{"amount":5,"type":"planksgrey"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.redplanks",
+		"requires" : [
+			{"amount":5,"type":"coatedplanks"},
+			{"amount":3,"type":"hollyhock"}
+		],
+		"results" : [
+			{"amount":5,"type":"redplanks"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "kc.carpenter.blackplanks",
+		"requires" : [
+			{"amount":5,"type":"coatedplanks"},
+			{"amount":2,"type":"charcoal"}
+		],
+		"results" : [
+			{"amount":5,"type":"blackplanks"}
+		]
+	},
+	
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.carpenter.polishedplanks",
+		"requires":[
+				{ "amount":2, "type":"logtemperate" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.carpenter.hardwoodplanks",
+		"requires":[
+				{ "amount":2, "type":"logtaiga" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.carpenter.logwall",
+		"requires":[
+				{ "amount":2, "type":"logtemperate" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwall" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.carpenter.varnishedoak",
+		"requires":[
+				{ "amount":2, "type":"logtemperate" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoak" } 
+				]
+	}
+]
+
+

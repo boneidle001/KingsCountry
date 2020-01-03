@@ -1,0 +1,32 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowglass",
+		"requires":[
+			{ "amount":10, "type":"planks" }
+				],
+		"results":[
+			{ "amount":5, "type":"windowglass" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowscglass",
+		"requires":[
+			{ "amount":10, "type":"planks" }
+				],
+		"results":[
+			{ "amount":5, "type":"windowscglass" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowrcglass",
+		"requires":[
+			{ "amount":10, "type":"planks" }
+				],
+		"results":[
+			{ "amount":5, "type":"windowrcglass" } 
+				]
+	}
+]

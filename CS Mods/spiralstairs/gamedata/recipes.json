@@ -1,0 +1,62 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.spiral",
+		"requires":[
+				{ "amount":2, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"spiralstairs" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.spiralstone",
+		"requires":[
+				{ "amount":2, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"spiralstairsstone" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.spiralstairsvarnishedoak",
+		"requires":[
+				{ "amount":2, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"spiralstairsvarnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.spiralstairstopvarnishedoak",
+		"requires":[
+				{ "amount":2, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"spiralstairstopvarnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.spiraltop",
+		"requires":[
+				{ "amount":2, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"spiralstairstop" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.spiralstonetop",
+		"requires":[
+				{ "amount":2, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"spiralstairsstonetop" } 
+				]
+	}
+]

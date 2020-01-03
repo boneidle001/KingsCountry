@@ -1,0 +1,16 @@
+[
+	{
+		"defaultLimit" : 1,
+		"name": "pipliz.crafter.kilndoor",
+		"requires":[
+				{ "amount":100, "type":"wornbrickwall" },
+				{ "amount":10, "type":"varnishedoak" },
+				{ "amount":10, "type":"bronzeingot"}
+				],
+		"results":[
+				{ "amount":1, "type":"kilndoor" } 
+				]
+	}
+]
+
+

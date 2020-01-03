@@ -1,0 +1,16 @@
+[
+	{
+		"growthType" : "FirstNightRandom",
+		"identifier" : "grapesstage",
+		"patchType" : "simpleStages",
+		"stages" : [
+			{"type":"grapesstage1"},
+			{"type":"grapesstage2"},
+			{"type":"grapesstage3"},
+			{"type":"grapesstage4"},
+			{"type":"grapesstage5"},
+			{"type":"grapesstage6"},
+			{"type":"grapesstage7"}
+			]
+	}
+]

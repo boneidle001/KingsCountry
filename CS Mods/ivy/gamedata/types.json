@@ -1,0 +1,16 @@
+{
+	"vines" : {
+		"categories" : ["ivy", "vines", "decorative"],
+		"customData" : {
+			"useNormalMap" : true,
+			"useHeightMap" : true
+			},
+		"icon" : "./textures/icon/vines.png",
+		"mesh" : "./meshes/vines.ply",
+		"isSolid" : false,
+		"maxStackSize" : 500,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "leavesgeneric"
+	}
+}

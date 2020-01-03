@@ -1,0 +1,72 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.beamv",
+		"requires":[
+				{ "amount":5, "type":"planks" }
+				],
+		"results":[
+				{ "amount":10, "type":"beamv" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.beamh",
+		"requires":[
+				{ "amount":5, "type":"planks" }
+				],
+		"results":[
+				{ "amount":10, "type":"beamh" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.beam+1",
+		"requires":[
+				{ "amount":5, "type":"planks" }
+				],
+		"results":[
+				{ "amount":10, "type":"beam+1" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.beam+2",
+		"requires":[
+				{ "amount":5, "type":"planks" }
+				],
+		"results":[
+				{ "amount":10, "type":"beam+2" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.beam+3",
+		"requires":[
+				{ "amount":5, "type":"planks" }
+				],
+		"results":[
+				{ "amount":10, "type":"beam+3" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.beam+4",
+		"requires":[
+				{ "amount":5, "type":"planks" }
+				],
+		"results":[
+				{ "amount":10, "type":"beam+4" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.beamt",
+		"requires":[
+				{ "amount":5, "type":"planks" }
+				],
+		"results":[
+				{ "amount":10, "type":"beamt" } 
+				]
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.streetlight",
+		"requires":[
+				{ "amount":5, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"streetlight" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.walllight",
+		"requires":[
+				{ "amount":5, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"walllight" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.ceilinglight",
+		"requires":[
+				{ "amount":5, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"ceilinglight" } 
+				]
+	}
+]

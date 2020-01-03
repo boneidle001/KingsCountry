@@ -1,0 +1,245 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplastercurve",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplastercurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplastercurverotated",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplastercurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplastercurvecorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplastercurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterfourstep",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterslab",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterslabup",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterslabdown",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterslope",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplastersloperotated",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplastersloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterslopecorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplasterspike",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplasterspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplastertwostep",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplastertwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplastertwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplastertwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughplastertwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"roughplaster" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplastertwostepinnercorner" } 
+				]
+	}
+	
+]
+
+

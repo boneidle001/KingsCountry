@@ -1,0 +1,48 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["wall", "light", "decorative"],
+			"customData" : {
+					"colors":["#ff0000->#778899","#00ff00->#ffffff"]
+					"torches" : {"a":{"color":"#ffffff","intensity":5,"range":10,"volume":0.5}}
+				},
+			"icon" : "./textures/icon/walllight.png",
+			"mesh" : "./meshes/walllight.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "torch"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "walllight"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["wall", "light", "decorative"],
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#daa520"]
+					"torches" : {"a":{"color":"#daa520","intensity":5,"range":10,"volume":0.5}}
+				},
+			"icon" : "./textures/icon/walllight.png",
+			"mesh" : "./meshes/walllight.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "bronzelight"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "bronzewalllight"		
+	}
+]

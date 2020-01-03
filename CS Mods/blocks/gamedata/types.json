@@ -1,0 +1,381 @@
+{		
+	"paving" : {
+		"categories" : ["kings", "grey", "paving", "decorative"],
+		"customData" : {
+			"useHeightMap" : true
+			},
+		"icon" : "./textures/icon/paving.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "paving"
+	},
+	"pewter" : {
+		"categories" : ["kings", "pewter","paving", "decorative"],
+		"customData" : {
+			"useHeightMap" : true
+			},
+		"icon" : "./textures/icon/pewter.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "pewter"
+	},
+	"traditional" : {
+		"categories" : ["kings", "traditional","paving", "decorative"],
+		"customData" : {
+			"useHeightMap" : true
+			},
+		"icon" : "./textures/icon/traditional.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "traditional"
+	},
+	"redpaving" : {
+		"categories" : ["kings", "red","paving", "decorative"],
+		"customData" : {
+			"useHeightMap" : true
+			},
+		"icon" : "./textures/icon/redpaving.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "redpaving"
+	},
+	"steelpanelcrimson" : {
+		"categories" : ["kings", "steel","panel", "red", "crimson", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"color" : "#dc143c",
+		"icon" : "./textures/icon/steelpanelcrimson.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "steelpanel"
+	},
+	"steelpaneldeepskyblue" : {
+		"categories" : ["kings", "steel","panel", "sky", "blue", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"color" : "#00bfff",
+		"icon" : "./textures/icon/steelpaneldeepskyblue.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "steelpanel"
+	},
+	"steelpaneldeepgrey" : {
+		"categories" : ["kings", "steel","panel", "sky", "blue", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"color" : "#696969",
+		"icon" : "./textures/icon/steelpaneldeepgrey.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "steelpanel"
+	},
+	"concrete" : {
+		"categories" : ["kings", "concrete", "grey", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"color" : "#696969",
+		"icon" : "./textures/icon/concrete.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "concrete"
+	},
+	"whiteconcrete" : {
+		"categories" : ["kings", "concrete", "grey", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"color" : "#ffffff",
+		"icon" : "./textures/icon/concrete.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "concrete"
+	},
+	"claybrick" : {
+		"categories" : ["kings", "clay", "brick", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/claybrick.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "claybrick"
+	},
+	"stockbrick" : {
+		"categories" : ["kings", "stock", "brick", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/stockbrick.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "stockbrick"
+	},
+	"hardwoodplanks" : {
+		"categories" : ["kings", "hard", "wood", "planks", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/hardwoodplanks.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "hardwoodplanks"
+	},
+	"brickpath" : {
+		"categories" : ["kings", "hard", "wood", "planks", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/brickpath.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "brickpath"
+	},
+	"road" : {
+		"categories" : ["kings", "road", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/road.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "road"
+	},
+	"polishedplanks" : {
+		"categories" : ["kings", "wood", "polished", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/polishedplanks.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "polishedplanks"
+	},
+	"stonewall" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/stonewall.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "stonewall"
+	},
+	"wornbrickwall" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/wornbrickwall.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "wornbrickwall"
+	},
+	"roughplaster" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/roughplaster.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "roughplaster"
+	},
+	"oldstonewall" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/oldstonewall.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "oldstonewall"
+	},
+	"newstonewall" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/newstonewall.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "newstonewall"
+	},
+	"greystone" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/greystone.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "greystone"
+	},
+	"roughmarblefloor" : {
+		"categories" : ["kings", "marble", "floor", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/roughmarblefloor.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "roughmarblefloor"
+	},
+	"stonefacade" : {
+		"categories" : ["kings", "facade", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/stonefacade.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "stonefacade"
+	},
+	"logwall" : {
+		"categories" : ["kings", "wall", "log", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/logwall.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "logwall"
+	},
+	"fishscale" : {
+		"categories" : ["kings", "stone", "tile", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/fishscale.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "fishscale"
+	},
+	"redtiles" : {
+		"categories" : ["kings", "stone", "tile", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/redtiles.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "redtiles"
+	},
+	"varnishedoak" : {
+		"categories" : ["kings", "wall", "log", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/varnishedoak.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "varnishedoak"
+	}
+}

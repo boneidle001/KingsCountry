@@ -1,0 +1,245 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsoncurve",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsoncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsoncurverotated",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsoncurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsoncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsoncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonfourstep",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslab",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslabup",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslabdown",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslope",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonsloperotated",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslopecorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonspike",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsontwostep",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsontwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsontwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsontwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsontwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsontwostepinnercorner" } 
+				]
+	}
+	
+]
+
+

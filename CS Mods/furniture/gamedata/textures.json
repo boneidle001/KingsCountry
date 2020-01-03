@@ -1,0 +1,17 @@
+{
+	
+	"_settings" : {
+		"fileExtension" : ".png",
+		"folderAlbedo" : "./textures/albedo/",
+		"folderHeight" : "./textures/hss/"
+	},
+	
+	"glass" : {
+		"albedo" : "glass",
+		"height" : "glass"
+		},
+	"hangingfish" : {
+		"albedo" : "fish"
+		}
+	
+}

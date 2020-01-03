@@ -1,0 +1,187 @@
+[
+{
+"name": "Windows and Furniture",
+	"description" : "Various windows and decorative furniture",
+	"version": "1.0.2",
+	"enableddefault": true,
+	"compatibleversions": [
+		"0.7.0", "0.7.1","0.7.2"
+	],
+
+"jsonFiles" :
+	[
+	{
+		"fileType" : "addOrOverrideTextureMappingEntries",
+		"index" : -900000,
+		"relativePath" : "gamedata/textures.json"
+	},
+	
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/misc/types.json"
+    },
+    {
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/misc/generateblocks.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+		"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/misc/recipes.json"
+	},
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/furniture/shopfront.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/furniture/shoprecipes.json"
+	},
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/furniture/cc.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/furniture/ccrecipes.json"
+	},
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/furniture/cad.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/furniture/cadrecipes.json"
+	},
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/furniture/bw.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/furniture/bwrecipes.json"
+	},
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/statues/statue.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/statues/statuerecipes.json"
+	},
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/windows/frame.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/windows/framerecipes.json"
+	},
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/windows/modern.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/windows/modernrecipes.json"
+	},
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -900000,
+		"relativePath" : "gamedata/windows/modernglass.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz-",
+			"kings.furniturelegz+",
+			"kings.furniturelegx-",
+			"kings.furniturelegx+"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/windows/modernglassrecipes.json"
+	}
+	]
+}
+]

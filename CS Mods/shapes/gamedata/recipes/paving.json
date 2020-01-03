@@ -1,0 +1,245 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingcurve",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingcurverotated",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingfourstep",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslab",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslabup",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslabdown",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslope",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingsloperotated",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslopecorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingspike",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingtwostep",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingtwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingtwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingtwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingtwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingtwostepinnercorner" } 
+				]
+	}
+	
+]
+
+

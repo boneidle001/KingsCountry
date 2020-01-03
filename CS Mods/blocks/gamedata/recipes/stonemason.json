@@ -1,0 +1,55 @@
+[
+	{
+		"defaultLimit" : 1000,
+		"name": "pipliz.stonemason.paving",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"paving" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "pipliz.stonemason.concrete",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "pipliz.stonemason.whiteconcrete",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"whiteconcrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "pipliz.stonemason.road",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"road" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "pipliz.stonemason.roughplaster",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughplaster" } 
+				]
+	}	
+	
+]
+
+

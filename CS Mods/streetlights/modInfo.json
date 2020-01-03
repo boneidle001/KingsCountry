@@ -1,0 +1,34 @@
+[
+{
+"name": "Lights",
+	"description" : "Adds various new lights more to come",
+	"version": "1.0.0",
+	"enableddefault": true,
+	"compatibleversions": [
+		"0.7.0", "0.7.1","0.7.2"
+	],
+
+"jsonFiles" :
+	[
+        {
+        "fileType" : "addNewTypes",
+        "index" : -999999,
+        "relativePath" : "gamedata/types.json"
+        },
+		{
+		"fileType" : "generateBlocks",
+		"index" : -999999,
+		"relativePath" : "gamedata/generateblocks.json"
+		},
+		{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -999999,
+		"limitsUIMapping" : [
+			"shop"
+			],
+			"npcType" : "pipliz.merchant",
+		"relativePath" : "gamedata/recipes.json"
+	}
+	]
+}
+]

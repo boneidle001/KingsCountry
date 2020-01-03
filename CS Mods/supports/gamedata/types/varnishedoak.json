@@ -1,0 +1,31 @@
+{
+	"varnishedoakbeamv" : {
+		"categories" : ["kings", "wood","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#ffffff"]
+			},
+		"icon" : "../textures/icon/vosupport_01.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/beamv.ply",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "varnishedoak"
+	},
+	
+	"varnishedoakbeam+4" : {
+		"categories" : ["kings", "wood","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#ffffff"]
+			},
+		"icon" : "../textures/icon/vosupport_07.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/beam+4.ply",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "varnishedoak"
+	}	
+}

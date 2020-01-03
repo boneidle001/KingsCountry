@@ -1,0 +1,31 @@
+{
+	"concretebeamv" : {
+		"categories" : ["kings", "wood","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#696969"]
+			},
+		"icon" : "../textures/icon/concrete_01.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/beamv.ply",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "concrete"
+	},
+	
+	"concretebeam+4" : {
+		"categories" : ["kings", "wood","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#696969"]
+			},
+		"icon" : "../textures/icon/concrete_07.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/beam+4.ply",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "concrete"
+	}
+}

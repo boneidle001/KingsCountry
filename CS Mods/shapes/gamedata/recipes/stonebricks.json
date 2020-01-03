@@ -1,0 +1,245 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebrickscurve",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebrickscurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebrickscurverotated",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebrickscurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebrickscurvecorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebrickscurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksfourstep",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslab",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslabup",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslabdown",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslope",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebrickssloperotated",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebrickssloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslopecorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksspike",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebrickstwostep",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebrickstwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebrickstwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebrickstwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebrickstwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebrickstwostepinnercorner" } 
+				]
+	}
+	
+]
+
+

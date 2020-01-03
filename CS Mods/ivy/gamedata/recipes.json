@@ -1,0 +1,72 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.vines",
+		"requires":[
+				{ "amount":5, "type":"bronzecoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"vines" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.ivybase",
+		"requires":[
+				{ "amount":5, "type":"bronzecoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"ivybase" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.ivy",
+		"requires":[
+				{ "amount":5, "type":"bronzecoin" }
+				],
+		"results":[
+				{ "amount":10, "type":"ivy" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name" : "pipliz.merchant.leavesfallred",
+		"requires" : [
+			{"type":"bronzecoin"}
+		],
+		"results" : [
+			{"amount":10,"type":"leavesfallred"}
+		]
+	},
+	{
+		"defaultLimit" : 100,
+		"name" : "pipliz.merchant.leavesfallyellow",
+		"requires" : [
+			{"type":"bronzecoin"}
+		],
+		"results" : [
+			{"amount":10,"type":"leavesfallyellow"}
+		]
+	},
+	{
+		"defaultLimit" : 100,
+		"name" : "pipliz.merchant.leavesgreendark",
+		"requires" : [
+			{"type":"bronzecoin"}
+		],
+		"results" : [
+			{"amount":10,"type":"leavesgreendark"}
+		]
+	},
+	{
+		"defaultLimit" : 100,
+		"name" : "pipliz.merchant.leavesgreenlight",
+		"requires" : [
+			{"type":"bronzecoin"}
+		],
+		"results" : [
+			{"amount":10,"type":"leavesgreenlight"}
+		]
+	}
+]

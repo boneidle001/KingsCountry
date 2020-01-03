@@ -1,0 +1,39 @@
+[
+{
+"name": "Spiral Stairs",
+	"description" : "Spiral stairs which npcs and players can use",
+	"version": "1.0.1",
+	"enableddefault": true,
+	"dllpath" : "SpiralStairs.dll",
+	"compatibleversions": [
+		"0.7.0", "0.7.1","0.7.2"
+	],
+
+"jsonFiles" :
+	[
+	{
+		"fileType" : "generateBlocks",
+		"index" : -999999,
+		"relativePath" : "gamedata/generateblocks.json"
+	},
+	{	"index" : -999999,
+		"fileType" : "overrideTypeProperties",
+		"relativePath" : "gamedata/typeproperties.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -999999,
+		"limitsUIMapping" : [
+			"shop"
+			],
+			"npcType" : "pipliz.merchant",
+		"relativePath" : "gamedata/recipes.json"
+	},
+	{
+        "fileType": "addNewTypes",
+        "index": 10000,
+        "relativePath": "gamedata/types.json"
+    }
+	]
+}
+]

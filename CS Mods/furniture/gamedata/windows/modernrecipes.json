@@ -1,0 +1,64 @@
+[	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowwhite",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"windowwhite" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowscwhite",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"windowscwhite" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowrcwhite",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"windowrcwhite" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowgrey",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"windowgrey" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowscgrey",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"windowscgrey" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.windowrcgrey",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"windowrcgrey" } 
+				]
+	}
+	
+]

@@ -1,0 +1,732 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "curve", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_01.png",
+			"mesh" : "../meshes/curve.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},	
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallcurve"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "curve", "rotated", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_02.png",
+			"mesh" : "../meshes/curve.ply",
+			"meshRotationEuler" : {
+				"x" : 90,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallcurverotated"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "upside", "curve", "rotated", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_05.png",
+			"mesh" : "../meshes/curve.ply",
+			"meshRotationEuler" : {
+				"x" : 270,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallupsidedowncurve"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "curve", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_03.png",
+			"mesh" : "../meshes/curvecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallcurvecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "upside", "curve", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_04.png",
+			"mesh" : "../meshes/curvecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallupsidedowncurvecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "four", "stairs", "step", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_06.png",
+			"mesh" : "../meshes/4step.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallfourstep"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "four", "stairs", "step", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_07.png",
+			"mesh" : "../meshes/4stepcorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallfourstepcorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "four", "stairs", "step", "inner", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_08.png",
+			"mesh" : "../meshes/4stepinnercorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallfourstepinnercorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slab", "step", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_09.png",
+			"mesh" : "../meshes/slab.ply",
+			"meshRotationEuler" : {
+				"x" : 90,
+				"y" : 270,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[0.0, -0.5, -0.5],"max":[0.5, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslab"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slab", "up", "step", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_11.png",
+			"mesh" : "../meshes/slab.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslabup"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slab", "down", "step", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_10.png",
+			"mesh" : "../meshes/slab.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslabdown"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_12.png",
+			"mesh" : "../meshes/slope.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslope"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_23.png",
+			"mesh" : "../meshes/slope.ply",
+			"meshRotationEuler" : {
+				"x" : 90,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallsloperotated"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_19.png",
+			"mesh" : "../meshes/slope.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallupsidedownslope"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_13.png",
+			"mesh" : "../meshes/slopecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, 0.0],"max":[0.0, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslopecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_15.png",
+			"mesh" : "../meshes/slopecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallupsidedownslopecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "corner", "edge", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_14.png",
+			"mesh" : "../meshes/slopecorneredge.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslopecorneredge"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "corner", "edge", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_18.png",
+			"mesh" : "../meshes/slopecorneredge.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallupsidedownslopecorneredge"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "inside", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_16.png",
+			"mesh" : "../meshes/slopeinnercorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslopeinsidecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "inside", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_17.png",
+			"mesh" : "../meshes/slopeinnercorner.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslopeupsidedowninsidecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "inside", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_20.png",
+			"mesh" : "../meshes/slopepeak.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallspike"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_21.png",
+			"mesh" : "../meshes/2step.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwalltwostep"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_22.png",
+			"mesh" : "../meshes/2stepcorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwalltwostepcorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_24.png",
+			"mesh" : "../meshes/2stepinnercorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwalltwostepinnercorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_25.png",
+			"mesh" : "../meshes/slopedangleblock.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "logwallslopedangle"		
+	}
+]

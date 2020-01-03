@@ -1,0 +1,32 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.newstonewallcolumn",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"newstonewallcolumn" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.newstonewallcolumnbase",
+		"requires":[
+				{ "amount":25, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"newstonewallcolumnbase" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.newstonewallcolumntop",
+		"requires":[
+				{ "amount":25, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"newstonewallcolumntop" } 
+				]
+	}
+]

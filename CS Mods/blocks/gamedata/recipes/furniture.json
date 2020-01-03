@@ -1,0 +1,16 @@
+[
+	{
+		"defaultLimit" : 100,
+		"defaultPriority" : -100,
+		"name" : "kc.furniture.barrel",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"amount":10,"type":"coppernails"}
+		],
+		"results" : [
+			{"amount":5,"type":"kings.barrel"}
+		]
+	}
+]
+
+

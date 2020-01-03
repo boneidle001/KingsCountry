@@ -1,0 +1,137 @@
+{
+	"_settings" : {
+		"fileExtension" : ".png",
+		"folderAlbedo" : "./textures/albedo/",
+		"folderNormal" : "./textures/normal/",
+		"folderEmissive" : "./textures/emissive/",
+		"folderHeight" : "./textures/hss/"
+	},
+	
+	"crate" : {
+		"albedo" : "crate",
+		"height" : "crate",
+		"normal" : "crate"
+	},
+	"infiniteclay" : {
+		"albedo" : "oreClay",
+		"height" : "oreClay",
+		"normal" : "oreClay"
+	},
+	"infinitecoal" : {
+		"albedo" : "oreCoal",
+		"height" : "oreCoal",
+		"normal" : "oreCoal"
+	},
+	"infinitecopper" : {
+		"albedo" : "oreCopper",
+		"height" : "oreCopper",
+		"normal" : "oreCopper"
+	},
+	"infinitediamond" : {
+		"albedo" : "oreDiamond",
+		"height" : "oreDiamond",
+		"normal" : "oreDiamond"
+	},
+	"infinitegalena" : {
+		"albedo" : "oreGalena",
+		"height" : "oreGalena",
+		"normal" : "oreGalena"
+	},
+	"infinitegold" : {
+		"albedo" : "oreGold",
+		"height" : "oreGold",
+		"normal" : "oreGold"
+	},
+	"infinitegypsum" : {
+		"albedo" : "oreGypsum",
+		"height" : "oreGypsum",
+		"normal" : "oreGypsum"
+	},
+	"infiniteiron" : {
+		"albedo" : "oreIron",
+		"height" : "oreIron",
+		"normal" : "oreIron",
+	},
+	"infinitesalpeter" : {
+		"albedo" : "oreSalpeter",
+		"height" : "oreSalpeter",
+		"normal" : "oreSalpeter"
+	},
+	"infinitestone" : {
+		"albedo" : "oreStone",
+		"height" : "darkstone",
+		"normal" : "oreStone"
+	},
+	"infinitetin" : {
+		"albedo" : "oreTin",
+		"height" : "oreTin",
+		"normal" : "oreTin"
+	},
+	
+	"grassgeneric" : {
+		"albedo" : "grassgeneric",
+		"emissive" : "grassgeneric",
+		"height" : "grassgeneric"
+		},
+		
+	"leavesgeneric" : {
+		"albedo" : "leavesgeneric",
+		"height" : "leavesTemperate",
+		"normal" : "leavesTemperate"
+	},
+	
+	"leavestaiga" : {
+		"albedo" : "leavesTaiga",
+		"height" : "leavesTaiga",
+		"normal" : "leavesTaiga"
+	},
+	"leavestemperate" : {
+		"albedo" : "leavesTemperate",
+		"height" : "leavesTemperate",
+		"normal" : "leavesTemperate"
+	},
+	
+	"logtaiga" : {
+		"albedo" : "logTaiga",
+		"height" : "logTaiga",
+		"normal" : "logTaiga"
+	},
+	"logtemperate" : {
+		"albedo" : "logTemperate",
+		"height" : "logTemperate",
+		"normal" : "logTemperate"
+		},
+		
+	"stoneblock" : {
+		"albedo" : "stoneblock",
+		"height" : "stoneblock",
+		"normal" : "stoneblock"
+		},
+	"infinitestone" : {
+		"albedo" : "oreStone",
+		"height" : "darkstone",
+		"normal" : "oreStone"
+		},
+		
+	"stonebricks" : {
+		"albedo" : "stoneBricks",
+		"height" : "stoneBricks",
+		"normal" : "stoneBricks"
+	},
+	"stonebricksgeneric" : {
+		"albedo" : "stonebricksgeneric",
+		"height" : "stoneBricks",
+		"normal" : "stoneBricks"
+	},
+	
+	"dirt" : {
+		"albedo" : "dirt",
+		"height" : "dirt",
+		"normal" : "dirt"
+	},
+	"sand" : {
+		"albedo" : "sand",
+		"height" : "sand",
+		"normal" : "sand"
+	}
+}

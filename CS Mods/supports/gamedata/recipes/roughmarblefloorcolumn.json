@@ -1,0 +1,32 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughmarblefloorcolumn",
+		"requires":[
+				{ "amount":5, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":10, "type":"roughmarblefloorcolumn" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughmarblefloorcolumnbase",
+		"requires":[
+				{ "amount":25, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":10, "type":"roughmarblefloorcolumnbase" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roughmarblefloorcolumntop",
+		"requires":[
+				{ "amount":25, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":10, "type":"roughmarblefloorcolumntop" } 
+				]
+	}
+]

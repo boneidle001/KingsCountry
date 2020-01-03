@@ -1,0 +1,225 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "decorative"],
+			"icon" : "./textures/icon/door.png",
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#51483d"]
+				},
+			"mesh" : "./meshes/3door.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"parentType" : "parent.door",
+			"onRemove" : [{"amount":1,"chance":1,"type":"door3"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "door3"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "decorative"],
+			"icon" : "./textures/icon/door.png",
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#51483d"]
+				},
+			"mesh" : "./meshes/3dooropen.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"parentType" : "parent.dooropen",
+			"onRemove" : [{"amount":1,"chance":1,"type":"door3"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "door3open"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "decorative"],
+			"icon" : "./textures/icon/door.png",
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#51483d"]
+				},
+			"mesh" : "./meshes/3x2door.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"parentType" : "parent.door",
+			"onRemove" : [{"amount":1,"chance":1,"type":"door3x2"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "door3x2"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "decorative"],
+			"icon" : "./textures/icon/door.png",
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#51483d"]
+				},
+			"mesh" : "./meshes/3x2dooropen.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"parentType" : "parent.dooropen",
+			"onRemove" : [{"amount":1,"chance":1,"type":"door3x2"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "door3x2open"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "decorative"],
+			"icon" : "./textures/icon/door.png",
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#51483d"]
+				},
+			"mesh" : "./meshes/2door.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"parentType" : "parent.door",
+			"onRemove" : [
+			{"amount":1,"chance":1,"type":"door2"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "door2"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "decorative"],
+			"icon" : "./textures/icon/door.png",
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#51483d"]
+				},
+			"mesh" : "./meshes/2dooropen.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"parentType" : "parent.dooropen",
+			"onRemove" : [{"amount":1,"chance":1,"type":"door2"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "door2open"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "decorative"],
+			"icon" : "./textures/icon/door.png",
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#51483d"]
+				},
+			"mesh" : "./meshes/2x2door.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"parentType" : "parent.door",
+			"onRemove" : [{"amount":1,"chance":1,"type":"door2x2"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "door2x2"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "decorative"],
+			"icon" : "./textures/icon/door.png",
+			"customData" : {
+					"colors":["#ff0000->#ffffff","#00ff00->#51483d"]
+				},
+			"mesh" : "./meshes/2x2dooropen.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"parentType" : "parent.dooropen",
+			"onRemove" : [{"amount":1,"chance":1,"type":"door2x2"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "door2x2open"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "castle", "decorative"],
+			"icon" : "./textures/icon/castledoor.png",
+			"mesh" : "./meshes/3x3castledoor.ply",
+			"customData" : {
+				"useHeightMap" : true
+				},
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonebricks",
+			"parentType" : "parent.door",
+			"onRemove" : [{"amount":1,"chance":1,"type":"castledoor"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "castledoor"
+	},
+	{
+		"baseType" : {
+			"categories" : ["furniture", "door", "castle", "decorative"],
+			"icon" : "./textures/icon/castledoor.png",
+			"mesh" : "./meshes/3x3castledooropen.ply",
+			"customData" : {
+				"useHeightMap" : true
+				},
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonebricks",
+			"parentType" : "parent.dooropen",
+			"onRemove" : [{"amount":1,"chance":1,"type":"castledooropen"}]
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "castledooropen"
+	}
+]

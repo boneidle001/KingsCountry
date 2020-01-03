@@ -1,0 +1,23 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.walltop",
+		"requires":[
+				{ "amount":10, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"walltop" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.displaycase",
+		"requires":[
+				{ "amount":10, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"displaycase" } 
+				]
+	}
+]

@@ -1,0 +1,150 @@
+[
+	{
+		"defaultLimit" : 1,
+		"name": "kc.furniture.kings.bw.throne",
+		"requires":[
+				{ "amount":5, "type":"concrete" },
+				{ "amount":10, "type":"planks" },
+				{ "amount":1000, "type":"feather"}
+				],
+		"results":[
+				{ "amount":1, "type":"slatethrone" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.seat",
+		"requires":[
+				{ "amount":10, "type":"planks" },
+				{ "amount":2000, "type":"feather"}
+				],
+		"results":[
+				{ "amount":5, "type":"seatbw" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.sofa",
+		"requires":[
+				{ "amount":20, "type":"planks" },
+				{ "amount":4000, "type":"feather"}
+				],
+		"results":[
+				{ "amount":5, "type":"sofabw" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.shelves",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.shelves" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.bookshelves",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.bookshelves" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.rug",
+		"requires":[
+				{ "amount":10, "type":"linen" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.rug" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.largecabinet",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.largecabinet" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.kitchencabinet",
+		"requires":[
+				{ "amount":10, "type":"planks" },
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.kitchencabinet" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.chair",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.chair" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.cupboard",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.cupboard" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.table",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.table" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.tablelamp",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.tablelamp" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.kings.bw.largelamp",
+		"requires":[
+				{ "amount":10, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"kings.bw.largelamp" } 
+				]
+	}	
+	
+]

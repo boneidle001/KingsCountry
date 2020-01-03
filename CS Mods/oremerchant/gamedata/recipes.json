@@ -1,0 +1,112 @@
+[
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitecopper",
+		"requires":[
+				{ "amount":10, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitecopper" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitetin",
+		"requires":[
+				{ "amount":10, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitetin" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infiniteiron",
+		"requires":[
+				{ "amount":20, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infiniteiron" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitegypsum",
+		"requires":[
+				{ "amount":20, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitegypsum" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infiniteclay",
+		"requires":[
+				{ "amount":20, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infiniteclay" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitekaolinite",
+		"requires":[
+				{ "amount":30, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitekaolinite" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitediamond",
+		"requires":[
+				{ "amount":30, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitediamond" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitegalena",
+		"requires":[
+				{ "amount":30, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitegalena" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitecoal",
+		"requires":[
+				{ "amount":30, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitecoal" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitesalpeter",
+		"requires":[
+				{ "amount":30, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitesalpeter" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "pipliz.merchant.infinitegold",
+		"requires":[
+				{ "amount":100, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"infinitegold" } 
+				]
+	}
+]

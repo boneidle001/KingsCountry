@@ -1,0 +1,363 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_13.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/throne.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "slatethrone"		
+	},
+	
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_03.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/1seater.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.seat"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_02.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/2seater.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.sofa"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_10.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/shelves.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.shelves"		
+	},
+	
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "book", "shelves", "decorative"],
+			"icon" : "../textures/icon/cc/icon_01.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000"
+					]
+				},
+			"mesh" : "../meshes/bookshelves.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.bookshelves"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_04.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/rug.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.rug"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_11.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/largecabinet.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.largecabinet"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_06.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c",
+						"#0000ff->#e6e6e5"
+						]
+				},
+			"mesh" : "../meshes/kitchencabinet.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.kitchencabinet"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_07.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/chair.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.chair"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_05.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/cupboard.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.cupboard"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_12.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/table.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.table"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_08.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/tablelamp.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.tablelamp"		
+	},
+	
+	{
+	"baseType" : {
+			"categories" : ["kings", "furniture", "red", "decorative"],
+			"icon" : "../textures/icon/cc/icon_09.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#f70000",
+						"#00ff00->#7d7d7c"
+						]
+				},
+			"mesh" : "../meshes/largelamp.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.cc.largelamp"		
+	}
+]

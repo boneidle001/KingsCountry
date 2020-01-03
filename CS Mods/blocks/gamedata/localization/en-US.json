@@ -1,0 +1,76 @@
+{
+	"types":
+	{
+		"kings.tool" : "Kings Tools",
+		
+		"kilndoor" : "Kings Brick Kiln",
+		"kings.carpenter" : "Kings Carpenter",
+		"kings.forge" : "Kings Blacksmith",
+		"kings.furniture" : "Kings Furniture",
+		"kings.brewery" : "Kings Brewery",
+		
+		"paving" : "Paving",
+		"pewter" : "Pewter Paving",
+		"traditional" : "Traditional Paving",
+		"redpaving" : "Red Block Paving",
+		"steelpanelcrimson" : "Crimson Panel",
+		"steelpaneldeepskyblue" : "Sky Blue Panel",
+		"steelpaneldeepgrey" : "Grey Panel",
+		"concrete" : "Concrete",
+		"whiteconcrete" : "White Concrete",
+		"claybrick" : "Clay Brick",
+		"stockbrick" : "Stock Brick",
+		"hardwoodplanks" : "Hard Wood",
+		"brickpath" : "Black Block Paving",
+		"road" : "Road",
+		"polishedplanks" : "Polished Planks",
+		"stonewall" : "Stone Wall",
+		"wornbrickwall" : "Worn Bricks",
+		"roughplaster" : "Rough Plaster",
+		"oldstonewall" : "Old Stone",
+		"newstonewall" : "New Stone",
+		"greystone" : "Grey Stone",
+		"roughmarblefloor" : "Rough Marble",
+		"stonefacade" : "Stone Facade",
+		"logwall" : "Log Wall",
+		"fishscale" : "Fish Scale Tiles",
+		"redtiles" : "Red Tiles",
+		"varnishedoak" : "Vanished Oak",
+		
+		"glass" : "Glass",
+		"emptybottle" : "Empty Bottle",
+		"glasspanel" : "Glass Panel",
+		"kings.barrel" : "Barrel",
+		
+		"honeymead" : "Honey Mead Barrel",
+		"beer" : "Beer Barrel",
+		"ale" : "Ale Barrel",
+		"cider" : "Cider Barrel",
+		"wine" : "Wine Barrel",
+		
+		"bottledhoneymead" : "Honey Mead",
+		"bottledbeer" : "Beer",
+		"bottledale" : "Ale",
+		"bottledcider" : "Cider",
+		"bottledwine" : "Wine",
+		
+		"grapes" : "Grapes",
+		"grapesframe" : "Grape Sappling"
+		
+	},
+	"typeuses":
+	{
+		"kings.tool": "Left click to access the menu.",
+	},
+	"sentences" : {
+		"popup" : {
+			"tooljob" : {
+				"kingstoolheader" : "Kings Country Tools",
+				
+				"grapefarm" : "Grape Farm",
+				"grapefarmer" : "Grape Farmer"
+				
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+[
+{
+"name": "Texture Pack",
+	"description" : "Texture Pack adds new ores, stone, grass, trees",
+	"version": "1.0.0",
+	"enableddefault": true,
+	"compatibleversions": [
+		"0.7.0", "0.7.1","0.7.2"
+	],
+
+"jsonFiles" :
+	[
+        {
+			"fileType" : "addOrOverrideTextureMappingEntries",
+			"index" : -900000,
+			"relativePath" : "gamedata/textures.json"
+		}
+	]
+}
+]

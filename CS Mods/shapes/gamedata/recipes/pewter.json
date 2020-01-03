@@ -1,0 +1,245 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewtercurve",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewtercurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewtercurverotated",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewtercurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewtercurvecorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewtercurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterfourstep",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslab",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslabup",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslabdown",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslope",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewtersloperotated",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewtersloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslopecorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterspike",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewtertwostep",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewtertwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewtertwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewtertwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewtertwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewtertwostepinnercorner" } 
+				]
+	}
+	
+]
+
+

@@ -1,0 +1,43 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.merchant.kings.sapling.gianttemp",
+		"requires" : [
+			{"type":"bronzecoin"}
+		],
+		"results" : [
+			{"type":"kings.sapling.gianttemp"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.merchant.kings.sapling.largetemp",
+		"requires" : [
+			{"type":"bronzecoin"}
+		],
+		"results" : [
+			{"type":"kings.sapling.largetemp"}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.merchant.kings.sapling.bigtemp",
+		"requires" : [
+			{"type":"bronzecoin"}
+		],
+		"results" : [
+			{"type":"kings.sapling.bigtemp"}
+		]
+	},
+	
+	{
+		"defaultLimit" : 0,
+		"name" : "pipliz.merchant.kings.sapling.largetaiga",
+		"requires" : [
+			{"type":"bronzecoin"}
+		],
+		"results" : [
+			{"type":"kings.sapling.largetaiga"}
+		]
+	}
+]

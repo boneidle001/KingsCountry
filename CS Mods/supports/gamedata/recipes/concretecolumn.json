@@ -1,0 +1,32 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretecolumn",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretecolumn" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretecolumnbase",
+		"requires":[
+				{ "amount":25, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretecolumnbase" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretecolumntop",
+		"requires":[
+				{ "amount":25, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretecolumntop" } 
+				]
+	}
+]

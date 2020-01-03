@@ -1,0 +1,52 @@
+[
+	{
+		"data" : {
+			"maskColor1" : "#777777"
+		},
+		"keyName" : "kc.brickmaker",
+		"npcType" : "worker",
+		"printName" : "Brick Maker"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#836953"
+		},
+		"keyName" : "kc.carpenter",
+		"npcType" : "worker",
+		"printName" : "Carpenter"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#836953"
+		},
+		"keyName" : "kc.furniture",
+		"npcType" : "worker",
+		"printName" : "Furniture Maker"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#708090"
+		},
+		"keyName" : "kc.forger",
+		"npcType" : "worker",
+		"printName" : "Forger"
+	},
+	{
+		"data" : {
+			"maskColour1" : "#ffffff"
+			},
+		"keyName" : "kc.brewer",
+		"npcType" : "worker",
+		"printName" : "Brewer"
+	},
+	
+	{
+		"data" : {
+			"maskColour1" : "#696969"
+			},
+		"keyName" : "kc.grapefarmer",
+		"npcType" : "worker",
+		"printName" : "Grape Farmer"
+	},
+	
+]

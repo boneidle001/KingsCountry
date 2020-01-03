@@ -1,0 +1,41 @@
+[	
+	{	
+		"blockType" : "worktable",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "kc.brickmaker"
+	},
+	
+	{	
+		"blockType" : "kings.carpenterleg",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "kc.carpenter"
+	},
+	
+	{	
+		"blockType" : "kings.furnitureleg",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "kc.furniture"
+	},
+	
+	{	
+		"blockType" : "kings.forger",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "kc.forger"
+	},
+	
+	{	
+		"blockType" : "kings.brewery",
+		"cooldown" : 30,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 1,
+		"npcType" : "kc.brewer"
+	}
+]

@@ -1,0 +1,245 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakcurve",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakcurverotated",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakfourstep",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslab",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslabup",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslabdown",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslope",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoaksloperotated",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoaksloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslopecorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakspike",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoaktwostep",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoaktwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoaktwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoaktwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoaktwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoaktwostepinnercorner" } 
+				]
+	}
+	
+]
+
+

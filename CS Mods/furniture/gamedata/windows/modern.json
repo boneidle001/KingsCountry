@@ -1,0 +1,141 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "white", "decorative"],
+			"icon" : "../textures/icon/windowwhite.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#ffffff"
+						]
+				},
+			"mesh" : "../meshes/window.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowwhite"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "white", "decorative"],
+			"icon" : "../textures/icon/windowwhites.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#ffffff"
+						]
+				},
+			"mesh" : "../meshes/windowsquarecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowscwhite"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "white", "decorative"],
+			"icon" : "../textures/icon/windowwhiter.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#ffffff"
+						]
+				},
+			"mesh" : "../meshes/windowroundcorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowrcwhite"		
+	},
+	
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "grey", "decorative"],
+			"icon" : "../textures/icon/windowgrey.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969"
+						]
+				},
+			"mesh" : "../meshes/window.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowgrey"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "grey", "decorative"],
+			"icon" : "../textures/icon/windowgreys.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969"
+						]
+				},
+			"mesh" : "../meshes/windowsquarecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowscgrey"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "grey", "decorative"],
+			"icon" : "../textures/icon/windowgreyr.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969"
+						]
+				},
+			"mesh" : "../meshes/windowroundcorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowrcgrey"		
+	}
+]

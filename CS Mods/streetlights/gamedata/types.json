@@ -1,0 +1,31 @@
+{
+	"streetlight" : {
+		"categories" : ["street", "light", "decorative"],
+		"customData" : {
+		"boxes" : [{"max" : [0.5, 0.5, 0.5], "min" : [-0.5, -0.5, -0.5]}],
+		"torches" : {"a":{"color":"#ffffff","intensity":5,"offsety":2.7,"range":15,"volume":0.5}}
+			},
+		"icon" : "./textures/icon/streetlight.png",
+		"mesh" : "./meshes/streetlight.ply",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete"
+	},
+	
+	"ceilinglight" : {
+		"categories" : ["ceiling", "light", "decorative"],
+		"customData" : {
+		"boxes" : [{"max" : [0.5, 0.5, 0.5], "min" : [-0.5, -0.5, -0.5]}],
+		"colors":["#ff0000->#ffffff", "#00ff00->#c0c0c0", "#0000ff->#696969"],
+		"torches" : {"a":{"color":"#ffffff","intensity":5,"offsety":0.4,"range":10,"volume":0.5}}
+			},
+		"icon" : "./textures/icon/ceilinglight.png",
+		"mesh" : "./meshes/ceilinglight.ply",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete"
+		"sideall" : "neutral"
+	}
+}

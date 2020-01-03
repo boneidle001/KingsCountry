@@ -1,0 +1,109 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "wood","support", "decorative"],
+			"customData" : {
+					"colors":["#ff0000->#ffffff"]
+				},
+			"icon" : "../textures/icon/planks_02.png",
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"needsBase" : false,
+			"mesh" : "../meshes/beamh.ply",
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "beamh"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "wood","support", "decorative"],
+			"customData" : {
+					"colors":["#ff0000->#ffffff"]
+				},
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+			},
+			"icon" : "../textures/icon/planks_03.png",
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"needsBase" : false,
+			"mesh" : "../meshes/beam+1.ply",
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "beam+1"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "wood","support", "decorative"],
+			"customData" : {
+					"colors":["#ff0000->#ffffff"]
+				},
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"icon" : "../textures/icon/planks_05.png",
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"needsBase" : false,
+			"mesh" : "../meshes/beam+2.ply",
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "beam+2"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "wood","support", "decorative"],
+			"customData" : {
+					"colors":["#ff0000->#ffffff"]
+				},
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"icon" : "../textures/icon/planks_06.png",
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"needsBase" : false,
+			"mesh" : "../meshes/beam+3.ply",
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "beam+3"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "wood","support", "decorative"],
+			"customData" : {
+					"colors":["#ff0000->#ffffff"]
+				},
+			"icon" : "../textures/icon/planks_04.png",
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"needsBase" : false,
+			"mesh" : "../meshes/beamt.ply",
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "woodDeleteLight",
+			"sideall" : "planks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "beamt"		
+	}	
+	
+]
+ 

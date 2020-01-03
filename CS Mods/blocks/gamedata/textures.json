@@ -1,0 +1,175 @@
+{
+	
+	"_settings" : {
+		"fileExtension" : ".png",
+		"folderAlbedo" : "./textures/albedo/",
+		"folderHeight" : "./textures/hss/",
+		"folderNormal" : "./textures/normal/",
+		"folderEmissive" : "./textures/emissive/"
+	},
+	
+	"kilndoor" : {
+		"albedo" : "kilndoor",
+		"height" : "kilndoor",
+		"normal" : "kilndoor"
+		},
+	"forgecoals" : {
+		"albedo" : "concrete",
+		"height" : "concrete",
+		"normal" : "concrete",
+		"emmissive" : "torch"
+		},
+	"bronzelight" : {
+		"albedo" : "kilndoor",
+		"height" : "kilndoor",
+		"normal" : "kilndoor",
+		"emissive" : "torch"
+		},
+		
+	"alebarrel" : {
+		"albedo" : "alebarrel",
+		"height" : "hardwoodplanks",
+		"normal" : "alebarrel"
+		},
+	"beerbarrel" : {
+		"albedo" : "beerbarrel",
+		"height" : "hardwoodplanks",
+		"normal" : "beerbarrel"
+		},
+	"ciderbarrel" : {
+		"albedo" : "ciderbarrel",
+		"height" : "hardwoodplanks",
+		"normal" : "ciderbarrel"
+		},
+	"honeybarrel" : {
+		"albedo" : "honeybarrel",
+		"height" : "hardwoodplanks",
+		"normal" : "honeybarrel"
+		},
+	"winebarrel" : {
+		"albedo" : "winebarrel",
+		"height" : "hardwoodplanks",
+		"normal" : "winebarrel"
+		},
+		
+	"paving" : {
+		"albedo" : "paving",
+		"height" : "paving",
+		"normal" : "paving"
+		},
+	"pewter" : {
+		"albedo" : "pewter",
+		"height" : "pewter",
+		"normal" : "pewter"
+		},
+	"redpaving" : {
+		"albedo" : "redpaving",
+		"height" : "redpaving",
+		"normal" : "redpaving"
+		},
+	"traditional" : {
+		"albedo" : "traditional",
+		"height" : "traditional",
+		"normal" : "traditional"
+		},
+	"steelpanel" : {
+		"albedo" : "steelpanelgeneric",
+		"height" : "steelpanelgeneric",
+		"normal" : "steelpanelgeneric"
+		},
+	"concrete" : {
+		"albedo" : "concrete",
+		"height" : "concrete",
+		"normal" : "concrete"
+		},
+	"claybrick" : {
+		"albedo" : "claybrick",
+		"height" : "claybrick",
+		"normal" : "claybrick"
+		},
+	"stockbrick" : {
+		"albedo" : "stockbrick",
+		"height" : "stockbrick",
+		"normal" : "stockbrick"
+		},
+	"hardwoodplanks" : {
+		"albedo" : "hardwoodplanks",
+		"height" : "hardwoodplanks",
+		"normal" : "hardwoodplanks"
+		},
+	"brickpath" : {
+		"albedo" : "brickpath",
+		"height" : "brickpath",
+		"normal" : "brickpath"
+		},
+	"road" : {
+		"albedo" : "road",
+		"height" : "road",
+		"normal" : "road"
+		},
+	"polishedplanks" : {
+		"albedo" : "polishedplanks",
+		"height" : "polishedplanks",
+		"normal" : "polishedplanks"
+		},
+	"stonewall" : {
+		"albedo" : "stonewall",
+		"height" : "stonewall",
+		"normal" : "stonewall"
+		},
+	"wornbrickwall" : {
+		"albedo" : "wornbrickwall",
+		"height" : "wornbrickwall",
+		"normal" : "wornbrickwall"
+		},
+	"roughplaster" : {
+		"albedo" : "roughplaster",
+		"height" : "roughplaster",
+		"normal" : "roughplaster"
+		},
+	"newstonewall" : {
+		"albedo" : "newstonewall",
+		"height" : "newstonewall",
+		"normal" : "newstonewall"
+		},
+	"oldstonewall" : {
+		"albedo" : "oldstonewall",
+		"height" : "oldstonewall",
+		"normal" : "oldstonewall"
+		},
+	"greystone" : {
+		"albedo" : "greystone",
+		"height" : "greystone",
+		"normal" : "greystone"
+		},
+	"roughmarblefloor" : {
+		"albedo" : "roughmarblefloor",
+		"height" : "roughmarblefloor",
+		"normal" : "roughmarblefloor"
+		},
+	"stonefacade" : {
+		"albedo" : "stonefacade",
+		"height" : "stonefacade",
+		"normal" : "stonefacade"
+		},
+	"logwall" : {
+		"albedo" : "logwall",
+		"height" : "logwall",
+		"normal" : "logwall"
+		},
+	"redtiles" : {
+		"albedo" : "redtiles",
+		"height" : "redtiles",
+		"normal" : "redtiles"
+		},
+	"fishscale" : {
+		"albedo" : "fishscale",
+		"height" : "fishscale",
+		"normal" : "fishscale"
+		},
+	"varnishedoak" : {
+		"albedo" : "varnishedoak",
+		"height" : "varnishedoak",
+		"normal" : "varnishedoak"
+		}
+}

@@ -1,0 +1,27 @@
+{
+	"invisible.kiln" : {
+        "isPlaceable" : false,
+        "isSolid" : false,
+        "isDestructible" : false,
+        "blocksPathing" : true,
+        "colliders" : {
+            "boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+            "collidePlayer" : true
+			},
+		"onRemoveAmount" : 0
+		},
+		
+	"kilntables" : {
+		"mesh" : "./meshes/kilntables.ply",
+		"isPlaceable" : false,
+        "isSolid" : false,		
+        "blocksPathing" : true,
+        "isDestructible" : false,
+        "colliders" : {
+            "boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+			"collidePlayer" : true
+			},
+		"onRemoveAmount" : 0,
+		"sideall" : "varnishedoak"
+		}
+}
