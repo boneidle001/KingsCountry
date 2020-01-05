@@ -1,0 +1,38 @@
+[
+	{
+		"defaultLimit" : 10,
+		"name": "kc.glassmaker.glass",
+		"requires":[
+				{ "amount":10, "type":"sand" },
+				{ "amount":2, "type":"coalore" }
+				],
+		"results":[
+				{ "amount":10, "type":"glass" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.glassmaker.empty",
+		"requires":[
+				{ "amount":25, "type":"glass" },
+				{ "amount":4, "type":"coalore" }
+				],
+		"results":[
+				{ "amount":50, "type":"emptybottle" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.glassmaker.glasspanel",
+		"requires":[
+				{ "amount":20, "type":"glass" },
+				{ "amount":4, "type":"coalore" }
+				],
+		"results":[
+				{ "amount":4, "type":"glasspanel" } 
+				]
+	}
+	
+]
+
+

@@ -1,0 +1,122 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "carpenter", "planks", "job"],
+			"icon" : "./textures/icon/glassmaker.png",
+			"mesh" : "./meshes/glassmakerbase.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#c0c0c0"
+					],							
+				"useNormalMap" : true
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "oldstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.glassbase"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/glassmakertable.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#8b4513"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "hardwoodplanks"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.glasstable"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/glassmakertop.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#696b6f",
+					"#00ff00->#a55b53"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "steelpanel"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.glasstop"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/glassmakerpress.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ff5500",
+					"#00ff00->#a55b53"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "neutral"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.glasspress"		
+	}
+]

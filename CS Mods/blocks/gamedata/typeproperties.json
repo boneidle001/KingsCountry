@@ -1,0 +1,92 @@
+{
+	"sand" : {
+		"categories" : [
+			"decorative", "glass"
+		],
+		"customData" : {
+			"minerIsMineable" : true,
+			"minerMiningTime" : 4
+		}
+	},
+	
+	"alkanetstage1" : {
+		"customData" : {
+			"colors" : [
+				"#ff0000->#8fc847",
+				"#0000ff->#8fc847"
+				]
+			},
+		"mesh" : "./meshes/flowerstage2.ply"
+	},
+	"alkanetstage2" : {
+		"customData" : {
+			"colors" : [
+				"#ff0000->#8fc847",
+				"#00ff00->#446bc8",
+				"#0000ff->#efc000"
+				]
+		},
+		"mesh" : "./meshes/flowerstage3.ply"
+	},
+	
+	"hollyhockstage1" : {
+		"customData" : {
+			"colors" : [
+				"#ff0000->#8fc847",
+				"#0000ff->#8fc847"
+				]
+			},
+		"mesh" : "./meshes/flowerstage2.ply"
+
+	},
+	"hollyhockstage2" : {
+		"customData" : {
+			"colors" : [
+				"#ff0000->#8fc847",
+				"#00ff00->#850f18",
+				"#0000ff->#efc000"
+				]
+		},
+		"mesh" : "./meshes/flowerstage3.ply"
+	},
+	
+	"flaxstage1" : {
+		"customData" : {
+			"colors" : [
+				"#ff0000->#8fc847",
+				"#0000ff->#8fc847"
+				]
+			},
+		"mesh" : "./meshes/flowerstage2.ply"
+	},
+	"flaxstage2" : {
+		"customData" : {
+			"colors" : [
+				"#ff0000->#8fc847",
+				"#00ff00->#7e48ed",
+				"#0000ff->#efc000"
+				]
+		},
+		"mesh" : "./meshes/flowerstage3.ply"
+	},
+	
+	"wolfsbanestage1" : {
+		"customData" : {
+			"colors" : [
+				"#ff0000->#8fc847",
+				"#0000ff->#8fc847"
+				]
+		},
+		"mesh" : "./meshes/flowerstage2.ply"
+	},
+	"wolfsbanestage2" : {
+		"customData" : {
+			"colors" : [
+				"#ff0000->#8fc847",
+				"#00ff00->#ecdc02",
+				"#0000ff->#efc000"
+				]
+		},
+		"mesh" : "./meshes/flowerstage3.ply"
+	}
+}

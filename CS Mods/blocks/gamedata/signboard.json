@@ -1,0 +1,200 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "sign", "board", "decoration"],
+			"mesh" : "./meshes/signboard.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useNormalMap" : true
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.sign"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/signboard0101.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					]
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "sign0101"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.sign0101"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/signboard0102.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					]
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "sign0102"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.sign0102"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/signboard0103.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					]
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "sign0103"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.sign0103"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/signboard0201.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					]
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "sign0201"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.sign0201"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/signboard0202.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					]
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "sign0202"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.sign0202"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/signboard0203.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					]
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "sign0203"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.sign0203"		
+	}
+]
