@@ -451,42 +451,435 @@ namespace Shopfront
                 switch (typeNew.Name.Substring(typeNew.Name.Length - 2))
                 {
                     case "z+":
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.shopcoverz-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.shopframez-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.shopcoverz-"));
 
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("kings.shopframez-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("invisible.kiln"));
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "x+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.shopframex-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.shopcoverx-"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "z-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.shopframez+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.shopcoverz+"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "x-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.shopframex+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.shopcoverx+"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+                }
+            }
+
+            if (typeNew == BlockTypes.BuiltinBlocks.Types.air)
+            {
+                switch (typeOld.Name.Substring(typeOld.Name.Length - 2))
+                {
+                    case "z+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "x+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "z-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "x-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+                }
+            }
+
+        }
+    }
+}
+
+namespace Bar
+{
+    [BlockEntityAutoLoader]
+    public class Bar : IChangedWithType, IMultiBlockEntityMapping
+    {
+        public IEnumerable<ItemTypes.ItemType> TypesToRegister { get { return types; } }
+
+        ItemTypes.ItemType[] types = new ItemTypes.ItemType[]
+            {
+                 ItemTypes.GetType("kings.barz+"),
+                 ItemTypes.GetType("kings.barx+"),
+                 ItemTypes.GetType("kings.barz-"),
+                 ItemTypes.GetType("kings.barx-")
+            };
+
+        public void OnChangedWithType(Chunk chunk, BlockChangeRequestOrigin requestOrigin, Vector3Int blockPosition, ItemTypes.ItemType typeOld, ItemTypes.ItemType typeNew)
+        {
+            //OnAdd
+            if (typeOld == BlockTypes.BuiltinBlocks.Types.air)
+            {
+
+                switch (typeNew.Name.Substring(typeNew.Name.Length - 2))
+                {
+                    case "z+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.barframez-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.barcoverz-"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("kings.bartapsz-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("kings.bartapsz-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "x+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.barframex-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.barcoverx-"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("kings.bartapsx-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("kings.bartapsx-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "z-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.barframez+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.barcoverz+"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("kings.bartapsz+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("kings.bartapsz+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "x-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.barframex+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.barcoverx+"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("kings.bartapsx+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("kings.bartapsx+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+                }
+            }
+
+            if (typeNew == BlockTypes.BuiltinBlocks.Types.air)
+            {
+                switch (typeOld.Name.Substring(typeOld.Name.Length - 2))
+                {
+                    case "z+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "x+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "z-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "x-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+                }
+            }
+
+        }
+    }
+}
+
+namespace Bottler
+{
+    [BlockEntityAutoLoader]
+    public class Bottler : IChangedWithType, IMultiBlockEntityMapping
+    {
+        public IEnumerable<ItemTypes.ItemType> TypesToRegister { get { return types; } }
+
+        ItemTypes.ItemType[] types = new ItemTypes.ItemType[]
+            {
+                 ItemTypes.GetType("kings.bottlerz+"),
+                 ItemTypes.GetType("kings.bottlerx+"),
+                 ItemTypes.GetType("kings.bottlerz-"),
+                 ItemTypes.GetType("kings.bottlerx-")
+            };
+
+        public void OnChangedWithType(Chunk chunk, BlockChangeRequestOrigin requestOrigin, Vector3Int blockPosition, ItemTypes.ItemType typeOld, ItemTypes.ItemType typeNew)
+        {
+            //OnAdd
+            if (typeOld == BlockTypes.BuiltinBlocks.Types.air)
+            {
+
+                switch (typeNew.Name.Substring(typeNew.Name.Length - 2))
+                {
+                    case "z+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("beer"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("kings.bottlerlegz-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("kings.bottlerlegz-"), requestOrigin);
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
 
                         break;
 
                     case "x+":
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.shopcoverx-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("wine"));
 
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("kings.shopframex-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("kings.bottlerlegx-"), requestOrigin);
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("kings.bottlerlegx-"), requestOrigin);
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
 
                         break;
 
                     case "z-":
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.shopcoverz+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("honey"));
 
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("kings.bottlerlegz+"), requestOrigin);
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("kings.shopframez+"));
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("kings.bottlerlegz+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("honeybottle"));
 
                         break;
 
                     case "x-":
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.shopcoverx+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("cider"));
 
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("kings.bottlerlegx+"), requestOrigin);
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("kings.shopframex+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("kings.bottlerlegx+"), requestOrigin);
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+                }
+            }
+
+            if (typeNew == BlockTypes.BuiltinBlocks.Types.air)
+            {
+                switch (typeOld.Name.Substring(typeOld.Name.Length - 2))
+                {
+                    case "z+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "x+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "z-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "x-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+                }
+            }
+
+        }
+    }
+}
+
+namespace GlassMaker
+{
+    [BlockEntityAutoLoader]
+    public class Glassmaker : IChangedWithType, IMultiBlockEntityMapping
+    {
+        public IEnumerable<ItemTypes.ItemType> TypesToRegister { get { return types; } }
+
+        ItemTypes.ItemType[] types = new ItemTypes.ItemType[]
+            {
+                 ItemTypes.GetType("kings.glassbasez+"),
+                 ItemTypes.GetType("kings.glassbasex+"),
+                 ItemTypes.GetType("kings.glassbasez-"),
+                 ItemTypes.GetType("kings.glassbasex-")
+            };
+
+        public void OnChangedWithType(Chunk chunk, BlockChangeRequestOrigin requestOrigin, Vector3Int blockPosition, ItemTypes.ItemType typeOld, ItemTypes.ItemType typeNew)
+        {
+            //OnAdd
+            if (typeOld == BlockTypes.BuiltinBlocks.Types.air)
+            {
+
+                switch (typeNew.Name.Substring(typeNew.Name.Length - 2))
+                {
+                    case "z+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.glasstopz+"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("kings.glasstablez+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("kings.glasspressz+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "x+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.glasstopx+"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("kings.glasstablex+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("kings.glasspressx+"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "z-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.glasstopz-"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("kings.glasstablez-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("kings.glasspressz-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+
+                        break;
+
+                    case "x-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.glasstopx-"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("kings.glasspressx-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("kings.glasspressx-"), requestOrigin);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));
 
                         break;
                 }
@@ -757,6 +1150,7 @@ namespace GrapeSeed
             //OnAdd
             if (typeOld == BlockTypes.BuiltinBlocks.Types.air)
                 ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("grapesstage1"));
+                ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("invisible.kiln"));
 
             if (typeNew == BlockTypes.BuiltinBlocks.Types.air)
                 ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
@@ -764,3 +1158,143 @@ namespace GrapeSeed
         }
     }
 }
+
+namespace KingsSign
+{
+    [BlockEntityAutoLoader]
+    public class KingsSign : IChangedWithType, IMultiBlockEntityMapping
+    {
+        public IEnumerable<ItemTypes.ItemType> TypesToRegister { get { return types; } }
+
+        ItemTypes.ItemType[] types = new ItemTypes.ItemType[]
+            {
+                 ItemTypes.GetType("kings.signz+"),
+                 ItemTypes.GetType("kings.signx+"),
+                 ItemTypes.GetType("kings.signz-"),
+                 ItemTypes.GetType("kings.signx-")
+            };
+
+        public void OnChangedWithType(Chunk chunk, BlockChangeRequestOrigin requestOrigin, Vector3Int blockPosition, ItemTypes.ItemType typeOld, ItemTypes.ItemType typeNew)
+        {
+            //OnAdd
+            if (typeOld == BlockTypes.BuiltinBlocks.Types.air)
+            {
+
+                switch (typeNew.Name.Substring(typeNew.Name.Length - 2))
+                {
+                    case "z+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.sign0202z-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0102z-"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("kings.sign0203z-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0103z-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("kings.sign0201z-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0101z-"));
+
+                        break;
+
+                    case "x+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.sign0202x-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0102x-"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("kings.sign0203x-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0103x-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("kings.sign0201x-"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0101x-"));
+
+                        break;
+
+                    case "z-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.sign0202z+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0102z+"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, ItemTypes.GetType("kings.sign0203z+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0103z+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("kings.sign0201z+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0101z+"));
+
+                        break;
+
+                    case "x-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("kings.sign0202x+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0102x+"));
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, ItemTypes.GetType("kings.sign0203x+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0103x+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, ItemTypes.GetType("invisible.kiln"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, ItemTypes.GetType("kings.sign0201x+"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, ItemTypes.GetType("kings.sign0101x+"));
+
+                        break;
+                }
+            }
+
+            if (typeNew == BlockTypes.BuiltinBlocks.Types.air)
+            {
+                switch (typeOld.Name.Substring(typeOld.Name.Length - 2))
+                {
+                    case "z+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "x+":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "z-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.right + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+
+                    case "x-":
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.forward + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up, BlockTypes.BuiltinBlocks.Indices.air);
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.back + Vector3Int.up * 2, BlockTypes.BuiltinBlocks.Indices.air);
+
+                        break;
+                }
+            }
+
+        }
+    }
+}
+

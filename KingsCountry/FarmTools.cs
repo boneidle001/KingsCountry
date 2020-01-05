@@ -40,18 +40,28 @@ namespace KingsTools
                 case 0:
                     data.LocaleEntry = "popup.tooljob.grapefarmer";
                     data.AreaType = "kc.grapefarm";
+                    data.Minimum3DBlockCount = 25;
+                    data.Maximum3DBlockCount = 100;
+                    data.Minimum2DBlockCount = 25;
+                    data.Maximum2DBlockCount = 100;
+                    data.MinimumHeight = 1;
+                    data.MaximumHeight = 3;
+                    data.OneAreaOnly = false;
+                break;
+                case 1:
+                    data.LocaleEntry = "popup.tooljob.applefarmer";
+                    data.AreaType = "kc.applefarm";
+                    data.Minimum3DBlockCount = 50;
+                    data.Maximum3DBlockCount = 100;
+                    data.Minimum2DBlockCount = 50;
+                    data.Maximum2DBlockCount = 100;
+                    data.MinimumHeight = 1;
+                    data.MaximumHeight = 3;
+                    data.OneAreaOnly = false;
                     break;
 
             }
-
-            data.Minimum3DBlockCount = 25;
-            data.Maximum3DBlockCount = 100;
-            data.Minimum2DBlockCount = 25;
-            data.Maximum2DBlockCount = 100;
-            data.MinimumHeight = 1;
-            data.MaximumHeight = 3;
-            data.OneAreaOnly = true;
-
+            
             AreaJobTracker.StartCommandToolSelection(player, data);
         }
 
@@ -67,8 +77,9 @@ namespace KingsTools
             menu.LocalStorage.SetAs("header", Localization.GetSentence(player.LastKnownLocale, "popup.tooljob.kingstoolheader"));
 
             ButtonCallback grapeButton = new ButtonCallback("KC.FarmTools.0", new LabelData(Localization.GetSentence(player.LastKnownLocale, "popup.tooljob.grapefarm"), UnityEngine.Color.black, UnityEngine.TextAnchor.MiddleCenter), -1, 25, ButtonCallback.EOnClickActions.ClosePopup);
+            ButtonCallback appleButton = new ButtonCallback("KC.FarmTools.1", new LabelData(Localization.GetSentence(player.LastKnownLocale, "popup.tooljob.applefarm"), UnityEngine.Color.black, UnityEngine.TextAnchor.MiddleCenter), -1, 25, ButtonCallback.EOnClickActions.ClosePopup);
 
-            HorizontalRow row1 = new HorizontalRow(new List<(IItem, int)> { (grapeButton, 150) });
+            HorizontalRow row1 = new HorizontalRow(new List<(IItem, int)> { (grapeButton, 150), (appleButton, 150) });
             menu.Items.Add(row1);
 
             NetworkMenuManager.SendServerPopup(player, menu);
@@ -97,7 +108,7 @@ namespace KingsTools
                 last_tool.Remove(player.ID);
         }
 
-        [ModLoader.ModCallback(ModLoader.EModCallbackType.OnSendAreaHighlights, "Khanx.AdvancedWand.ShowArea")]
+        [ModLoader.ModCallback(ModLoader.EModCallbackType.OnSendAreaHighlights, "KC.Farmtools.ShowArea")]
         public static void OnSendAreaHighlights(Players.Player player, List<AreaJobTracker.AreaHighlight> list, List<ushort> showWhileHoldingTypes)
         {
             if (null != player)

@@ -55,9 +55,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppleFarm.cs" />
     <Compile Include="BlockBuilder.cs" />
     <Compile Include="FarmTools.cs" />
     <Compile Include="GrapeFarm.cs" />
+    <Compile Include="KingsShops.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
