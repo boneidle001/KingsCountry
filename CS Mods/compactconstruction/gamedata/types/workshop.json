@@ -1,0 +1,65 @@
+{
+	"kings.workshop" : {
+		"categories" : [
+			"construction",
+			"house",
+			"building", 
+			"kings"
+		],
+		"icon" : "../textures/icon/sapling.png",
+		"isRotatable" : true,
+		"isSolid" : false,
+		"needsBase" : true,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "grassDelete",
+		"rotatablex+" : "kings.workshop.east",
+		"rotatablex-" : "kings.workshop.west",
+		"rotatablez+" : "kings.workshop.north",
+		"rotatablez-" : "kings.workshop.south",
+		"sideall" : "neutral"
+	},
+	"kings.workshop.north" : {
+		"mesh" : "../meshes/sapling.ply",
+		"colliders" : {
+			"boxes" : [{"max":[0.25,0,0.25],"min":[-0.25,-0.5,-0.25]}],
+			"collidePlayer" : false
+		},
+		"customData" : {
+			"colors" : ["#ff0000->#542909","#00ff00->#288b57"]
+		},
+		"parentType" : "kings.workshop"
+				},
+	"kings.workshop.east" : {
+		"mesh" : "../meshes/sapling.ply",
+		"colliders" : {
+			"boxes" : [{"max":[0.25,0,0.25],"min":[-0.25,-0.5,-0.25]}],
+			"collidePlayer" : false
+		},
+		"customData" : {
+			"colors" : ["#ff0000->#542909","#00ff00->#288b57"]
+		},
+		"parentType" : "kings.workshop"
+				},
+	"kings.workshop.south" : {
+		"mesh" : "../meshes/sapling.ply",
+		"colliders" : {
+			"boxes" : [{"max":[0.25,0,0.25],"min":[-0.25,-0.5,-0.25]}],
+			"collidePlayer" : false
+		},
+		"customData" : {
+			"colors" : ["#ff0000->#542909","#00ff00->#288b57"]
+		},
+		"parentType" : "kings.workshop"
+				},
+	"kings.workshop.west" : {
+		"mesh" : "../meshes/sapling.ply",
+		"colliders" : {
+			"boxes" : [{"max":[0.25,0,0.25],"min":[-0.25,-0.5,-0.25]}],
+			"collidePlayer" : false
+		},
+		"customData" : {
+			"colors" : ["#ff0000->#542909","#00ff00->#288b57"]
+		},
+		"parentType" : "kings.workshop"
+				}
+}

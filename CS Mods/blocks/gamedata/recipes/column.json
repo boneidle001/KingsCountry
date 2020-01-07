@@ -1,0 +1,101 @@
+[
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kilndoor",
+		"requires":[
+				{ "amount":50, "type":"stonebricks" },
+				{ "amount":50, "type":"planks" },
+				{ "amount":10, "type":"bronzeingot"}
+				],
+		"results":[
+				{ "amount":1, "type":"kilndoor" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.carpenter",
+		"requires":[
+				{ "amount":50, "type":"planks" },
+				{ "amount":10, "type":"coppertools" },
+				{ "amount":50, "type":"coppernails"}
+				],
+		"results":[
+				{ "amount":1, "type":"kings.carpenter" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.furniture",
+		"requires":[
+				{ "amount":50, "type":"planks" },
+				{ "amount":10, "type":"coppertools" },
+				{ "amount":50, "type":"coppernails"}
+				],
+		"results":[
+				{ "amount":1, "type":"kings.furniture" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.forge",
+		"requires":[
+				{ "amount":50, "type":"planks" },
+				{ "amount":10, "type":"coppertools" },
+				{ "amount":2, "type":"bronzeanvil"}
+				],
+		"results":[
+				{ "amount":1, "type":"kings.forge" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.glassmaker",
+		"requires":[
+				{ "amount":50, "type":"stonewall" },
+				{ "amount":10, "type":"steelpaneldeepgrey" },
+				{ "amount":2, "type":"coppertools"}
+				],
+		"results":[
+				{ "amount":1, "type":"kings.glassbase" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.bottler",
+		"requires":[
+				{ "amount":50, "type":"varnishedoak" },
+				{ "amount":10, "type":"plasterblock" },
+				{ "amount":2, "type":"kings.barrel"},
+				{ "amount":50, "type":"emptybottle"}
+				],
+		"results":[
+				{ "amount":1, "type":"kings.bottler" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.brewery",
+		"requires":[
+				{ "amount":50, "type":"varnishedoak" },
+				{ "amount":2, "type":"kings.barrel"},
+				],
+		"results":[
+				{ "amount":1, "type":"kings.brewery" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.bar",
+		"requires":[
+				{ "amount":50, "type":"varnishedoak" },
+				{ "amount":10, "type":"plasterblock" },
+				{ "amount":2, "type":"wine"},
+				],
+		"results":[
+				{ "amount":1, "type":"kings.bar" } 
+				]
+	}
+
+]
+
+
