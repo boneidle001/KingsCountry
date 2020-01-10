@@ -3,6 +3,7 @@
 		"baseType" : {
 			"categories" : ["kings", "forge", "blacksmith", "job"],
 			"mesh" : "./meshes/forgebase.ply",
+			"icon" : "./textures/icon/forge.png",
 			"meshRotationEuler" : {
 				"x" : 0,
 				"y" : 0,

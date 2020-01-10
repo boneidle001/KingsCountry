@@ -27,6 +27,21 @@
 		"foodValue" : 0.12,
 		"happiness" : 10
 	},
+	"appleleaves" : {
+		"categories" : ["kings", "tree", "apple", "leaves"],
+		"icon" : "../textures/icon/apple.png",
+		"destructionTime" : 200,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"customData" : {
+			"attachBehaviour" : [{"id":"leaves"}]
+		},
+		"onRemove" : [
+			{"amount":1,"chance":1,"type":"apple"},
+			{"amount":1,"chance":0.05,"type":"applesapling"}
+		],
+		"sideall" : "appleleaves"
+	},
 	
 	"honeymead" : {
 		"categories" : ["kings", "drink", "barrel", "honey"],
@@ -166,10 +181,9 @@
 		"categories" : ["kings", "drink", "luxury", "honey"],
 		"icon" : "../textures/icon/honeybottle.png",
 		"maxStackSize" : 500,
-		"isPlaceable" : false,
 		"happiness" : 60,
 		"luxuryHours" : 24
-	},
+		},
 	"bottledbeer" : {
 		"categories" : ["kings", "drink", "luxury", "beer"],
 		"icon" : "../textures/icon/beerbottle.png",

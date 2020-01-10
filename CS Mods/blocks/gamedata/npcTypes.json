@@ -1,15 +1,25 @@
 [
 	{
 		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.mayor",
+		"npcType" : "worker",
+		"printName" : "Kings Envoy"
+	},
+
+	{
+		"data" : {
 			"maskColor1" : "#777777"
 		},
 		"keyName" : "kc.brickmaker",
 		"npcType" : "worker",
 		"printName" : "Brick Maker"
 	},
+	
 	{
 		"data" : {
-			"maskColor1" : "#836953"
+			"maskColor1" : "#8b4513"
 		},
 		"keyName" : "kc.carpenter",
 		"npcType" : "worker",
@@ -17,12 +27,13 @@
 	},
 	{
 		"data" : {
-			"maskColor1" : "#836953"
+			"maskColor1" : "#daa520"
 		},
 		"keyName" : "kc.furniture",
 		"npcType" : "worker",
 		"printName" : "Furniture Maker"
 	},
+	
 	{
 		"data" : {
 			"maskColor1" : "#708090"
@@ -31,22 +42,57 @@
 		"npcType" : "worker",
 		"printName" : "Forger"
 	},
+	
 	{
 		"data" : {
-			"maskColour1" : "#ffffff"
+			"maskColor1" : "#800000"
 			},
 		"keyName" : "kc.brewer",
 		"npcType" : "worker",
 		"printName" : "Brewer"
 	},
+	{
+		"data" : {
+			"maskColor1" : "#db7093"
+			},
+		"keyName" : "kc.bar",
+		"npcType" : "worker",
+		"printName" : "Bar Staff"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#db7093"
+			},
+		"keyName" : "kc.bottler",
+		"npcType" : "worker",
+		"printName" : "Bottler"
+	},
 	
 	{
 		"data" : {
-			"maskColour1" : "#696969"
+			"maskColor1" : "#800000"
+			},
+		"keyName" : "kc.glassmaker",
+		"npcType" : "worker",
+		"printName" : "Glass Blower"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#696969"
 			},
 		"keyName" : "kc.grapefarmer",
 		"npcType" : "worker",
 		"printName" : "Grape Farmer"
 	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#7d9631"
+		},
+		"keyName" : "kc.applefarmer",
+		"npcType" : "worker",
+		"printName" : "Apple Farmer"
+	}
 	
 ]

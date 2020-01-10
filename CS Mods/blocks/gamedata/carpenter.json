@@ -2,6 +2,7 @@
 	{
 		"baseType" : {
 			"categories" : ["kings", "carpenter", "planks", "job"],
+			"icon" : "./textures/icon/carpenter.png",
 			"mesh" : "./meshes/carpentertable.ply",
 			"meshRotationEuler" : {
 				"x" : 0,

@@ -1,5 +1,13 @@
 [	
 	{	
+		"blockType" : "kings.column",
+		"cooldown" : 5,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "kc.mayor"
+	},
+
+	{	
 		"blockType" : "worktable",
 		"cooldown" : 5,
 		"jobType" : "craftingblockrotated",
@@ -33,9 +41,39 @@
 	
 	{	
 		"blockType" : "kings.brewery",
-		"cooldown" : 30,
+		"cooldown" : 15,
 		"jobType" : "craftingblockrotated",
 		"maxCraftsPerHaul" : 1,
 		"npcType" : "kc.brewer"
+	},
+	
+	{	
+		"blockType" : "kings.bartaps",
+		"cooldown" : 15,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 5,
+		"npcType" : "kc.bar"
+	},
+	{	
+		"blockType" : "kings.bottlerleg",
+		"cooldown" : 15,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 5,
+		"npcType" : "kc.bottler"
+	},
+	
+	{	
+		"blockType" : "kings.glasstable",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 5,
+		"npcType" : "kc.glassmaker"
+	},
+	{	
+		"blockType" : "kings.glasspress",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 5,
+		"npcType" : "kc.glassmaker"
 	}
 ]

@@ -1,6 +1,17 @@
 [
 	{
 		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.tools",
+		"requires":[
+				{ "amount":100, "type":"berry" },
+				{ "amount":50, "type":"wheat" }
+				],
+		"results":[
+				{ "amount":1, "type":"kings.tool" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
 		"name": "kc.mayor.kilndoor",
 		"requires":[
 				{ "amount":50, "type":"stonebricks" },

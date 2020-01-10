@@ -1,5 +1,9 @@
 {
 	"_settings" : {
+		"defaultAlbedo" : "./textures/albedo/error.png",
+        "defaultEmissive" : "./textures/emissive/neutral.png",
+        "defaultHeight" : "./textures/hss/neutral.png",
+        "defaultNormal" : "./textures/normal/neutral.png",
 		"fileExtension" : ".png",
 		"folderAlbedo" : "./textures/albedo/",
 		"folderNormal" : "./textures/normal/",
@@ -71,7 +75,8 @@
 	"grassgeneric" : {
 		"albedo" : "grassgeneric",
 		"emissive" : "grassgeneric",
-		"height" : "grassgeneric"
+		"height" : "grassgeneric",
+		"normal" : "grassgeneric"
 		},
 		
 	"leavesgeneric" : {

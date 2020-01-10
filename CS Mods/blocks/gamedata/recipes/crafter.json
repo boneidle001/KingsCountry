@@ -1,16 +1,15 @@
 [
 	{
 		"defaultLimit" : 1,
-		"name": "pipliz.crafter.kilndoor",
+		"name": "pipliz.crafter.kings.coulmn",
 		"requires":[
-				{ "amount":100, "type":"wornbrickwall" },
-				{ "amount":10, "type":"varnishedoak" },
-				{ "amount":10, "type":"bronzeingot"}
+				{ "amount":50, "type":"stonebricks" }
 				],
 		"results":[
-				{ "amount":1, "type":"kilndoor" } 
+				{ "amount":1, "type":"kings.column" } 
 				]
 	}
+
 ]
 
 

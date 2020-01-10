@@ -1,4 +1,24 @@
 {		
+	"kings.column" : {
+		"categories" : ["kings", "column", "job", "decorative", "mayor"],
+		"customData" : {
+			"colors":[
+				"#ff0000->#ffd700",
+				"#00ff00->#ffffff"
+				],
+			"useNormalMap" : true,
+			"useHeightMap" : true
+			},
+		"mesh" : "./meshes/kingscolumn.ply",
+		"icon" : "./textures/icon/kingscolumn.png",
+		"isSolid" : true,
+		"maxStackSize" : 10,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "concrete"
+	},
+
 	"paving" : {
 		"categories" : ["kings", "grey", "paving", "decorative"],
 		"customData" : {

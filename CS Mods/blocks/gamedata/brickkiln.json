@@ -32,6 +32,7 @@
 		"baseType" : {
 			"categories" : ["kings", "kiln", "brick", "decorative"],
 			"mesh" : "./meshes/kilndoor.ply",
+			"icon" : "./textures/icon/kiln.png",
 			"meshRotationEuler" : {
 				"x" : 0,
 				"y" : 0,

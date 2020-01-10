@@ -5,8 +5,8 @@
 			
 		],
 		"results" : [
-			{"amount":10,"type":"grapes"},
-			{"chance":0.1,"type":"grapesstage1"}
+			{"amount":5,"type":"grapes"},
+			{"chance":0.01,"type":"grapesstage1"}
 		]
 	}
 ]

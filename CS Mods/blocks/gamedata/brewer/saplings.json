@@ -13,7 +13,7 @@
 		"customData" : {
 			"colors" : ["#ff0000->#542909","#00ff00->#288b57"]
 		},
-		"icon" : "../textures/icon/applesapling.png",
+		"icon" : "../textures/icon/sapling.png",
 		"isSolid" : false,
 		"mesh" : "../meshes/sapling.ply",
 		"needsBase" : true,

@@ -1,12 +1,35 @@
 {
 	
 	"_settings" : {
+		"defaultAlbedo" : "./textures/albedo/error.png",
+        "defaultEmissive" : "./textures/emissive/neutral.png",
+        "defaultHeight" : "./textures/hss/neutral.png",
+        "defaultNormal" : "./textures/normal/neutral.png",
 		"fileExtension" : ".png",
 		"folderAlbedo" : "./textures/albedo/",
 		"folderHeight" : "./textures/hss/",
 		"folderNormal" : "./textures/normal/",
 		"folderEmissive" : "./textures/emissive/"
 	},
+	
+	"sign0101" : {
+		"albedo" : "sign0101"
+		},
+	"sign0102" : {
+		"albedo" : "sign0102"
+		},
+	"sign0103" : {
+		"albedo" : "sign0103"
+		},
+	"sign0201" : {
+		"albedo" : "sign0201"
+		},
+	"sign0202" : {
+		"albedo" : "sign0202"
+		},
+	"sign0203" : {
+		"albedo" : "sign0203"
+		},
 	
 	"kilndoor" : {
 		"albedo" : "kilndoor",
@@ -50,6 +73,12 @@
 		"albedo" : "winebarrel",
 		"height" : "hardwoodplanks",
 		"normal" : "winebarrel"
+		},
+		
+	"appleleaves" : {
+		"albedo" : "appleleaves",
+		"height" : "appleleaves",
+		"normal" : "appleleaves"
 		},
 		
 	"paving" : {

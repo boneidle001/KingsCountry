@@ -5,8 +5,8 @@
 			"mesh" : "../meshes/shopbase.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
-				"y" : 0,
-				"z" : 180
+				"y" : 180,
+				"z" : 0
 				},
 			"customData" : {
 				"colors":[

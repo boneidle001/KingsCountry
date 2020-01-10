@@ -20,7 +20,7 @@
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "throne"		
@@ -46,9 +46,9 @@
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 			
 		},
 		"generateType" : "rotateBlock",
@@ -76,7 +76,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "sofa"		
@@ -103,7 +103,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "shelves"		
@@ -129,7 +129,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "bookshelves"		
@@ -156,7 +156,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "kings.cad.rug"		
@@ -183,7 +183,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "kings.cad.largecabinet"		
@@ -211,7 +211,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "kings.cad.kitchencabinet"		
@@ -238,7 +238,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "kings.cad.chair"		
@@ -265,7 +265,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "kings.cad.cupboard"		
@@ -292,7 +292,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "kings.cad.table"		
@@ -319,7 +319,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "kings.cad.tablelamp"		
@@ -346,7 +346,7 @@
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight",
 			"blocksPathing" : true,
-			"sideall" : "planks"
+			"sideall" : "planksgeneric"
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "kings.cad.largelamp"		

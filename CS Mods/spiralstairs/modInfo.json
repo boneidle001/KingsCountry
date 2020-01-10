@@ -13,16 +13,16 @@
 	[
 	{
 		"fileType" : "generateBlocks",
-		"index" : -999999,
+		"index" : -900000,
 		"relativePath" : "gamedata/generateblocks.json"
 	},
-	{	"index" : -999999,
+	{	"index" : -900000,
 		"fileType" : "overrideTypeProperties",
 		"relativePath" : "gamedata/typeproperties.json"
 	},
 	{
 		"fileType" : "addOrReplaceNPCRecipes",
-		"index" : -999999,
+		"index" : -900000,
 		"limitsUIMapping" : [
 			"shop"
 			],
@@ -31,7 +31,7 @@
 	},
 	{
         "fileType": "addNewTypes",
-        "index": 10000,
+        "index": -900000,
         "relativePath": "gamedata/types.json"
     }
 	]

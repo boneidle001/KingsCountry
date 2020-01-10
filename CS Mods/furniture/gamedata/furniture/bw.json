@@ -5,7 +5,7 @@
 			"icon" : "../textures/icon/bw/icon_13.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -18,7 +18,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete"
@@ -33,7 +33,7 @@
 			"icon" : "../textures/icon/bw/icon_03.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -46,7 +46,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -61,7 +61,7 @@
 			"icon" : "../textures/icon/bw/icon_02.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -74,7 +74,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -89,7 +89,7 @@
 			"icon" : "../textures/icon/bw/icon_10.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -102,7 +102,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -117,7 +117,7 @@
 			"icon" : "../textures/icon/bw/icon_01.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000"
+						"#ff0000->#ffffff"
 					]
 				},
 			"mesh" : "../meshes/bookshelves.ply",
@@ -141,7 +141,7 @@
 			"icon" : "../textures/icon/bw/icon_04.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -154,7 +154,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -169,7 +169,7 @@
 			"icon" : "../textures/icon/bw/icon_11.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -182,7 +182,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -197,7 +197,7 @@
 			"icon" : "../textures/icon/bw/icon_06.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969",
 						"#0000ff->#e6e6e5"
 						]
@@ -211,7 +211,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -226,7 +226,7 @@
 			"icon" : "../textures/icon/bw/icon_07.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -239,7 +239,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -254,7 +254,7 @@
 			"icon" : "../textures/icon/bw/icon_05.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -267,7 +267,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -282,7 +282,7 @@
 			"icon" : "../textures/icon/bw/icon_12.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#000000",
+						"#ff0000->#ffffff",
 						"#00ff00->#696969"
 						]
 				},
@@ -295,7 +295,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -311,7 +311,7 @@
 			"customData" : {
 					"colors":[
 						"#ff0000->#696969",
-						"#00ff00->#000000"
+						"#00ff00->#ffffff"
 						]
 				},
 			"mesh" : "../meshes/tablelamp.ply",
@@ -323,7 +323,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -339,7 +339,7 @@
 			"customData" : {
 					"colors":[
 						"#ff0000->#696969",
-						"#00ff00->#000000"
+						"#00ff00->#ffffff"
 						]
 				},
 			"mesh" : "../meshes/largelamp.ply",
@@ -351,7 +351,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planks",
+			"sideall" : "planksgeneric",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"

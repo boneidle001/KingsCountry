@@ -22,7 +22,7 @@
 	},
 	{
 		"fileType" : "addOrReplaceNPCRecipes",
-		"index" : -999999,
+		"index" : -900000,
 		"limitsUIMapping" : [
 			"shop"
 			],
@@ -30,25 +30,25 @@
 		"relativePath" : "gamedata/recipes.json"
 	},
 	{
-		"relativePath" : "gamedata/saplings.json",
 		"fileType" : "addNewTypes",
-		"index" : -1000000
+		"index" : -900000,
+		"relativePath" : "gamedata/saplings.json"
 	},
 	{
 		"relativePath" : "gamedata/overidetypes.json",
-		"fileType" : "overrideTypeProperties",
-		"index" : 15000
+		"index" : 900000,
+		"fileType" : "overrideTypeProperties"
 	},
 	{
 		"fileType" : "addOrOverrideGrowableTypes",
-		"index" : -1000000,
+		"index" : -900000,
 		"relativePath" : "gamedata/growables.json"
 	},
 	{
-		"relativePath" : "gamedata/recipes_sapling.json",
 		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
 		"npcType" : "pipliz.merchant",
-		"index" : -1000000,
+		"relativePath" : "gamedata/recipes_sapling.json"
 	}
 	]
 }

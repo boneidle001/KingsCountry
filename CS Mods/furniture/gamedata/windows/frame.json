@@ -5,8 +5,7 @@
 			"icon" : "../textures/icon/hardwoodwindow.png",
 			"customData" : {
 					"colors":[
-						"#ff0000->#696969",
-						"#00ff00->#b0c4de"
+						"#ff0000->#ffffff"
 						]
 				},
 			"mesh" : "../meshes/windowframe.ply",

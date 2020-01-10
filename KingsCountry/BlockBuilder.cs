@@ -749,7 +749,7 @@ namespace Bottler
                         break;
 
                     case "z-":
-                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("honey"));
+                        ServerManager.TryChangeBlock(blockPosition + Vector3Int.up, ItemTypes.GetType("honeymead"));
 
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.left, ItemTypes.GetType("kings.bottlerlegz+"), requestOrigin);
                         ServerManager.TryChangeBlock(blockPosition + Vector3Int.left + Vector3Int.up, ItemTypes.GetType("invisible.kiln"));

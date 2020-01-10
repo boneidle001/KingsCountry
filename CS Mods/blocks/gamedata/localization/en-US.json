@@ -2,12 +2,16 @@
 	"types":
 	{
 		"kings.tool" : "Kings Tools",
+		"kings.column" : "Kings Envoy",
 		
 		"kilndoor" : "Kings Brick Kiln",
 		"kings.carpenter" : "Kings Carpenter",
 		"kings.forge" : "Kings Blacksmith",
 		"kings.furniture" : "Kings Furniture",
 		"kings.brewery" : "Kings Brewery",
+		"kings.bottler" : "Kings Bottler",
+		"kings.glassbase" : "Kings Glass Blower",
+		"kings.bar" : "Kings Bar Front",
 		
 		"paving" : "Paving",
 		"pewter" : "Pewter Paving",
@@ -55,12 +59,13 @@
 		"bottledwine" : "Wine",
 		
 		"grapes" : "Grapes",
-		"grapesframe" : "Grape Sappling"
+		"grapesframe" : "Grape Sappling",
+		"apple" : "Apple"
 		
 	},
 	"typeuses":
 	{
-		"kings.tool": "Left click to access the menu.",
+		"kings.tool": "Left click to access the menu."
 	},
 	"sentences" : {
 		"popup" : {
@@ -68,8 +73,29 @@
 				"kingstoolheader" : "Kings Country Tools",
 				
 				"grapefarm" : "Grape Farm",
-				"grapefarmer" : "Grape Farmer"
+				"grapefarmer" : "Grape Farmer",
 				
+				"applefarm" : "Apple Farm",
+				"applefarmer" : "Apple Farmer"
+				
+			},
+			"limits" : {
+				"description" : "Colonists will work until the set amount is reached in the stockpile.",
+				"hoverpriority" : {
+					"a" : "Crafting Priority",
+					"b" : "Recipes with a +++ priority are crafted first.\nRecipes with a + priority are crafted last."
+				},
+				"kc" : {
+			
+				"bar" : "Kings Bar",
+				"bottler" : "kings Bottler",
+				"carpenter" : "Kings Carpenter",
+				"furniture" : "Kings Furniture Maker",
+				"glassmaker" : "Kings Glass Blower",
+				"forger" : "Kings Blacksmith and Forge",
+				"brickmaker" : "Kings Brick Kiln",
+				"mayor" : "Request Jobs From the Kings Envoy"
+				}
 			}
 		}
 	}
