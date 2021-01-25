@@ -3,10 +3,10 @@
 		"defaultLimit" : 10,
 		"name": "pipliz.merchant.grapesbronze",
 		"requires":[
-				{ "amount":1, "type":"bronzecoin" }
+				{ "amount":10, "type":"bronzecoin" }
 				],
 		"results":[
-				{ "amount":1, "type":"grapes" } 
+				{ "amount":10, "type":"grapes" } 
 				]
 	},
 	{
@@ -16,27 +16,27 @@
 				{ "amount":1, "type":"goldcoin" }
 				],
 		"results":[
-				{ "amount":1, "type":"grapes" } 
+				{ "amount":100, "type":"grapes" } 
 				]
 	},
 	{
 		"defaultLimit" : 10,
 		"name": "pipliz.merchant.applebronze",
 		"requires":[
-				{ "amount":20, "type":"bronzecoin" }
+				{ "amount":10, "type":"bronzecoin" }
 				],
 		"results":[
-				{ "amount":1, "type":"apple" } 
+				{ "amount":10, "type":"apple" } 
 				]
 	},
 	{
 		"defaultLimit" : 10,
 		"name": "pipliz.merchant.applegold",
 		"requires":[
-				{ "amount":20, "type":"goldcoin" }
+				{ "amount":1, "type":"goldcoin" }
 				],
 		"results":[
-				{ "amount":1, "type":"apple" } 
+				{ "amount":100, "type":"apple" } 
 				]
 	},
 	{
@@ -46,17 +46,17 @@
 				{ "amount":20, "type":"bronzecoin" }
 				],
 		"results":[
-				{ "amount":1, "type":"cowcarcass" } 
+				{ "amount":10, "type":"cowcarcass" } 
 				]
 	},
 	{
 		"defaultLimit" : 10,
 		"name": "pipliz.merchant.cowcarcassgold",
 		"requires":[
-				{ "amount":30, "type":"goldcoin" }
+				{ "amount":2, "type":"goldcoin" }
 				],
 		"results":[
-				{ "amount":1, "type":"cowcarcass" } 
+				{ "amount":100, "type":"cowcarcass" } 
 				]
 	}
 ]
