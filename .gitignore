@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.sqlite-journal
+/KC Jobs/.vs
+/KC Jobs/bin
+/.vs
+/KC Jobs/obj
+/KC Jobs/Properties
+/KC Jobs/KingsCountry.csproj
+/KC Jobs/KingsCountry.sln
+/KingsCountry/obj
+/KingsCountry/bin
+/KingsCountry/.vs
+/KingsCountry/KingsCountry.sln
