@@ -1,0 +1,175 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "brewer", "job"],
+			"icon" : "../textures/icon/brewer.png",
+			"mesh" : "../meshes/brewer.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useNormalMap" : true
+				},
+			"isPlaceable" : true,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.brewery"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../meshes/barrelstand.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "varnishedoak"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.barrelstand"		
+	},
+	
+	{
+		"baseType" : {
+			"mesh" : "../meshes/bartaps.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useNormalMap" : true
+				},
+			"isPlaceable" : true,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "neutral"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.bartaps"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "shop", "front", "decoration"],
+			"mesh" : "../meshes/shopbase.ply",
+			"icon" : "../textures/icon/bar.png",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#8b4513"
+					],
+				"useNormalMap" : true
+				},
+			"isPlaceable" : true,
+			"isDestructible" : true,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "polishedplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.bar"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../meshes/shopframe.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "varnishedoak"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.barframe"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../meshes/shopcover.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff",
+					"#00ff00->#0000ff"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "neutral"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.barcover"		
+	}
+	
+]

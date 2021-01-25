@@ -1,0 +1,14 @@
+[
+	{
+		"name" : "kc.applefarmer.gather",
+		"requires" : [
+			
+		],
+		"results" : [
+			{"amount":7,"type":"apple"},
+			{"chance":0.001,"type":"applesapling"}
+		]
+	}
+]
+
+

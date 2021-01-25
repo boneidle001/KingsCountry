@@ -1,0 +1,96 @@
+[
+	{
+		"defaultLimit" : 10,
+		"name": "kc.butcher.cowcarcass",
+		"requires":[
+				{ "amount":1, "type":"cowcarcass" }
+				],
+		"results":[
+				{ "amount":25, "type":"mincebeef" },
+				{ "amount":25, "type":"beefjoint" },
+				{ "amount":30, "type":"dicedbeef" },
+				{ "amount":10, "type":"beefcuts" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.butcher.burger",
+		"requires":[
+				{ "amount":1, "type":"mincebeef" }
+				],
+		"results":[
+				{ "amount":10, "type":"rawbeefburger" },
+				{ "amount":10, "type":"beefcuts" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.butcher.meatballs",
+		"requires":[
+				{ "amount":1, "type":"mincebeef" }
+				],
+		"results":[
+				{ "amount":10, "type":"rawmeatballs" },
+				{ "amount":10, "type":"beefcuts" }
+				]
+	},
+	
+	{
+		"defaultLimit" : 10,
+		"name": "kc.butcher.ribeyesteak",
+		"requires":[
+				{ "amount":1, "type":"beefjoint" }
+				],
+		"results":[
+				{ "amount":10, "type":"ribeyesteak" },
+				{ "amount":10, "type":"beefcuts" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.butcher.tbonesteak",
+		"requires":[
+				{ "amount":1, "type":"beefjoint" }
+				],
+		"results":[
+				{ "amount":10, "type":"tbonesteak" },
+				{ "amount":10, "type":"beefcuts" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.butcher.sirlionsteak",
+		"requires":[
+				{ "amount":1, "type":"beefjoint" }
+				],
+		"results":[
+				{ "amount":10, "type":"sirlionsteak" },
+				{ "amount":10, "type":"beefcuts" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.butcher.rumpsteak",
+		"requires":[
+				{ "amount":1, "type":"beefjoint" }
+				],
+		"results":[
+				{ "amount":10, "type":"rumpsteak" },
+				{ "amount":10, "type":"beefcuts" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.butcher.dicedbeef",
+		"requires":[
+				{ "amount":1, "type":"beefjoint" }
+				],
+		"results":[
+				{ "amount":10, "type":"dicedbeef" },
+				{ "amount":10, "type":"beefcuts" }
+				]
+	}
+	
+]
+
+

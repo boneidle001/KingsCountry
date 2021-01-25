@@ -1,0 +1,15 @@
+[
+	{
+		"defaultLimit" : 1,
+		"name": "kc.furniture.kings.shopfront",
+		"requires":[
+				{ "amount":10, "type":"hardwoodplanks" },
+				{ "amount":20, "type":"varnishedoak" },
+				{ "amount":20, "type":"linen"}
+				],
+		"results":[
+				{ "amount":1, "type":"kings.shopfront" } 
+				]
+	}	
+	
+]

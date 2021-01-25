@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1curve",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1curve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1curverotated",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1curverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1upsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1upsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1curvecorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1curvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1upsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1upsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1fourstep",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1fourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1fourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1fourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1fourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1fourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slab",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slabup",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slabdown",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slope",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1sloperotated",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1sloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1upsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1upsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slopecorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1upsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1upsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1upsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1upsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1spike",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1spike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1twostep",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1twostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1twostepcorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1twostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1twostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1twostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.gravel1slopedangle",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1slopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedowngravel1slopedangle",
+		"requires":[
+				{ "amount":2, "type":"gravel1" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedowngravel1slopedangle" } 
+				]
+	}
+	
+]
+
+

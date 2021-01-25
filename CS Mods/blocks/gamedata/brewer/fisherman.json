@@ -1,0 +1,96 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "carpenter", "planks", "job"],
+			"icon" : "../textures/icon/boat.png",
+			"mesh" : "../meshes/fishdock.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : false
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useNormalMap" : true,
+				"useHeightMap" : true
+				},
+			"isSolid" : false,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.docks"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../meshes/fishboat.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "varnishedoak"
+			},
+		"generateType" : "rotateBlock",
+		"litTypeCustomData" : {
+			},
+		"typeName" : "kings.boatfisher"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../meshes/fishtop.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.0,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : false
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : false,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "fishtop"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.fishtop"		
+	}
+]

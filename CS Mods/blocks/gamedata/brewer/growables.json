@@ -1,0 +1,33 @@
+[
+	{
+		"growthType" : "FirstNightRandom",
+		"identifier" : "grapesstage",
+		"patchType" : "simpleStages",
+		"stages" : [
+			{"type":"grapesstage1"},
+			{"type":"grapesstage2"},
+			{"type":"grapesstage3"},
+			{"type":"grapesstage4"},
+			{"type":"grapesstage5"},
+			{"type":"grapesstage6"},
+			{"type":"grapesstage7"}
+			]
+	},
+	
+	{
+		"blocks" : [
+			{"blocks":[{"x":-3,"y":3,"z":-1},{"x":-3,"y":3,"z":0},{"x":-3,"y":3,"z":1},{"x":-2,"y":4,"z":0},{"x":-2,"y":4,"z":1},{"x":-1,"y":3,"z":-3},{"x":-1,"y":3,"z":3},{"x":-1,"y":4,"z":-2},{"x":-1,"y":4,"z":-1},{"x":-1,"y":4,"z":0},{"x":-1,"y":4,"z":1},{"x":-1,"y":4,"z":2},{"x":-1,"y":5,"z":0},{"x":0,"y":3,"z":-3},{"x":0,"y":4,"z":-1},{"x":0,"y":4,"z":1},{"x":0,"y":4,"z":2},{"x":0,"y":5,"z":-1},{"x":0,"y":5,"z":0},{"x":0,"y":5,"z":1},{"x":1,"y":3,"z":-3},{"x":1,"y":3,"z":3},{"x":1,"y":4,"z":-2},{"x":1,"y":4,"z":-1},{"x":1,"y":4,"z":0},{"x":1,"y":4,"z":1},{"x":1,"y":4,"z":2},{"x":2,"y":3,"z":-2},{"x":2,"y":3,"z":2},{"x":2,"y":4,"z":0},{"x":3,"y":3,"z":-1},{"x":3,"y":3,"z":0},{"x":3,"y":3,"z":1}],"type":"leavestemperate"},
+			{"blocks":[{"x":-2,"y":3,"z":-2},{"x":-2,"y":3,"z":-1},{"x":-2,"y":3,"z":0},{"x":-2,"y":3,"z":1},{"x":-2,"y":3,"z":2},{"x":-2,"y":4,"z":-1},{"x":-1,"y":3,"z":-2},{"x":-1,"y":3,"z":2},{"x":0,"y":3,"z":-2},{"x":0,"y":3,"z":2},{"x":0,"y":3,"z":3},{"x":0,"y":4,"z":-2},{"x":1,"y":3,"z":-2},{"x":1,"y":3,"z":2},{"x":1,"y":5,"z":0},{"x":2,"y":3,"z":-1},{"x":2,"y":3,"z":0},{"x":2,"y":3,"z":1},{"x":2,"y":4,"z":-1},{"x":2,"y":4,"z":1}],"type":"appleleaves"},
+			{"blocks":[{"x":0,"y":0,"z":0},{"x":0,"y":1,"z":0},{"x":0,"y":2,"z":0},{"x":0,"y":3,"z":0},{"x":0,"y":4,"z":0}],"type":"logtemperate"}
+			],
+		"growthType" : "Always",
+		"identifier" : "applesapling",
+		"patchType" : "saplingType",
+		"randomGrowthStartMax" : 0.42857,
+		"saplingStage" : {
+			"growthTime" : 21,
+			"type" : "applesapling"
+		}
+	
+	}
+]

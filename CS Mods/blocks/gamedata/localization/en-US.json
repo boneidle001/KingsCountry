@@ -1,0 +1,179 @@
+{
+	"types":
+	{
+		"kings.tool" : "Kings Tools",
+		"kings.column" : "Kings Envoy",
+		
+		"kilndoor" : "Kings Brick Kiln",
+		"kings.carpenter" : "Kings Carpenter",
+		"kings.forge" : "Kings Blacksmith",
+		"kings.furniture" : "Kings Furniture",
+		"kings.brewery" : "Kings Brewery",
+		"kings.bottler" : "Kings Bottler",
+		"kings.glassbase" : "Kings Glass Blower",
+		"kings.bar" : "Kings Bar Front",
+		"kings.butcher" : "Kings Butcher",
+		"kings.docks" : "Kings Docks",
+		"kings.smoker" : "Kings Smoker",
+		"kings.ovendoor" : "Kings Kitchen",
+				
+		"paving" : "Paving",
+		"pewter" : "Pewter Paving",
+		"traditional" : "Traditional Paving",
+		"redpaving" : "Red Block Paving",
+		"steelpanelcrimson" : "Crimson Panel",
+		"steelpaneldeepskyblue" : "Sky Blue Panel",
+		"steelpaneldeepgrey" : "Grey Panel",
+		"concrete" : "Concrete",
+		"whiteconcrete" : "White Concrete",
+		"claybrick" : "Clay Brick",
+		"stockbrick" : "Stock Brick",
+		"hardwoodplanks" : "Hard Wood",
+		"brickpath" : "Black Block Paving",
+		"road" : "Road",
+		"polishedplanks" : "Polished Planks",
+		"stonewall" : "Stone Wall",
+		"wornbrickwall" : "Worn Bricks",
+		"roughplaster" : "Rough Plaster",
+		"oldstonewall" : "Old Stone",
+		"newstonewall" : "New Stone",
+		"greystone" : "Grey Stone",
+		"roughmarblefloor" : "Rough Marble",
+		"stonefacade" : "Stone Facade",
+		"logwall" : "Log Wall",
+		"fishscale" : "Fish Scale Tiles",
+		"redtiles" : "Red Tiles",
+		"varnishedoak" : "Vanished Oak",
+		"bandedplanks" : "Banded Planks",
+		"pineplanks" : "Pine Planks",
+		"polishedpine" : "Polished Pine",
+		"woodentile" : "Wood Shingles",
+		"gravel" : "Red Gravel",
+		"gravel1" : "Grey Gravel",
+		"greytile" : "Grey Tiles",
+		"leafytile" : "Leafy Tiles",
+		"stonewall2" : "Fort Stone Wall",
+		"stonewall3" : "Rough Stone Wall",
+		"stonewall4" : "Castle Stone Wall",
+		"oldpath" : "Old Stone Path",
+		"planks1" : "Rough Planks",
+		"woodpanel" : "Wood Panel",
+		"tatami" : "Tatami Mat",
+		"irondoor" : "Iron Door",
+		
+		"glass" : "Glass",
+		"emptybottle" : "Empty Bottle",
+		"glasspanel" : "Glass Panel",
+		"kings.barrel" : "Barrel",
+		
+		"honeymead" : "Honey Mead Barrel",
+		"beer" : "Beer Barrel",
+		"ale" : "Ale Barrel",
+		"cider" : "Cider Barrel",
+		"wine" : "Wine Barrel",
+		
+		"bottledhoneymead" : "Honey Mead",
+		"bottledbeer" : "Beer",
+		"bottledale" : "Ale",
+		"bottledcider" : "Cider",
+		"bottledwine" : "Wine",
+		
+		"grapes" : "Grapes",
+		"grapesframe" : "Grape Sappling",
+		"apple" : "Apple",
+
+		"cow1" : "Calf",
+		"salmon" : "Salmon",
+		"crab" : "Crab",
+
+		"crabcage" : "Crab Cage",
+		"featherlure" : "Feather Lure",
+
+		"mincebeef" : "Minced Beef",
+		"rawbeefburger" : "Raw Beef Burger",
+		"rawmeatballs" : "Raw Beef Meatballs",
+		"ribeyesteak" : "Raw Ribeye Steak",
+		"tbonesteak" : "Raw T-Bone Steak",
+		"sirlionsteak" : "Raw Sirlion Steak",
+		"rumpsteak" : "Raw Rump Steak",
+		"dicedbeef" : "Raw Diced Beef",
+		"beefjoint" : "Raw Beef Joint",
+		"beefcuts" : "Raw Beef Cuts",
+
+		"smokedsalmon" : "Smoke Salmon",
+		"cookedcrab" : "Prepared Crab",
+		"crabsalad" : "Crab Salad",
+		"fishsoup" : "Fish Soup",
+		"fishpie" : "Ocean Pie",
+		"bakedpotato" : "Baked Potato with Cheese",
+		"chickenjerky" : "Kings Chicken Jerky",
+		"beefjerky" : "Kings Beef Jerky",
+		"steakpie" : "Steak Pie",
+		"beefstew" : "Beef Bourguignon",
+		"beefcurry" : "Beef Curry and Rice",
+		"cottagepie" : "Cottage Pie",
+		"enchilada" : "Enchilada",
+		"beefburger" : "Beef Burger and Chips",
+		"meatballs" : "Spaghetti and Meatballs",
+		"roastbeef" : "Roast Beef Dinner",
+		"tbone" : "8oz T-Bone and Salad",
+		"ribeye" : "8oz Ribeye and Chips",
+		"sirlion" : "10oz Sirlion and Salad",
+		"rump" : "10oz Rump and Fried Rice",
+		"milk" : "Milk",
+		"cheese" : "Cheese",
+		"mixedgrill" : "Mixed Grill"
+		
+	},
+	"typeuses":
+	{
+		"kings.tool": "A Relic from the past which no longer has any uses except taking space in your inventory and wasting resources"
+	},
+	"sentences" : {
+		"popup" : {
+			"tooljob" : {
+				"kingstoolheader" : "Kings Country Tools",
+				
+				"kcbuttona" : "Kings Country Farms",
+				"kcbuttonb" : "New farms from Kings Country Mod",
+				
+				"grapefarm" : "Grape Farm",
+				"grapefarmb" : "grows grapes",
+				"grapefarmer" : "Grape Farmer",
+				
+				"applefarm" : "Apple Farm",
+				"applefarmb" : "grows apples",
+				"applefarmer" : "Apple Farmer",
+
+				"cowfarm" : "Cattle Ranch",
+				"cowfarmb" : "for milk and beef",
+				"cowfarmer" : "Rancher"
+				
+			},
+			"limits" : {
+				"description" : "Colonists will work until the set amount is reached in the stockpile.",
+				"hoverpriority" : {
+					"a" : "Crafting Priority",
+					"b" : "Recipes with a +++ priority are crafted first.\nRecipes with a + priority are crafted last."
+				},
+				"kc" : {
+			
+				"bar" : "Kings Bar",
+				"bottler" : "kings Bottler",
+				"carpenter" : "Kings Carpenter",
+				"furniture" : "Kings Furniture Maker",
+				"glassmaker" : "Kings Glass Blower",
+				"forger" : "Kings Blacksmith and Forge",
+				"brickmaker" : "Kings Brick Kiln",
+				"mayor" : "Request Jobs From the Kings Envoy",
+				"dockworker" : "Kings Docks",
+				"boatfisher" : "Kings Fisherman",
+				"smoker" : "Kings Smoker",
+				"baker" : "Kings Baker",
+				"chef" : "Kings Chef",
+				"butcher" : "Kings Butcher"
+				}
+			}
+		}
+	}
+}

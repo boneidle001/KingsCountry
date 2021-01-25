@@ -1,0 +1,78 @@
+[
+	{
+		"defaultLimit" : 10,
+		"name": "kc.bottler.bottledhoney",
+		"requires":[
+				{ "amount":1, "type":"honeymead" },
+				{ "amount":50, "type":"emptybottle" }
+				],
+		"results":[
+				{ "amount":50, "type":"bottledhoneymead" },
+				{ "amount":1, "isOptional":true, "type":"kings.barrel" }
+				]
+	},
+	
+	{
+		"defaultLimit" : 10,
+		"name": "kc.bottler.bottledhoney",
+		"requires":[
+				{ "amount":1, "type":"honeymead" },
+				{ "amount":50, "type":"emptybottle" }
+				],
+		"results":[
+				{ "amount":50, "type":"bottledhoneymead" },
+				{ "amount":1, "isOptional":true, "type":"kings.barrel" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.bottler.bottledbeer",
+		"requires":[
+				{ "amount":1, "type":"beer" },
+				{ "amount":50, "type":"emptybottle" }
+				],
+		"results":[
+				{ "amount":50, "type":"bottledbeer" },
+				{ "amount":1, "isOptional":true, "type":"kings.barrel" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.bottler.bottledale",
+		"requires":[
+				{ "amount":1, "type":"ale" },
+				{ "amount":50, "type":"emptybottle" }
+				],
+		"results":[
+				{ "amount":50, "type":"bottledale" },
+				{ "amount":1, "isOptional":true, "type":"kings.barrel" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.bottler.bottledcider",
+		"requires":[
+				{ "amount":1, "type":"cider" },
+				{ "amount":50, "type":"emptybottle" }
+				],
+		"results":[
+				{ "amount":50, "type":"bottledcider" },
+				{ "amount":1, "isOptional":true, "type":"kings.barrel" }
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.bottler.bottledwine",
+		"requires":[
+				{ "amount":1, "type":"wine" },
+				{ "amount":50, "type":"emptybottle" }
+				],
+		"results":[
+				{ "amount":50, "type":"bottledwine" },
+				{ "amount":1, "isOptional":true, "type":"kings.barrel" } 
+				]
+	}
+	
+]
+
+

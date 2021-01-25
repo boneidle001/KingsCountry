@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinecurve",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinecurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinecurverotated",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinecurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinecurvecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinecurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinefourstep",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinefourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinefourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinefourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinefourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinefourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslab",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslabup",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslabdown",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslope",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinesloperotated",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinesloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslopecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinespike",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinespike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinetwostep",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinetwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinetwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinetwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpinetwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpinetwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedpineslopedangle",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedpineslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownpolishedpineslopedangle",
+		"requires":[
+				{ "amount":2, "type":"polishedpine" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownpolishedpineslopedangle" } 
+				]
+	}
+	
+]
+
+

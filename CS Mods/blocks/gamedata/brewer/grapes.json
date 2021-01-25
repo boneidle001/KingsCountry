@@ -1,0 +1,162 @@
+{		
+	"kings.tool" : {
+		"categories" : ["kings", "tool", "grape"],
+		"icon" : "../textures/icon/kingstools.png",
+		"maxStackSize" : 1,
+		"isPlaceable" : false
+		},
+		
+	"grapes" : {
+		"categories" : ["food", "edible", "kings", "grape"],
+		"icon" : "../textures/icon/grapes.png",
+		"maxStackSize" : 5000,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 10,
+	},
+	
+	"grapesframe" : {
+		"categories" : ["kings", "food", "grape", "seed", "ingredient"],
+		"customData" : {
+					"colors":[
+						"#ff0000->#ffffff",
+						"#00ff00->#af69ee"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+		"mesh" : "../meshes/grapesframe.ply",
+		"requiresFertileBelow" : true,
+		"isdestructable" : true,
+		"isSolid" : true,
+		"isfertile" : true,
+		"blocksPathing" : true,
+		"collidePlayer" : true,
+		"onPlaceAudio" : "grassDelete",
+		"onRemoveAmount" : 1,
+		"onRemoveAudio" : "grassDelete",
+		"sideall" : "hardwoodplanks"
+	},
+	"grapesstage" : {
+		"isSolid" : false,
+		"maxStackSize" : 2000,
+		"needsBase" : true,
+		"onPlaceAudio" : "grassDelete",
+		"onRemoveAudio" : "grassDelete"
+	},
+	
+	"grapesstage1" : {
+		"categories" : ["kings", "food", "grape", "seed"],
+		"customData" : {
+					"colors":[
+						"#ff0000->#a7bd83"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+		"mesh" : "../meshes/grapesstage1.ply",
+		"isSolid" : true,
+		"blocksPathing" : true,
+		"collidePlayer" : true,
+		"onRemoveAmount" : 0,
+		"parentType" : "grapesstage",
+		"requiresFertileBelow" : true,
+		"sideall" : "leavesgeneric"
+	},
+	"grapesstage2" : {
+		"mesh" : "../meshes/grapesstage2.ply",
+		"customData" : {
+					"colors":[
+						"#ff0000->#a7bd83"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+		"isSolid" : false,
+		"blocksPathing" : true,
+		"collidePlayer" : true,
+		"onRemoveAmount" : 0,
+		"parentType" : "grapesstage",
+		"requiresFertileBelow" : true,
+		"sideall" : "leavesgeneric"
+	},
+	"grapesstage3" : {
+		"mesh" : "../meshes/grapesstage3.ply",
+		"customData" : {
+					"colors":[
+						"#ff0000->#a7bd83"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+		"isSolid" : false,
+		"blocksPathing" : true,
+		"collidePlayer" : true,
+		"onRemoveAmount" : 0,
+		"parentType" : "grapesstage",
+		"requiresFertileBelow" : true,
+		"sideall" : "leavesgeneric"
+	},
+	"grapesstage4" : {
+		"mesh" : "../meshes/grapesstage4.ply",
+		"customData" : {
+					"colors":[
+						"#ff0000->#a7bd83"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+		"isSolid" : false,
+		"blocksPathing" : true,
+		"collidePlayer" : true,
+		"onRemoveAmount" : 0,
+		"parentType" : "grapesstage",
+		"requiresFertileBelow" : true,
+		"sideall" : "leavesgeneric"
+	},
+	"grapesstage5" : {
+		"mesh" : "../meshes/grapesstage5.ply",
+		"customData" : {
+					"colors":[
+						"#ff0000->#a7bd83",
+						"#00ff00->#5c902e"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+		"isSolid" : false,
+		"blocksPathing" : true,
+		"collidePlayer" : true,
+		"onRemoveAmount" : 0,
+		"requiresFertileBelow" : true,
+		"sideall" : "leavesgeneric"
+	},
+	"grapesstage6" : {
+		"mesh" : "../meshes/grapesstage5.ply",
+		"customData" : {
+					"colors":[
+						"#ff0000->#a7bd83",
+						"#00ff00->#6e529b"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+		"isSolid" : false,
+		"blocksPathing" : true,
+		"collidePlayer" : true,
+		"onRemoveAmount" : 0,
+		"parentType" : "grapesstage",
+		"requiresFertileBelow" : true,
+		"sideall" : "leavesgeneric"
+	},
+	"grapesstage7" : {
+		"mesh" : "../meshes/grapesstage5.ply",
+		"customData" : {
+					"colors":[
+						"#ff0000->#a7bd83",
+						"#00ff00->#800080"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+		"isSolid" : false,
+		"blocksPathing" : true,
+		"collidePlayer" : true,
+		"onRemoveAmount" : 0,
+		"parentType" : "grapesstage",
+		"requiresFertileBelow" : true,
+		"sideall" : "leavesgeneric"
+	}
+	
+}

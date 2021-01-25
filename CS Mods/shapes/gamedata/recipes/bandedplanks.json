@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplankscurve",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplankscurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplankscurverotated",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplankscurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplankscurvecorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplankscurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksfourstep",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslab",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslabup",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslabdown",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslope",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplankssloperotated",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplankssloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslopecorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksspike",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplankstwostep",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplankstwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplankstwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplankstwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplankstwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplankstwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.bandedplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"bandedplanksslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownbandedplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"bandedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownbandedplanksslopedangle" } 
+				]
+	}
+	
+]
+
+

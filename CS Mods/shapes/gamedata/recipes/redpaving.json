@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingcurve",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingcurverotated",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingfourstep",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslab",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslabup",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslabdown",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslope",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingsloperotated",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslopecorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingspike",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingtwostep",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingtwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingtwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingtwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingtwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingtwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslopedangle",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownredpavingslopedangle",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownredpavingslopedangle" } 
+				]
+	}
+	
+]
+
+

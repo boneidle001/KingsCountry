@@ -1,0 +1,81 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "wood", "decorative"],
+			"icon" : "../textures/icon/hardwoodwindow.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#ffffff"
+						]
+				},
+			"mesh" : "../meshes/windowframe.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"blocksPathing" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "hardwoodwindow"		
+	},
+	
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "concrete", "decorative"],
+			"icon" : "../textures/icon/concretewindow.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969"
+						]
+				},
+			"mesh" : "../meshes/windowframe.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"blocksPathing" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "concretewindow"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "concrete", "decorative"],
+			"icon" : "../textures/icon/whiteconcretewindow.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#ffffff"
+						]
+				},
+			"mesh" : "../meshes/windowframe.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"blocksPathing" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "whiteconcretewindow"		
+	}
+]

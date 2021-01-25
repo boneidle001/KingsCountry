@@ -1,0 +1,176 @@
+{
+	"defaults" : {
+		"console" : "king",
+		"localhost" : "localhost",
+		"normal" : "serf",
+		"permissions" : [
+			"printbiome",
+			"getlimit",
+			"setlimit",
+			"resetlimit",
+			"loot",
+			"reloadvariablesserver",
+			"teleport",
+			"teleport.position",
+			"teleport.banner",
+			"time",
+			"time.add",
+			"permissions",
+			"permissions.setgroup",
+			"permissions.addgroup",
+			"permissions.addpermission",
+			"permissions.removegroup",
+			"permissions.removepermission",
+			"permissions.reload",
+			"health.set",
+			"setflight",
+			"deusvult.self",
+			"deusvult.other",
+			"cheats.enable",
+			"whitelist.add",
+			"blacklist.add",
+			"whitelist.remove",
+			"blacklist.remove"
+			
+		]
+	},
+	"king" : {
+		"permissions" : [
+			"time",
+			"time.add",
+			"health.set",
+			"setflight",
+			"teleport.self",
+			"teleport.position",
+			"teleport.banner",
+			"mods.scarabol.commands.warp.self",
+			"mods.scarabol.commands.warp.banner",
+			"mods.scarabol.commands.warp.spawn.self",
+			"mods.scarabol.commands.warp.place",
+			"printbiome",
+			"getlimit",
+			"setlimit",
+			"resetlimit",
+			"loot",
+			"permissions.addgroup.lord",
+			"permissions.removegroup.lord",
+			"whitelist.add",
+			"whitelist.remove",
+			"blacklist.add",
+			"blacklist.remove",
+			"mods.scarabol.commands.betterchat.name.king",
+			"mods.scarabol.purgebanner",
+			"mods.scarabol.commands.colonistcapacity.tier7",
+			""
+		]
+	},
+	"lord" : {
+		"permissions" : [
+			"setflight",
+			"teleport.self",
+			"teleport.position",
+			"teleport.banner",
+			"mods.scarabol.commands.warp.self",
+			"mods.scarabol.commands.warp.banner",
+			"mods.scarabol.commands.warp.spawn.self",
+			"mods.scarabol.commands.warp.place",
+			"teleport",
+			"permissions.addgroup.peasant",
+			"permissions.addgroup.serf",
+			"permissions.addgroup.peasant",
+			"permissions.addgroup.mayor",
+			"permissions.addgroup.duke",
+			"permissions.removegroup.peasant",
+			"permissions.removegroup.serf",
+			"permissions.removegroup.peasant",
+			"permissions.removegroup.mayor",
+			"permissions.removegroup.duke",
+			"mods.scarabol.commands.betterchat.name.lord",
+			"mods.scarabol.commands.ban",
+			"mods.scarabol.commands.kick",
+			"mods.scarabol.commands.colonistcapacity.tier6"
+		]
+	},
+	"duke" : {
+		"permissions" : [
+			"setflight",
+			"teleport.self",
+			"teleport.position",
+			"teleport.banner",
+			"mods.scarabol.commands.warp.self",
+			"mods.scarabol.commands.warp.banner",
+			"mods.scarabol.commands.warp.spawn.self",
+			"mods.scarabol.commands.warp.place",
+			"mods.scarabol.commands.betterchat.name.duke",
+			"mods.scarabol.commands.colonistcapacity.tier5"
+			
+		]
+	},
+	"mayor" : {
+		"permissions" : [
+			"setflight",
+			"teleport.self",
+			"teleport.position",
+			"teleport.banner",
+			"mods.scarabol.commands.warp.self",
+			"mods.scarabol.commands.warp.banner",
+			"mods.scarabol.commands.warp.spawn.self",
+			"mods.scarabol.commands.warp.place",
+			"mods.scarabol.commands.betterchat.name.mayor",
+			"mods.scarabol.commands.colonistcapacity.tier4"
+			
+		]
+	},
+	"citizen" : {
+		"permissions" : [
+			"teleport.self",
+			"teleport.position",
+			"teleport.banner",
+			"mods.scarabol.commands.warp.self",
+			"mods.scarabol.commands.warp.banner",
+			"mods.scarabol.commands.warp.spawn.self",
+			"mods.scarabol.commands.warp.place",
+			"mods.scarabol.commands.betterchat.name.citizen",
+			"mods.scarabol.commands.colonistcapacity.tier3"
+			
+		]
+	},
+	"peasant" : {
+		"permissions" : [
+			"teleport.self",
+			"teleport.position",
+			"teleport.banner",
+			"mods.scarabol.commands.warp.self",
+			"mods.scarabol.commands.warp.banner",
+			"mods.scarabol.commands.warp.spawn.self",
+			"mods.scarabol.commands.warp.place",
+			"mods.scarabol.commands.betterchat.name.peasant",
+			"mods.scarabol.commands.colonistcapacity.tier2"
+			
+		]
+	},
+	"serf" : {
+		"permissions" : [
+			"teleport.self",
+			"teleport.position",
+			"teleport.banner",
+			"mods.scarabol.commands.warp.self",
+			"mods.scarabol.commands.warp.banner",
+			"mods.scarabol.commands.warp.spawn.self",
+			"mods.scarabol.commands.warp.place",
+			"mods.scarabol.commands.betterchat.name.serf",
+			"mods.scarabol.commands.colonistcapacity.tier1"
+		]
+	},
+	"localhost" : {
+		"includes" : [
+			"serf"
+		]
+	},
+	"prisoner" : {
+		"permissions" : [
+			"mods.scarabol.commands.betterchat.name.prisoner",
+			"mods.scarabol.commands.colonistcapacity.tier7"
+		]
+	}
+}

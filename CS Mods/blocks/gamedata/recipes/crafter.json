@@ -1,0 +1,15 @@
+[
+	{
+		"defaultLimit" : 1,
+		"name": "pipliz.crafter.kings.coulmn",
+		"requires":[
+				{ "amount":50, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":1, "type":"kings.column" } 
+				]
+	}
+
+]
+
+

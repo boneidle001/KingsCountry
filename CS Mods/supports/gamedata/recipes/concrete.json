@@ -1,0 +1,72 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretebeamv",
+		"requires":[
+				{ "amount":5, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretebeamv" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretebeamh",
+		"requires":[
+				{ "amount":25, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretebeamh" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretebeam+1",
+		"requires":[
+				{ "amount":25, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretebeam+1" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretebeam+2",
+		"requires":[
+				{ "amount":25, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretebeam+2" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretebeam+3",
+		"requires":[
+				{ "amount":25, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretebeam+3" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretebeam+4",
+		"requires":[
+				{ "amount":25, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretebeam+4" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretebeamt",
+		"requires":[
+				{ "amount":25, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":10, "type":"concretebeamt" } 
+				]
+	}
+]

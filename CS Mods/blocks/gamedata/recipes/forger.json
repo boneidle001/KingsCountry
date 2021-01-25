@@ -1,0 +1,169 @@
+[
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 0,
+		"name" : "kc.forger.bronzeingot",
+		"requires" : [
+			{"amount":10,"type":"copper"},
+			{"amount":10,"type":"tin"},
+			{"amount":5,"type":"coalore"}
+		],
+		"results" : [
+			{"amount":20,"type":"bronzeingot"}
+		]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 0,
+		"name" : "kc.forger.ironingot",
+		"requires" : [
+			{"amount":10,"type":"ironore"},
+			{"amount":5,"type":"coalore"}
+		],
+		"results" : [
+			{"amount":10,"type":"ironingot"}
+		]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 0,
+		"name" : "kc.forger.galenalead",
+		"requires" : [
+			{"amount":10,"type":"galenalead"},
+			{"amount":5,"type":"coalore"}
+		],
+		"results" : [
+			{"amount":10,"type":"lead"}
+		]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 0,
+		"name" : "kc.forger.steelingot",
+		"requires" : [
+			{"amount":10,"type":"ironingot"},
+			{"amount":10,"type":"cokes"},
+			{"amount":5,"type":"coalore"}
+		],
+		"results" : [
+			{"amount":10,"type":"steelingot"}
+		]
+	},
+	
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 0,
+		"name" : "kc.forger.bronzepickaxe",
+		"requires" : [
+			{"amount":10,"type":"bronzeingot"},
+			{"amount":10,"type":"planks"}
+		],
+		"results" : [
+			{"amount":10,"type":"bronzepickaxe"}
+		]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : -100,
+		"name" : "kc.forger.bronzeaxe",
+		"requires" : [
+			{"amount":10,"type":"bronzeingot"},
+			{"amount":10,"type":"planks"}
+		],
+		"results" : [
+			{"amount":10,"type":"bronzeaxe"}
+		]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : -100,
+		"name" : "kc.forger.bronzeplate",
+		"requires" : [
+			{"amount":10,"type":"bronzeingot"}
+		],
+		"results" : [
+			{"amount":10,"type":"bronzeplate"}
+		]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 0,
+		"name" : "kc.forger.ironrivets",
+		"requires" : [
+			{"amount":10,"type":"ironingot"}
+		],
+		"results" : [
+			{"amount":10,"type":"ironrivet"}
+		]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 0,
+		"name" : "kc.forger.ironwrought",
+		"requires" : [
+			{"amount":20,"type":"ironingot"}
+		],
+		"results" : [
+			{"amount":20,"type":"ironwrought"}
+		]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : -100,
+		"name" : "kc.forger.steelparts",
+		"requires" : [
+			{"amount":10,"type":"steelingot"}
+		],
+		"results" : [
+			{"amount":10,"type":"steelparts"}
+		]
+	},
+	
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 100,
+		"name": "kc.forger.steelpanelcrimson",
+		"requires":[
+				{ "amount":1, "type":"steelingot" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimson" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 100,
+		"name": "kc.forger.steelpaneldeepskyblue",
+		"requires":[
+				{ "amount":1, "type":"steelingot" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpaneldeepskyblue" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 100,
+		"name": "kc.forger.steelpaneldeepgrey",
+		"requires":[
+				{ "amount":1, "type":"steelingot" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpaneldeepgrey" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 100,
+		"name": "kc.forger.goldbrick",
+		"requires":[
+				{"amount":10,"type":"goldore"},
+				{"type":"cokes"}
+				],
+		"results":[
+				{ "amount":5, "type":"goldbrick" } 
+				]
+	}
+]
+
+

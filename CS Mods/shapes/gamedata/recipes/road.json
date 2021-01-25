@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadcurve",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadcurverotated",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadfourstep",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslab",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslabup",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslabdown",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslope",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadsloperotated",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslopecorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadspike",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadtwostep",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadtwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadtwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadtwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadtwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadtwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.roadslopedangle",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"roadslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.upsidedownroadslopedangle",
+		"requires":[
+				{ "amount":2, "type":"road" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownroadslopedangle" } 
+				]
+	}
+	
+]
+
+

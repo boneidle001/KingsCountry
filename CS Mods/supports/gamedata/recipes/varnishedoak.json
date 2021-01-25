@@ -1,0 +1,72 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.varnishedoakbeamv",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"varnishedoakbeamv" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.varnishedoakbeamh",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"varnishedoakbeamh" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.varnishedoakbeam+1",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"varnishedoakbeam+1" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.varnishedoakbeam+2",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"varnishedoakbeam+2" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.varnishedoakbeam+3",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"varnishedoakbeam+3" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.varnishedoakbeam+4",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"varnishedoakbeam+4" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.varnishedoakbeamt",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"varnishedoakbeamt" } 
+				]
+	}
+]

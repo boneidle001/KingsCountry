@@ -1,0 +1,22 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.statue",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":1, "type":"statue" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.furniture.dragonstatue",
+		"requires":[
+				{ "amount":15, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":1, "type":"dragonstatue" } 
+				]
+	}
+]

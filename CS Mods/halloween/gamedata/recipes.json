@@ -1,0 +1,22 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.pumpkin",
+		"requires":[
+				{ "amount":20, "type":"bronzecoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"pumpkin" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.merchant.scarecrow",
+		"requires":[
+				{ "amount":5, "type":"goldcoin" }
+				],
+		"results":[
+				{ "amount":1, "type":"scarecrow" } 
+				]
+	}
+]

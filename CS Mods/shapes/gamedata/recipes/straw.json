@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawcurve",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawcurverotated",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawfourstep",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslab",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslabup",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslabdown",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslope",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawsloperotated",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslopecorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawspike",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawtwostep",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawtwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawtwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawtwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawtwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawtwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslopedangle",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.upsidedownstrawslopedangle",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownstrawslopedangle" } 
+				]
+	}
+	
+]
+
+

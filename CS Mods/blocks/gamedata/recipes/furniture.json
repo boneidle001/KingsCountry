@@ -1,0 +1,25 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name" : "kc.furniture.barrel",
+		"requires" : [
+			{"amount":5,"type":"planks"},
+			{"amount":10,"type":"coppernails"}
+		],
+		"results" : [
+			{"amount":5,"type":"kings.barrel"}
+		]
+	},
+	{
+		"defaultLimit" : 100,
+		"name" : "kc.furniture.tatami",
+		"requires" : [
+			{"amount":25,"type":"straw"}
+		],
+		"results" : [
+			{"amount":5,"type":"tatami"}
+		]
+	}
+]
+
+

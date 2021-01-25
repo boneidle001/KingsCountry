@@ -1,0 +1,77 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "grey", "decorative"],
+			"icon" : "../textures/icon/windowgreyglass.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969",
+						"#00ff00->#b0c4de"
+						]
+				},
+			"mesh" : "../meshes/glasswindow.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "glass"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowglass"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "grey", "decorative"],
+			"icon" : "../textures/icon/windowgreyglasss.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969",
+						"#00ff00->#b0c4de"
+						]
+				},
+			"mesh" : "../meshes/glasswindowsquarecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "glass"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowscglass"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "window", "grey", "decorative"],
+			"icon" : "../textures/icon/windowgreyglassr.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969",
+						"#00ff00->#b0c4de"
+						]
+				},
+			"mesh" : "../meshes/glasswindowroundcorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "glass"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "windowrcglass"		
+	}
+]

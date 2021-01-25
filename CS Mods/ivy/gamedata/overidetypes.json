@@ -1,0 +1,10 @@
+{
+	"leavestemperate" : {
+		"onRemove" : [
+			{"amount":1,"chance":0.6,"type":"leavestemperate"},
+			{"amount":1,"chance":0.05,"type":"sappling"},
+			{"amount":1,"chance":0.005,"type":"kings.sapling.gianttemp"},
+			{"amount":1,"chance":0.025,"type":"kings.sapling.largetemp"}
+		]
+	}
+}

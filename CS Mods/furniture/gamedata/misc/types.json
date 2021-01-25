@@ -1,0 +1,23 @@
+{
+	"displaycase" : {
+		"categories" : ["kings", "display", "light", "decorative"],
+		"customData" : {
+			"boxes" : [
+				{"max" : [0.5, 0.5, 0.5], "min" : [-0.5, -0.5, -0.5]}
+				],
+			"colors":[
+				"#ff0000->#51483d",
+				"#00ff00->#ffffff"
+				],
+		"torches" : {
+			"a":{"color":"#eeeeee","intensity":10,"range":10,"volume":0.8}}
+			},
+		"icon" : "../textures/icon/displaycase.png",
+		"mesh" : "../meshes/displaycase.ply",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "neutral"
+	}
+}

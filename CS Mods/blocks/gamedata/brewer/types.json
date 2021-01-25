@@ -1,0 +1,227 @@
+{		
+	"glass" : {
+		"categories" : ["kings", "drink", "glass"],
+		"icon" : "../textures/icon/glass.png",
+		"maxStackSize" : 1000,
+		"isPlaceable" : false
+	},
+	"emptybottle" : {
+		"categories" : ["kings", "drink", "glass", "bottle"],
+		"icon" : "../textures/icon/empty.png",
+		"maxStackSize" : 1000,
+		"isPlaceable" : false
+	},
+	"glasspanel" : {
+		"categories" : ["kings", "drink", "glass", "panel"],
+		"icon" : "../textures/icon/glasspanel.png",
+		"maxStackSize" : 1000,
+		"isPlaceable" : false
+		},
+	
+	"apple" : {
+		"categories" : ["kings", "food", "apple", "edible"],
+		"icon" : "../textures/icon/apple.png",
+		"maxStackSize" : 1000,
+		"isPlaceable" : false,
+		"colonyPointDays" : 1,
+		"colonyPointsPerDay" : 30,
+	},
+	"applepie" : {
+		"categories" : ["food", "edible", "kings", "crab"],
+		"icon" : "../textures/icon/applepie.png",
+		"maxStackSize" : 1000,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90,
+		
+		},
+	"appleleaves" : {
+		"categories" : ["kings", "tree", "apple", "leaves"],
+		"icon" : "../textures/icon/apple.png",
+		"destructionTime" : 200,
+		"onPlaceAudio" : "dirtPlace",
+		"onRemoveAudio" : "grassDelete",
+		"customData" : {
+			"attachBehaviour" : [{"id":"leaves"}]
+		},
+		"onRemove" : [
+			{"amount":1,"chance":1,"type":"apple"},
+			{"amount":1,"chance":0.005,"type":"applesapling"}
+		],
+		"sideall" : "appleleaves"
+	},
+	
+	"honeymead" : {
+		"categories" : ["kings", "drink", "barrel", "honey"],
+		"mesh" : "../meshes/barrel.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#00ff00->#a8a9ad"],
+				"useNormalMap" : true
+				},
+		"icon" : "../textures/icon/honeybarrel.png",
+		"blocksPathing" : true,
+		"isSolid" : false,
+		"collidePlayer" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "honeybarrel"
+	},
+	"beer" : {
+		"categories" : ["kings", "drink", "barrel", "beer"],
+		"mesh" : "../meshes/barrel.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#00ff00->#a8a9ad"],
+				"useNormalMap" : true
+				},
+		"icon" : "../textures/icon/beerbarrel.png",
+		"blocksPathing" : true,
+		"isSolid" : false,
+		"collidePlayer" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "beerbarrel"
+	},
+	"ale" : {
+		"categories" : ["kings", "drink", "barrel", "ale"],
+		"mesh" : "../meshes/barrel.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#00ff00->#a8a9ad"],
+				"useNormalMap" : true
+				},
+		"icon" : "../textures/icon/alebarrel.png",
+		"blocksPathing" : true,
+		"isSolid" : false,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "alebarrel"
+	},
+	"cider" : {
+		"categories" : ["kings", "drink", "barrel", "cider"],
+		"mesh" : "../meshes/barrel.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#00ff00->#a8a9ad"],
+				"useNormalMap" : true
+				},
+		"icon" : "../textures/icon/ciderbarrel.png",
+		"blocksPathing" : true,
+		"isSolid" : false,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "ciderbarrel"
+	},
+	"wine" : {
+		"categories" : ["kings", "drink", "barrel", "wine"],
+		"mesh" : "../meshes/barrel.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"colors":[
+					"#00ff00->#a8a9ad"],
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"useNormalMap" : true
+				},
+		"icon" : "../textures/icon/winebarrel.png",
+		"blocksPathing" : true,
+		"isSolid" : false,
+		"collidePlayer" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "winebarrel"
+	},
+	
+	"bottledhoneymead" : {
+		"categories" : ["kings", "drink", "luxury", "honey"],
+		"icon" : "../textures/icon/honeybottle.png",
+		"maxStackSize" : 1000,
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 50,
+		},
+	"bottledbeer" : {
+		"categories" : ["kings", "drink", "luxury", "beer"],
+		"icon" : "../textures/icon/beerbottle.png",
+		"maxStackSize" : 500,
+		"isPlaceable" : false,
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 100,
+	},
+	"bottledale" : {
+		"categories" : ["kings", "drink", "luxury", "ale"],
+		"icon" : "../textures/icon/alebottle.png",
+		"maxStackSize" : 500,
+		"isPlaceable" : false,
+		"colonyPointDays" : 2,
+		"colonyPointsPerDay" : 100,
+	},
+	"bottledcider" : {
+		"categories" : ["kings", "drink", "luxury", "cider"],
+		"icon" : "../textures/icon/ciderbottle.png",
+		"maxStackSize" : 500,
+		"isPlaceable" : false,
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 200,
+	},
+	"bottledwine" : {
+		"categories" : ["kings", "drink", "luxury", "wine"],
+		"icon" : "../textures/icon/winebottle.png",
+		"maxStackSize" : 500,
+		"isPlaceable" : false,
+		"colonyPointDays" : 10,
+		"colonyPointsPerDay" : 250,
+	}
+	
+}

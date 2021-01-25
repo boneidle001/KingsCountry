@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplankscurve",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplankscurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplankscurverotated",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplankscurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplankscurvecorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplankscurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksfourstep",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslab",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslabup",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslabdown",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslope",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplankssloperotated",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplankssloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslopecorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksspike",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplankstwostep",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplankstwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplankstwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplankstwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplankstwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplankstwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownhardwoodplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownhardwoodplanksslopedangle" } 
+				]
+	}
+	
+]
+
+

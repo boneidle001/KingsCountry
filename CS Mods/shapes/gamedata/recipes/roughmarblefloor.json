@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorcurve",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorcurverotated",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorfourstep",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslab",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslabup",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslabdown",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslope",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorsloperotated",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslopecorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorspike",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloortwostep",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloortwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloortwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloortwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloortwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloortwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslopedangle",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownroughmarblefloorslopedangle",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownroughmarblefloorslopedangle" } 
+				]
+	}
+	
+]
+
+

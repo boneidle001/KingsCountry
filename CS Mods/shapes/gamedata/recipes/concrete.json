@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretecurve",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretecurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretecurverotated",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretecurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretecurvecorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretecurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretefourstep",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretefourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretefourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretefourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretefourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretefourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslab",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslabup",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslabdown",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslope",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretesloperotated",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretesloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslopecorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretespike",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretespike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretetwostep",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretetwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretetwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretetwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concretetwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concretetwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.concreteslopedangle",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"concreteslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.upsidedownconcreteslopedangle",
+		"requires":[
+				{ "amount":2, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownconcreteslopedangle" } 
+				]
+	}
+	
+]
+
+

@@ -1,0 +1,28 @@
+[
+{
+"name": "Ore Merchant",
+	"description" : "Ore Merchant adds infinite ores to the shop",
+	"version": "1.0.1",
+	"enableddefault": true,
+	"compatibleversions": [
+		"0.7.1"
+	],
+
+"jsonFiles" :
+	[
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"shop"
+			],
+			"npcType" : "pipliz.merchant",
+		"relativePath" : "gamedata/recipes.json"
+	},
+	{	"index" : -900000,
+		"fileType" : "overrideTypeProperties",
+		"relativePath" : "gamedata/typeproperties.json"
+	}
+	]
+}
+]

@@ -1,0 +1,160 @@
+[
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.mayor",
+		"npcType" : "worker",
+		"printName" : "Kings Envoy"
+	},
+
+	{
+		"data" : {
+			"maskColor1" : "#777777"
+		},
+		"keyName" : "kc.brickmaker",
+		"npcType" : "worker",
+		"printName" : "Brick Maker"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#8b4513"
+		},
+		"keyName" : "kc.carpenter",
+		"npcType" : "worker",
+		"printName" : "Carpenter"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#daa520"
+		},
+		"keyName" : "kc.furniture",
+		"npcType" : "worker",
+		"printName" : "Furniture Maker"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#708090"
+		},
+		"keyName" : "kc.forger",
+		"npcType" : "worker",
+		"printName" : "Forger"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#800000"
+			},
+		"keyName" : "kc.brewer",
+		"npcType" : "worker",
+		"printName" : "Brewer"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#db7093"
+			},
+		"keyName" : "kc.bar",
+		"npcType" : "worker",
+		"printName" : "Bar Staff"
+	},
+	{
+		"data" : {
+			"maskColor1" : "#db7093"
+			},
+		"keyName" : "kc.bottler",
+		"npcType" : "worker",
+		"printName" : "Bottler"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#800000"
+			},
+		"keyName" : "kc.glassmaker",
+		"npcType" : "worker",
+		"printName" : "Glass Blower"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#696969"
+			},
+		"keyName" : "kc.grapefarmer",
+		"npcType" : "worker",
+		"printName" : "Grape Farmer"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#7d9631"
+		},
+		"keyName" : "kc.applefarmer",
+		"npcType" : "worker",
+		"printName" : "Apple Farmer"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#7d9631"
+		},
+		"keyName" : "kc.boatfisher",
+		"npcType" : "worker",
+		"printName" : "Boat Fisher"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#7d9631"
+		},
+		"keyName" : "kc.dockworker",
+		"npcType" : "worker",
+		"printName" : "Dock Worker"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.smoker",
+		"npcType" : "worker",
+		"printName" : "Smoker"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.baker",
+		"npcType" : "worker",
+		"printName" : "Kings Baker"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.chef",
+		"npcType" : "worker",
+		"printName" : "Kings Chef"
+	},
+
+	{
+		"data" : {
+			"maskColor1" : "#465c85"
+		},
+		"keyName" : "kc.cowfarmer",
+		"npcType" : "worker",
+		"printName" : "Rancher"
+	},
+
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.butcher",
+		"npcType" : "worker",
+		"printName" : "Butcher"
+	}
+]

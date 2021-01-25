@@ -1,0 +1,10 @@
+[
+	{
+		"identifier" : "kc.grapefarm",
+		"patchType" : "blockFarm",
+		"npcType" : "kc.grapefarmer",
+		"cooldown" : 8.5,
+		"blockPlaced" : "grapesframe",
+		"maxGatheredBeforeCrate" : 20
+	}
+]

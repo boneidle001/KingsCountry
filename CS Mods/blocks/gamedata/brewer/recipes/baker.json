@@ -1,0 +1,75 @@
+[
+	{
+		"name" : "kc.baker.applepie",
+		"requires" : [
+			{"amount":5,"type":"apple"},
+			{"amount":5,"type":"wheat"},
+			{"amount":2,"type":"honey"},
+			{"amount":3,"type":"egg"},
+			{"type":"coalore"}
+		],
+		"results" : [
+			{"amount":5,"type":"applepie"}
+		]
+	},
+	{
+		"name" : "kc.baker.fishpie",
+		"requires" : [
+			{"amount":5,"type":"rawfish"},
+			{"amount":2,"type":"salmon"},
+			{"amount":5,"type":"potato"},
+			{"type":"coalore"}
+		],
+		"results" : [
+			{"amount":2,"type":"fishpie"}
+		]
+	},
+	{
+		"name" : "kc.baker.bakedpotato",
+		"requires" : [
+			{"amount":10,"type":"potato"},
+			{"type":"coalore"}
+		],
+		"results" : [
+			{"amount":10,"type":"bakedpotato"}
+		]
+	},
+	{
+		"name" : "kc.baker.bread",
+		"requires" : [
+			{"amount":12,"type":"flour"},
+			{"amount":5,"type":"bucketwater"},
+			{"type":"coalore"}
+		],
+		"results" : [
+			{"amount":5,"type":"bread"},
+			{"amookunt":5,"type":"bucketempty"}
+		]
+	},
+	{
+		"name" : "kc.baker.cookies",
+		"requires" : [
+			{"type":"flour"},
+			{"type":"sugar"},
+			{"type":"vanilla"}
+		],
+		"results" : [
+			{"type":"cookies"}
+		]
+	},
+	{
+		"name" : "kc.baker.cake",
+		"requires" : [
+			{"amount":5,"type":"flour"},
+			{"amount":2,"type":"egg"},
+			{"type":"bucketwater"},
+			{"amount":1,"type":"honey"},
+			{"amount":3,"type":"grapes"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"type":"cake"},
+			{"isOptional":true,"type":"bucketempty"}
+		]
+	}
+]

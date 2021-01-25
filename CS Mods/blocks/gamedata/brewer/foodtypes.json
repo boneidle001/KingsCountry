@@ -1,0 +1,213 @@
+{		
+	
+	"smokedsalmon" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/smokedsalmon.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 60
+		
+		},
+
+	"cookedcrab" : {
+		"categories" : ["food", "edible", "kings", "crab"],
+		"icon" : "../textures/icon/cookedcrab.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointDays" : 3,
+		"colonyPointsPerDay" : 40
+		
+		},
+
+	"crabsalad" : {
+		"categories" : ["food", "edible", "kings", "crab"],
+		"icon" : "../textures/icon/crabsalad.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90
+		
+		},
+
+	"fishsoup" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/fishsoup.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90
+		
+		},
+
+	"fishpie" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/fishpie.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90
+		
+		},
+
+	"bakedpotato" : {
+		"categories" : ["food", "edible", "kings", "baked"],
+		"icon" : "../textures/icon/bakedpotato.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90
+		
+		},
+		
+	"chickenjerky" : {
+		"categories" : ["food", "edible", "kings", "chicken"],
+		"icon" : "../textures/icon/chickenjerky.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 40
+		
+		},
+
+	"beefjerky" : {
+		"categories" : ["food", "edible", "kings", "beef"],
+		"icon" : "../textures/icon/beefjerky.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 60
+		
+		},
+
+	"steakpie" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/steakpie.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 100
+		
+		},
+
+	"beefstew" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/beefstew.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 100
+		
+		},
+
+	"beefcurry" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/beefcurry.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 100
+		
+		},
+
+	"cottagepie" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/cottagepie.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 100
+		
+		},
+
+	"enchilada" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/enchilada.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90
+		
+		},
+
+	"beefburger" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/beefburgercooked.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90
+		
+		},
+
+	"meatballs" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/meatballscooked.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90
+		
+		},
+	
+	"roastbeef" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/roastbeefcooked.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 200
+		
+		},
+
+	"tbone" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/tbonecooked.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 150
+		
+		},
+
+	"ribeye" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/ribeyecooked.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 150
+		
+		},
+
+	"sirlion" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/sirlioncooked.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 150
+		
+		},
+
+	"rump" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/rumpcooked.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 150
+		
+		},
+
+	"milk" : {
+		"categories" : ["cow", "milk", "food", "kings"],
+		"icon" : "../textures/icon/milk.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointDays" : 2,
+		"colonyPointsPerDay" : 20
+	},
+
+	"cheese" : {
+		"categories" : ["food", "edible", "kings", "fish"],
+		"icon" : "../textures/icon/cheese.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 50
+		
+		},
+
+	"mixedgrill" : {
+		"categories" : ["food", "edible", "kings"],
+		"icon" : "../textures/icon/mixedgrill.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 300
+		
+		}
+}

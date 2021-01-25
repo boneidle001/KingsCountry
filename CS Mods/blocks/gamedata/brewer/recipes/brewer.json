@@ -1,0 +1,64 @@
+[
+	{
+		"defaultLimit" : 10,
+		"name": "kc.brewer.honey",
+		"requires":[
+				{ "amount":5, "type":"wheat" },
+				{ "amount":5, "type":"honey" },
+				{ "amount":1, "type":"kings.barrel"}
+				],
+		"results":[
+				{ "amount":1, "type":"honeymead" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.brewer.beer",
+		"requires":[
+				{ "amount":5, "type":"wheat" },
+				{ "amount":5, "type":"berry" },
+				{ "amount":1, "type":"kings.barrel"}
+				],
+		"results":[
+				{ "amount":1, "type":"beer" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.brewer.ale",
+		"requires":[
+				{ "amount":5, "type":"barley" },
+				{ "amount":5, "type":"berry" },
+				{ "amount":1, "type":"kings.barrel"}
+				],
+		"results":[
+				{ "amount":1, "type":"ale" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.brewer.cider",
+		"requires":[
+				{ "amount":10, "type":"apple" },
+				{ "amount":5, "type":"berry" },
+				{ "amount":1, "type":"kings.barrel"}
+				],
+		"results":[
+				{ "amount":1, "type":"cider" } 
+				]
+	},
+	{
+		"defaultLimit" : 10,
+		"name": "kc.brewer.wine",
+		"requires":[
+				{ "amount":25, "type":"grapes" },
+				{ "amount":1, "type":"kings.barrel"}
+				],
+		"results":[
+				{ "amount":1, "type":"wine" } 
+				]
+	}
+	
+]
+
+

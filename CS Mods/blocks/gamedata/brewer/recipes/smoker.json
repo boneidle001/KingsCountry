@@ -1,0 +1,45 @@
+[
+	{
+		"name" : "kc.cook.chickenjerky",
+		"requires" : [
+			{"amount":5,"type":"chickenmeat"},
+			{"amount":1,"type":"logtaiga"},
+			{"amount":2,"type":"honey"}
+		],
+		"results" : [
+			{"amount":5,"type":"chickenjerky"}
+		]
+	},
+	{
+		"name" : "kc.cook.beefjerky",
+		"requires" : [
+			{"amount":5,"type":"beefcuts"},
+			{"amount":1,"type":"logtaiga"},
+			{"amount":2,"type":"honey"}
+		],
+		"results" : [
+			{"amount":5,"type":"beefjerky"}
+		]
+	},
+	{
+		"name" : "kc.cook.smokedsalmon",
+		"requires" : [
+			{"amount":5,"type":"salmon"},
+			{"amount":1,"type":"logtaiga"},
+			{"amount":2,"type":"honey"}
+		],
+		"results" : [
+			{"amount":5,"type":"smokedsalmon"}
+		]
+	},
+	{
+		"name" : "kc.cook.bakedpotato",
+		"requires" : [
+			{"amount":10,"type":"potato"},
+			{"type":"coalore"}
+		],
+		"results" : [
+			{"amount":10,"type":"bakedpotato"}
+		]
+	}
+]

@@ -1,0 +1,285 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickcurve",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickcurverotated",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickfourstep",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslab",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslabup",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslabdown",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslope",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybricksloperotated",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybricksloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslopecorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickspike",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybricktwostep",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybricktwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybricktwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybricktwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybricktwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybricktwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslopedangle",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownclaybrickslopedangle",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownclaybrickslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslopedangle",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownclaybrickslopedangle",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownclaybrickslopedangle" } 
+				]
+	}
+	
+]
+
+

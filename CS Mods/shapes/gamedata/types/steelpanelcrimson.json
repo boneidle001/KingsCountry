@@ -1,0 +1,764 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "curve", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_01.png",
+			"mesh" : "../meshes/curve.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},	
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsoncurve"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "curve", "rotated", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_02.png",
+			"mesh" : "../meshes/curve.ply",
+			"meshRotationEuler" : {
+				"x" : 90,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsoncurverotated"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "upside", "curve", "rotated", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_05.png",
+			"mesh" : "../meshes/curve.ply",
+			"meshRotationEuler" : {
+				"x" : 270,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonupsidedowncurve"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "curve", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_03.png",
+			"mesh" : "../meshes/curvecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsoncurvecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "upside", "curve", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_04.png",
+			"mesh" : "../meshes/curvecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonupsidedowncurvecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "four", "stairs", "step", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_06.png",
+			"mesh" : "../meshes/4step.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonfourstep"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "four", "stairs", "step", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_07.png",
+			"mesh" : "../meshes/4stepcorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonfourstepcorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "four", "stairs", "step", "inner", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_08.png",
+			"mesh" : "../meshes/4stepinnercorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonfourstepinnercorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slab", "step", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_09.png",
+			"mesh" : "../meshes/slab.ply",
+			"meshRotationEuler" : {
+				"x" : 90,
+				"y" : 270,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[0.0, -0.5, -0.5],"max":[0.5, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslab"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slab", "up", "step", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_11.png",
+			"mesh" : "../meshes/slab.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslabup"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slab", "down", "step", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_10.png",
+			"mesh" : "../meshes/slab.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslabdown"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_12.png",
+			"mesh" : "../meshes/slope.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslope"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_23.png",
+			"mesh" : "../meshes/slope.ply",
+			"meshRotationEuler" : {
+				"x" : 90,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonsloperotated"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_19.png",
+			"mesh" : "../meshes/slope.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonupsidedownslope"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_13.png",
+			"mesh" : "../meshes/slopecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, 0.0],"max":[0.0, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslopecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_15.png",
+			"mesh" : "../meshes/slopecorner.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonupsidedownslopecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "corner", "edge", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_14.png",
+			"mesh" : "../meshes/slopecorneredge.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslopecorneredge"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "corner", "edge", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_18.png",
+			"mesh" : "../meshes/slopecorneredge.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonupsidedownslopecorneredge"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "inside", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_16.png",
+			"mesh" : "../meshes/slopeinnercorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslopeinsidecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "inside", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_17.png",
+			"mesh" : "../meshes/slopeinnercorner.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslopeupsidedowninsidecorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "slope", "ramp", "inside", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_20.png",
+			"mesh" : "../meshes/slopepeak.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonspike"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_21.png",
+			"mesh" : "../meshes/2step.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsontwostep"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_22.png",
+			"mesh" : "../meshes/2stepcorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsontwostepcorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_24.png",
+			"mesh" : "../meshes/2stepinnercorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsontwostepinnercorner"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_25.png",
+			"mesh" : "../meshes/slopedangleblock.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "steelpanelcrimsonslopedangle"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/steelpanelcrimson/icon_26.png",
+			"mesh" : "../meshes/slopedangleblock.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#dc143c"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "steelpanel"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "upsidedownsteelpanelcrimsonslopedangle"
+	}
+]

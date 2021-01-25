@@ -1,0 +1,20 @@
+[
+{
+"name": "Texture Pack",
+	"description" : "Replaces game textures",
+	"version": "1.0.1",
+	"enableddefault": true,
+	"compatibleversions": [
+		"0.7.1"
+	],
+
+"jsonFiles" :
+	[
+        {
+				"fileType" : "addOrOverrideTextureMappingEntries",
+				"index" : -900000,
+				"relativePath" : "gamedata/textures.json"
+		}
+	]
+}
+]

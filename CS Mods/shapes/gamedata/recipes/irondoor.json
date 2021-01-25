@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorcurve",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorcurverotated",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorfourstep",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslab",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslabup",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslabdown",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslope",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorsloperotated",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslopecorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorspike",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoortwostep",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoortwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoortwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoortwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoortwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoortwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.irondoorslopedangle",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"irondoorslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.upsidedownirondoorslopedangle",
+		"requires":[
+				{ "amount":2, "type":"irondoor" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownirondoorslopedangle" } 
+				]
+	}
+	
+]
+
+

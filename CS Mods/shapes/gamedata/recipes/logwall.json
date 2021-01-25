@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallcurve",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallcurverotated",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallfourstep",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslab",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslabup",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslabdown",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslope",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallsloperotated",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslopecorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallspike",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwalltwostep",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwalltwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwalltwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwalltwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwalltwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwalltwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.logwallslopedangle",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"logwallslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownlogwallslopedangle",
+		"requires":[
+				{ "amount":2, "type":"logwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownlogwallslopedangle" } 
+				]
+	}
+	
+]
+
+

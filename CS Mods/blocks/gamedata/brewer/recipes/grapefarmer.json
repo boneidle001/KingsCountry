@@ -1,0 +1,14 @@
+[
+	{
+		"name" : "kc.grapefarmer.gather",
+		"requires" : [
+			
+		],
+		"results" : [
+			{"amount":5,"type":"grapes"},
+			{"chance":0.001,"type":"grapesstage1"}
+		]
+	}
+]
+
+

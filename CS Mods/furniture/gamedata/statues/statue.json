@@ -1,0 +1,50 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "statue", "concrete", "decorative"],
+			"icon" : "../textures/icon/statue.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969"
+						]
+				},
+			"mesh" : "../meshes/statue.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "statue"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "furniture", "statue", "concrete", "decorative"],
+			"icon" : "../textures/icon/statue.png",
+			"customData" : {
+					"colors":[
+						"#ff0000->#696969"
+						]
+				},
+			"mesh" : "../meshes/dragonstatue.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "dragonstatue"		
+	}
+]

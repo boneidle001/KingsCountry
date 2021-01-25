@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplankscurve",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplankscurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplankscurverotated",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplankscurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplankscurvecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplankscurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksfourstep",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslab",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslabup",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslabdown",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslope",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplankssloperotated",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplankssloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslopecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksspike",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplankstwostep",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplankstwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplankstwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplankstwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplankstwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplankstwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownpolishedplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownpolishedplanksslopedangle" } 
+				]
+	}
+	
+]
+
+

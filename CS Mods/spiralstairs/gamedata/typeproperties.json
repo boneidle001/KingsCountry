@@ -1,0 +1,122 @@
+{
+	"spiralstairsz-" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 180,
+			"z" : 0
+		},
+		"colliders" : {
+		"boxes" : [	
+			{"max":[0.5,0.5,0.5], "min":[-0.5,-0.5,-0.5]},
+			{"max":[2,0.0,2], "min":[0,-0.5,0]},
+			{"max":[2,0.5,0.5], "min":[0.5,-0.5,1]}]
+		}
+	},
+	"spiralstairsz+" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 0,
+			"z" : 0
+		},
+	"colliders" : {
+		"boxes" : [	
+			{"max":[0.5,0.5,0.5], "min":[-0.5,-0.5,-0.5]},
+			{"max":[-2,0.0,-2], "min":[0,-0.5,0]},
+			{"max":[-2,0.5,-0.5], "min":[0.5,-0.5,0.5]}
+			]}		
+	},
+	"spiralstairsx-" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 90,
+			"z" : 0
+		}
+	},
+	"spiralstairsx+" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 270,
+			"z" : 0
+		}
+	},
+	"spiralstairsvarnishedoakz-" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 180,
+			"z" : 0
+		},
+		"colliders" : {
+		"boxes" : [	
+			{"max":[0.5,0.5,0.5], "min":[-0.5,-0.5,-0.5]},
+			{"max":[2,0.0,2], "min":[0,-0.5,0]},
+			{"max":[2,0.5,0.5], "min":[0.5,-0.5,1]}]
+		}
+	},
+	"spiralstairsvarnishedoakz+" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 0,
+			"z" : 0
+		},
+	"colliders" : {
+		"boxes" : [	
+			{"max":[0.5,0.5,0.5], "min":[-0.5,-0.5,-0.5]},
+			{"max":[-2,0.0,-2], "min":[0,-0.5,0]},
+			{"max":[-2,0.5,-0.5], "min":[0.5,-0.5,0.5]}
+			]}		
+	},
+	"spiralstairsvarnishedoakx-" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 90,
+			"z" : 0
+		}
+	},
+	"spiralstairsvarnishedoakx+" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 270,
+			"z" : 0
+		}
+	},
+	"spiralstairsstonez-" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 180,
+			"z" : 0
+		},
+		"colliders" : {
+		"boxes" : [	
+			{"max":[0.5,0.5,0.5], "min":[-0.5,-0.5,-0.5]},
+			{"max":[2,0.0,2], "min":[0,-0.5,0]},
+			{"max":[2,0.5,0.5], "min":[0,0,0]}]
+		}
+	},
+	"spiralstairsstonez+" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 0,
+			"z" : 0
+		},
+	"colliders" : {
+		"boxes" : [	
+			{"max":[0.5,0.5,0.5], "min":[-0.5,-0.5,-0.5]},
+			{"max":[-2,0.0,-2], "min":[0,-0.5,0]},
+			{"max":[-2,0.5,-0.5], "min":[0,0,0]}
+			]}		
+	},
+	"spiralstairsstonex-" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 90,
+			"z" : 0
+		}
+	},
+	"spiralstairsstonex+" : {
+		"meshRotationEuler" : {
+			"x" : 0,
+			"y" : 270,
+			"z" : 0
+		}
+	}
+}

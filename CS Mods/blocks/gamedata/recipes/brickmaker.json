@@ -1,0 +1,205 @@
+[
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.pewter",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewter" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.redpaving",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpaving" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.traditional",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"traditional" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.brickpath",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"brickpath" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.claybrick",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stonewall",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stonewall2",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonewall2" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stonewall3",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonewall3" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stonewall4",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonewall4" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.wornbrickwall",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"wornbrickwall" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.oldstonewall",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"oldstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.newstonewall",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.greystone",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"greystone" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.roughmarblefloor",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloor" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stonefacade",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.redtiles",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"redtiles" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.greytile",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"greytile" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.leafytile",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"leafytile" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.fishscale",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"fishscale" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stockbrick",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stockbrick" } 
+				]
+	}	
+	
+]
+
+

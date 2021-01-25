@@ -1,0 +1,783 @@
+[
+{
+"name": "Shapes",
+	"description" : "Shapes for new blocks",
+	"version": "1.0.2",
+	"enableddefault": true,
+	"compatibleversions": [
+		"0.7.1"
+	],
+
+"jsonFiles" :
+	[
+	{
+		"fileType" : "addOrOverrideLocalization",
+		"index" : -900000,
+		"relativePath"	: "gamedata/localization/en-US.json"
+	},
+		
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/stonebricks.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/stonewall.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/planks.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/polishedplanks.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/straw.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/concrete.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/whiteconcrete.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/brickpath.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/claybrick.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/hardwoodplanks.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/paving.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/pewter.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/redpaving.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/road.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/steelpanelcrimson.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/stockbrick.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/traditional.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/steelpaneldeepskyblue.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/steelpaneldeepgrey.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/wornbrickwall.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/roughplaster.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/fishscale.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/newstonewall.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/oldstonewall.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/redtiles.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/stonefacade.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/varnishedoak.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/roughmarblefloor.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/greystone.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/logwall.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/bandedplanks.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/pineplanks.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/polishedpine.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/woodentile.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/greytile.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/gold.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/gravel.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/gravel1.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/leafytile.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/irondoor.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/oldpath.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/stonewall2.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/stonewall3.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/stonewall4.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/tatami.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/types/woodpanel.json"
+    },
+	
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/stonebricks.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/claybrick.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/brickpath.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/concrete.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/whiteconcrete.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/paving.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/redpaving.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/pewter.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/road.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/stockbrick.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/traditional.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"workbench"
+			],
+			"npcType" : "pipliz.crafter",
+		"relativePath" : "gamedata/recipes/straw.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/hardwoodplanks.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/polishedplanks.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"workbench"
+			],
+			"npcType" : "pipliz.crafter",
+		"relativePath" : "gamedata/recipes/tatami.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/greytile.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/gravel.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/gravel1.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/stonewall2.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/stonewall3.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/stonewall4.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/oldpath.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/leafytile.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/pineplanks.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/polishedpine.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/bandedplanks.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/woodentile.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/woodpanel.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.forgerx+",
+			"kings.forgerx-",
+			"kings.forgerz+",
+			"kings.forgerz-"
+			],
+			"npcType" : "kc.forger",
+		"relativePath" : "gamedata/recipes/irondoor.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.forgerx+",
+			"kings.forgerx-",
+			"kings.forgerz+",
+			"kings.forgerz-"
+			],
+			"npcType" : "kc.forger",
+		"relativePath" : "gamedata/recipes/gold.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/planks.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.forgerx+",
+			"kings.forgerx-",
+			"kings.forgerz+",
+			"kings.forgerz-"
+			],
+			"npcType" : "kc.forger",
+		"relativePath" : "gamedata/recipes/steelpanelcrimson.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.forgerx+",
+			"kings.forgerx-",
+			"kings.forgerz+",
+			"kings.forgerz-"
+			],
+			"npcType" : "kc.forger",
+		"relativePath" : "gamedata/recipes/steelpaneldeepgrey.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.forgerx+",
+			"kings.forgerx-",
+			"kings.forgerz+",
+			"kings.forgerz-"
+			],
+			"npcType" : "kc.forger",
+		"relativePath" : "gamedata/recipes/steelpaneldeepskyblue.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/stonewall.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/wornbrickwall.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/roughplaster.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/fishscale.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/newstonewall.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/oldstonewall.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/redtiles.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/roughmarblefloor.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/stonefacade.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/varnishedoak.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/greystone.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/logwall.json"
+	}
+	]
+}
+]

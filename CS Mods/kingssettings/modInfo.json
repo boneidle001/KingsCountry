@@ -1,0 +1,55 @@
+[
+{
+"name": "Kings World",
+	"description" : "Adds new trees, alternate landscape settings, caves and rivers made for Kings Country Server",
+	"version": "1.0.1",
+	"enableddefault": true,
+	"compatibleversions": [
+		"0.7.1"
+	],
+
+"jsonFiles" :
+	[
+			{
+				"fileType" : "addOrOverrideStructures",
+				"index" : -1000000,
+				"relativePath" : "world/foliage_temperate.json"
+			},
+			{
+				"fileType" : "setBiomeStructurePrevalence",
+				"index" : -1000000,
+				"relativePath" : "world/biomes.json"
+			},
+			{
+				"fileType" : "setBiomeStructurePrevalence",
+				"index" : -1000000,
+				"relativePath" : "world/biomes_center.json"
+			},
+			{
+				"fileType" : "setBiomeStructurePrevalence",
+				"index" : -1000000,
+				"relativePath" : "world/biomes_newworld.json"
+			},
+			{
+				"fileType" : "setBiomeStructurePrevalence",
+				"index" : -1000000,
+				"relativePath" : "world/biomes_east.json"
+			},
+			{
+				"fileType" : "setBiomeStructurePrevalence",
+				"index" : -1000000,
+				"relativePath" : "world/biomes_tropic.json"
+			},
+			{
+				"fileType" : "setTerrainGeneratorSettings",
+				"index" : -1000000,
+				"relativePath" : "world/terraingen.json"
+			},
+			{
+				"fileType" : "setMetaBiomeSettings",
+				"index" : -1000000,
+				"relativePath" : "world/metabiomes.json"
+			},
+	]
+}
+]

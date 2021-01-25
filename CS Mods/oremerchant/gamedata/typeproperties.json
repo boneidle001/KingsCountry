@@ -1,0 +1,35 @@
+{
+	"infinitecopper" : { 
+		"icon" : "./textures/icon/oreCopper.png"
+		},
+	"infinitetin" : { 
+		"icon" : "./textures/icon/oreTin.png"
+		},
+	"infiniteiron" : { 
+		"icon" : "./textures/icon/oreIron.png"
+		},
+	"infinitegypsum" : { 
+		"icon" : "./textures/icon/oreGypsum.png"
+		},
+	"infiniteclay" : { 
+		"icon" : "./textures/icon/oreClay.png"
+		},
+	"infinitekaolinite" : { 
+		"icon" : "./textures/icon/oreKaolinite.png"
+		},
+	"infinitediamond" : { 
+		"icon" : "./textures/icon/oreDiamond.png"
+		},
+	"infinitegalena" : { 
+		"icon" : "./textures/icon/oreGalena.png"
+		},
+	"infinitecoal" : { 
+		"icon" : "./textures/icon/oreCoal.png"
+		},
+	"infinitesalpeter" : { 
+		"icon" : "./textures/icon/oreSalpeter.png"
+		},
+	"infinitegold" : { 
+		"icon" : "./textures/icon/oreGold.png"
+		}		
+}

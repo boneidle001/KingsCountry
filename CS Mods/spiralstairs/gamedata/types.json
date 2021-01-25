@@ -1,0 +1,14 @@
+{
+"invisible.spiralstairs" : {
+		"isPlaceable" : false,
+		"isSolid" : false,
+		"blocksPathing" : true,
+		"isDestructible" : false,
+		"onRemoveAmount" : 0
+	},
+"parent.spiralstairs" :
+	{
+		"isPlaceable" : false
+	}
+
+}

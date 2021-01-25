@@ -1,0 +1,89 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "kiln", "brick", "decorative"],
+			"mesh" : "./meshes/kiln.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "wornbrickwall"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "largekiln"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "kiln", "brick", "decorative"],
+			"mesh" : "./meshes/kilndoor.ply",
+			"icon" : "./textures/icon/kiln.png",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "kilndoor"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kilndoor"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "kiln", "brick", "decorative"],
+			"mesh" : "./meshes/brickmold.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "brickmold"		
+	},
+	{
+		"baseType" : {			
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"onRemoveAmount" : 0,
+			"isSolid" : false
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "worktable"		
+	}
+]

@@ -1,0 +1,128 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "forge", "blacksmith", "job"],
+			"mesh" : "./meshes/forgebase.ply",
+			"icon" : "./textures/icon/forge.png",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+			"colors":[
+					"#ff0000->#A9A9A9"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isSolid" : true,
+			"blocksPathing" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.forge"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/forgecoal.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"torches" : {
+					"a":{"color":"#e22822","intensity":4,"range":2,"volume":0.5,}
+							},
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "concrete"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.forgecoal"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/forgeroof.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "varnishedoak"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.forgeroof"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "./meshes/anvils.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "neutral"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.anvils"		
+	},
+	{
+		"baseType" : {			
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"collidePlayer" : true,
+			"onRemoveAmount" : 0,
+			"isSolid" : false
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.forger"		
+	}
+]

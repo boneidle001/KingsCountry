@@ -1,0 +1,400 @@
+[
+{
+
+"name": "New Blocks",
+	"description" : "Various new blocks more to come soon",
+	"version" : "1.0.2",
+	"enableddefault" : true,
+	"dllpath" : "kc.dll",
+	"compatibleversions" : [
+		"0.8.0"
+	],
+
+"jsonFiles" :
+	[
+	{
+		"fileType" : "addOrOverrideLocalization",
+		"index" : -900000,
+		"relativePath"	: "gamedata/localization/en-US.json"
+	},
+	
+	
+	{	"index" : -900000,
+		"fileType" : "overrideTypeProperties",
+		"relativePath" : "gamedata/typeproperties.json"
+	},
+	
+	{
+		"fileType" : "addOrReplaceNPCTypes",
+		"index" : -900000,
+		"relativePath" : "gamedata/npcTypes.json"
+	},
+	{
+		"fileType" : "addBlockJobs",
+		"index" : -900000,
+		"relativePath" : "gamedata/jobblocks.json"
+	},
+	
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/types.json"
+    },
+    {
+		"fileType" : "addOrOverrideTextureMappingEntries",
+		"index" : -900000,
+		"relativePath" : "gamedata/textures.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.column"
+			],
+		"npcType" : "kc.mayor",
+		"relativePath" : "gamedata/recipes/column.json"
+	},
+	
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"workbench"
+			],
+			"npcType" : "pipliz.crafter",
+		"relativePath" : "gamedata/recipes/crafter.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/stonemason.json"
+	},
+	
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/signboard.json"
+    },
+	
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/kilntypes.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brickkiln.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"worktablez+",
+			"worktablez-",
+			"worktablex+",
+			"worktablex-"
+			],
+		"npcType" : "kc.brickmaker",
+		"relativePath" : "gamedata/recipes/brickmaker.json"
+	},
+	
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/carpenter.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.carpenterlegz-",
+			"kings.carpenterlegz+",
+			"kings.carpenterlegx-",
+			"kings.carpenterlegx+"
+			],
+			"npcType" : "kc.carpenter",
+		"relativePath" : "gamedata/recipes/carpenter.json"
+	},
+	
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/furnituremaker.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.furniturelegz+",
+			"kings.furniturelegz-",
+			"kings.furniturelegx+",
+			"kings.furniturelegx-"
+			],
+			"npcType" : "kc.furniture",
+		"relativePath" : "gamedata/recipes/furniture.json"
+	},
+	
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/forge.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.forgerx+",
+			"kings.forgerx-",
+			"kings.forgerz+",
+			"kings.forgerz-"
+			],
+			"npcType" : "kc.forger",
+		"relativePath" : "gamedata/recipes/forger.json"
+	},
+	
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/glassmaker.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.glasstablex+",
+			"kings.glasstablex-",
+			"kings.glasstablez+",
+			"kings.glasstablex-",
+			"kings.glasspressx+",
+			"kings.glasspressx-",
+			"kings.glasspressz+",
+			"kings.glasspressx-"
+			],
+			"npcType" : "kc.glassmaker",
+		"relativePath" : "gamedata/recipes/glassrecipes.json"
+	},
+	
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/foodtypes.json"
+    },
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/butcher/types.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/butcher/butcher.json"
+    },
+	{
+		"fileType" : "addOrOverrideGrowableTypes",
+		"index" : -900000,
+		"relativePath" : "gamedata/brewer/animals/growables.json"
+	},
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/animals/generateblocks.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"shop"
+			],
+			"npcType" : "pipliz.merchant",
+		"relativePath" : "gamedata/brewer/recipes/shop.json"
+	},
+	{
+		"fileType" : "addOrOverrideAreaJobs",
+		"index" : -900000,
+		"relativePath" : "gamedata/brewer/areajobs.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"npcType" : "kc.grapefarmer",
+		"relativePath" : "gamedata/brewer/recipes/grapefarmer.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"npcType" : "kc.applefarmer",
+		"relativePath" : "gamedata/brewer/recipes/applefarmer.json"
+	},
+	{
+		"fileType" : "addNewTypes",
+		"index" : -900000,
+		"relativePath" : "gamedata/brewer/saplings.json"
+	},
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/brewer.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.breweryx+",
+			"kings.breweryx-",
+			"kings.breweryz+",
+			"kings.breweryz-"
+			],
+			"npcType" : "kc.brewer",
+		"relativePath" : "gamedata/brewer/recipes/brewer.json"
+	},
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/bottler.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.bartapsz+",
+			"kings.bartapsz-",
+			"kings.bartapsx+",
+			"kings.bartapsx-"
+			],
+			"npcType" : "kc.bar",
+		"relativePath" : "gamedata/brewer/recipes/bar.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.bottlerlegz+",
+			"kings.bottlerlegz-",
+			"kings.bottlerlegx+",
+			"kings.bottlerlegx-"
+			],
+			"npcType" : "kc.bottler",
+		"relativePath" : "gamedata/brewer/recipes/bottler.json"
+	},
+	{
+		"fileType" : "addOrOverrideGrowableTypes",
+		"index" : -900000,
+		"relativePath" : "gamedata/brewer/growables.json"
+	},
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/types.json"
+    },
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/grapes.json"
+    },
+
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/fishtypes.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/fisherman.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.boatfisherz+",
+			"kings.boatfisherz-",
+			"kings.boatfisherx+",
+			"kings.boatfisherlitx-",
+			"kings.boatfisherlitz-",
+			"kings.boatfisherlitx+",
+			"kings.boatfisherlitx-"
+			],
+			"npcType" : "kc.boatfisher",
+		"relativePath" : "gamedata/brewer/recipes/fisherman.json"
+	},
+	{	"index" : -900000,
+		"fileType" : "overrideTypeProperties",
+		"relativePath" : "gamedata/brewer/boatlitproperties.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.dockworker"
+			],
+			"npcType" : "kc.dockworker",
+		"relativePath" : "gamedata/brewer/recipes/dockworker.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.smoker"
+			],
+			"npcType" : "kc.smoker",
+		"relativePath" : "gamedata/brewer/recipes/smoker.json"
+	},
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/largeoven.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.ovenz+",
+			"kings.ovenz-",
+			"kings.ovenx+",
+			"kings.ovenx-"
+			],
+			"npcType" : "kc.baker",
+		"relativePath" : "gamedata/brewer/recipes/baker.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.chefz+",
+			"kings.chefz-",
+			"kings.chefx+",
+			"kings.chefx-"
+			],
+			"npcType" : "kc.chef",
+		"relativePath" : "gamedata/brewer/recipes/chef.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.butcherz+",
+			"kings.butcherz-",
+			"kings.butcherx+",
+			"kings.butcherx-"
+			],
+			"npcType" : "kc.butcher",
+		"relativePath" : "gamedata/brewer/recipes/butcher.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [],
+			"npcType" : "kc.rancher",
+		"relativePath" : "gamedata/brewer/recipes/rancher.json"
+	}
+	
+	
+	]
+
+}
+]

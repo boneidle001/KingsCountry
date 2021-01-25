@@ -1,0 +1,251 @@
+[
+	{
+		"baseType" : {
+			"categories" : [
+				"calf",
+				"decorative", 
+				"kings"
+		],
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+		},
+			"customData" : {
+				"colors" : [
+					"#ff0000->#654321",
+					"#00ff00->#c29c8c"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+			},
+			"icon" : "../../textures/icon/cow.png",
+			"isSolid" : false,
+			"blocksPathing" : false,
+			"mesh" : "../../meshes/cow1.ply",
+			"needsBase" : true,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAudio" : "grassDelete",
+			"requiresFertileBelow" : true,
+			"sideall" : "cow"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cow1"	
+	},
+	
+	{
+		"baseType" : {
+			"icon" : "../../textures/icon/cow.png",
+			"mesh" : "../../meshes/cow2.ply",
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+			},
+			"customData" : {
+				"colors" : [
+					"#ff0000->#654321",
+					"#00ff00->#c29c8c"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isSolid" : false,
+			"blocksPathing" : false,
+			"isdestructable" : true,
+			"needsBase" : true,
+			"onPlaceAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"onRemoveAudio" : "grassDelete",
+			"requiresFertileBelow" : true,
+			"sideall" : "cow"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cow2"
+	},
+	{	
+		"baseType" : {
+			"icon" : "../../textures/icon/cow.png",
+			"mesh" : "../../meshes/cow3.ply",
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+			},
+			"customData" : {
+				"colors" : [
+					"#ff0000->#654321",
+					"#00ff00->#c29c8c"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isSolid" : false,
+			"blocksPathing" : false,
+			"isdestructable" : true,
+			"needsBase" : true,
+			"onPlaceAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"onRemoveAudio" : "grassDelete",
+			"requiresFertileBelow" : true,
+			"sideall" : "cow"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cow3"
+	},
+	{
+		"baseType" : {
+			"icon" : "../../textures/icon/cow.png",
+			"mesh" : "../../meshes/cow4.ply",
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+			},
+			"customData" : {
+				"colors" : [
+					"#ff0000->#654321",
+					"#00ff00->#c29c8c"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isSolid" : false,
+			"blocksPathing" : false,
+			"isdestructable" : true,
+			"needsBase" : true,
+			"onPlaceAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"onRemoveAudio" : "grassDelete",
+			"requiresFertileBelow" : true,
+			"sideall" : "cow"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cow4"
+	},
+
+	{
+		"baseType" : {
+			"categories" : [
+				"calf",
+				"decorative", 
+				"kings"
+		],
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+		},
+			"customData" : {
+				"colors" : [
+					"#ff0000->#654321",
+					"#00ff00->#c29c8c"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+			},
+			"icon" : "../../textures/icon/cow.png",
+			"isSolid" : false,
+			"blocksPathing" : false,
+			"mesh" : "../../meshes/cow1.ply",
+			"needsBase" : true,
+			"onPlaceAudio" : "woodPlace",
+			"onRemoveAmount" : 0,
+			"onRemoveAudio" : "grassDelete",
+			"requiresFertileBelow" : true,
+			"sideall" : "cow"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cowstage1"	
+	},
+	{
+		"baseType" : {
+			"icon" : "../../textures/icon/cow.png",
+			"mesh" : "../../meshes/cow2.ply",
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+			},
+			"customData" : {
+				"colors" : [
+					"#ff0000->#654321",
+					"#00ff00->#c29c8c"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isSolid" : false,
+			"blocksPathing" : false,
+			"isdestructable" : true,
+			"needsBase" : true,
+			"onPlaceAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"onRemoveAudio" : "grassDelete",
+			"requiresFertileBelow" : true,
+			"sideall" : "cow"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cowstage2"
+	},
+	{
+		"baseType" : {
+			"icon" : "../../textures/icon/cow.png",
+			"mesh" : "../../meshes/cow3.ply",
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+			},
+			"customData" : {
+				"colors" : [
+					"#ff0000->#654321",
+					"#00ff00->#c29c8c"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isSolid" : false,
+			"isdestructable" : true,
+			"blocksPathing" : false,
+			"needsBase" : true,
+			"onPlaceAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"onRemoveAudio" : "grassDelete",
+			"requiresFertileBelow" : true,
+			"sideall" : "cow"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cowstage3"
+	},
+	{
+		"baseType" : {
+			"icon" : "../../textures/icon/cow.png",
+			"mesh" : "../../meshes/cow4.ply",
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+			},
+			"customData" : {
+				"colors" : [
+					"#ff0000->#654321",
+					"#00ff00->#c29c8c"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isSolid" : false,
+			"blocksPathing" : false,
+			"isdestructable" : true,
+			"needsBase" : true,
+			"onPlaceAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"onRemoveAudio" : "grassDelete",
+			"requiresFertileBelow" : true,
+			"sideall" : "cow"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cowstage4"
+	},
+
+	{
+		"baseType" : {
+			"categories" : ["cow", "food", "kings"],
+			"icon" : "../../textures/icon/cowcarcass.png",
+			"mesh" : "../../meshes/cowcarcass.ply",
+			"customData" : {
+				"colors" : [
+					"#ff0000->#ffffff",
+					"#00ff00->#d10000"],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+			},
+			"isSolid" : false,
+			"maxStackSize" : 50,
+			"isPlaceable" : true,
+			"sideall" : "cowskin"},
+		"generateType" : "rotateBlock",
+		"typeName" : "cowcarcass"
+	}
+]

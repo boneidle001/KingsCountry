@@ -1,0 +1,51 @@
+{
+	"concretecolumn" : {
+		"categories" : ["kings", "concrete","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#ffffff"]
+			},
+		"icon" : "../textures/icon/concretecolumn_01.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/column.ply",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "concrete"
+	},
+	
+	"concretecolumnbase" : {
+		"categories" : ["kings", "concrete","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#ffffff"]
+			},
+		"icon" : "../textures/icon/concretecolumn_00.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/columnbase.ply",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "concrete"
+	},
+	
+	"concretecolumntop" : {
+		"categories" : ["kings", "concrete","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#ffffff"]
+			},
+		"icon" : "../textures/icon/concretecolumn_02.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/columnbase.ply",
+		"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 0,
+				"z" : 0
+				},
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "concrete"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	
+	"_settings" : {
+		"defaultAlbedo" : "./textures/albedo/error.png",
+        "defaultEmissive" : "./textures/emissive/neutral.png",
+        "defaultHeight" : "./textures/hss/neutral.png",
+        "defaultNormal" : "./textures/normal/neutral.png",
+		"fileExtension" : ".png",
+		"folderAlbedo" : "./textures/albedo/",
+		"folderHeight" : "./textures/hss/"
+	},
+	
+	"glass" : {
+		"albedo" : "glass",
+		"height" : "glass"
+		},
+	"hangingfish" : {
+		"albedo" : "fish"
+		}
+	
+}

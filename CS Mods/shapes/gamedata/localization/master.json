@@ -1,0 +1,37 @@
+{
+	"types":
+	{
+		
+		"brickpathcurve" : "Black Block Paving Curve",
+		"brickpathcurverotated" : "Black Block Paving Curve Rotated",
+		"brickpathupsidedowncurve" : "Black Block Paving Curve Upsidedown",
+		"brickpathcurvecorner" : "Black Block Paving Curve Corner",
+		"brickpathupsidedowncurvecorner" : "Black Block Paving Curve Upsidedown Corner",
+		"brickpathfourstep" : "Black Block Paving Four Step",
+		"brickpathfourstepcorner" : "Black Block Paving Four Step Corner",
+		"brickpathfourstepinnercorner" : "Black Block Paving Four Step Inner Corner",
+		"brickpathslab" : "Black Block Paving Slab",
+		"brickpathslabup" : "Black Block Paving Slab Up",
+		"brickpathslabdown" : "Black Block Paving Slab Down",
+		"brickpathslope" : "Black Block Paving Ramp",
+		"brickpathsloperotated" : "Black Block Paving Ramp Rotated",
+		"brickpathupsidedownslope" : "Black Block Paving Ramp Upsidedown",
+		"brickpathslopecorner" : "Black Block Paving Ramp Corner",
+		"brickpathslopedangle" : "Black Block Paving Ramp Angled",
+		"brickpathupsidedownslopecorner" : "Black Block Paving Ramp Upsidedown Corner",
+		"brickpathslopecorneredge" : "Black Block Paving Ramp Corner Edge",
+		"brickpathupsidedownslopecorneredge" : "Black Block Paving Ramp Upsidedown Corner Edge",
+		"brickpathslopeinsidecorner" : "Black Block Paving Ramp Inside Corner",
+		"brickpathslopeupsidedowninsidecorner" : "Black Block Paving Ramp Upsidedown Inner Corner",
+		"brickpathspike" : "Black Block Paving Point",
+		"brickpathtwostep" : "Black Block Paving Two Step",
+		"brickpathtwostepcorner" : "Black Block Paving Two Step Corner",
+		"brickpathtwostepinnercorner" : "Black Block Paving Two Step Inner Corner",
+		"brickpathslopedangle" : "Black Block Paving Sloped Angle",
+		"upsidedownbrickpathslopedangle" : "Upsidedown Black Block Paving Sloped Angle",
+				
+	},
+	"typeuses":
+	{
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"roughmarblefloorcolumn" : {
+		"categories" : ["kings", "stone","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#ffffff"]
+			},
+		"icon" : "../textures/icon/rmfcolumn_01.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/column.ply",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "roughmarblefloor"
+	},
+	
+	"roughmarblefloorcolumnbase" : {
+		"categories" : ["kings", "stone","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#ffffff"]
+			},
+		"icon" : "../textures/icon/rmfcolumn_00.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/columnbase.ply",
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "roughmarblefloor"
+	},
+	
+	"roughmarblefloorcolumntop" : {
+		"categories" : ["kings", "stone","support", "decorative"],
+		"customData" : {
+			"colors":["#ff0000->#ffffff"]
+			},
+		"icon" : "../textures/icon/rmfcolumn_02.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"mesh" : "../meshes/columnbase.ply",
+		"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 0,
+				"z" : 0
+				},
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "roughmarblefloor"
+	}
+}

@@ -1,0 +1,116 @@
+[
+{
+"name": "Support Beams",
+	"description" : "Decorative supports for buildings",
+	"version": "1.0.1",
+	"enableddefault": true,
+	"compatibleversions": [
+		"0.7.1"
+	],
+
+"jsonFiles" :
+	[
+        {
+        "fileType" : "addNewTypes",
+        "index" : -999999,
+        "relativePath" : "gamedata/types/planks.json"
+        },
+		{
+        "fileType" : "addNewTypes",
+        "index" : -999999,
+        "relativePath" : "gamedata/types/varnishedoak.json"
+        },
+		{
+        "fileType" : "addNewTypes",
+        "index" : -999999,
+        "relativePath" : "gamedata/types/concrete.json"
+        },
+		{
+        "fileType" : "addNewTypes",
+        "index" : -999999,
+        "relativePath" : "gamedata/types/concretecolumn.json"
+        },
+		{
+        "fileType" : "addNewTypes",
+        "index" : -999999,
+        "relativePath" : "gamedata/types/roughmarblefloorcolumn.json"
+        },
+		{
+        "fileType" : "addNewTypes",
+        "index" : -999999,
+        "relativePath" : "gamedata/types/newstonewallcolumn.json"
+        },
+		
+		{
+		"fileType" : "generateBlocks",
+		"index" : -999999,
+		"relativePath" : "gamedata/generateblocks/planks.json"
+		},
+		{
+		"fileType" : "generateBlocks",
+		"index" : -999999,
+		"relativePath" : "gamedata/generateblocks/varnishedoak.json"
+		},
+		{
+		"fileType" : "generateBlocks",
+		"index" : -999999,
+		"relativePath" : "gamedata/generateblocks/concrete.json"
+		},
+		
+		{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -999999,
+		"limitsUIMapping" : [
+			"splittingstump"
+			],
+			"npcType" : "pipliz.woodcutter",
+		"relativePath" : "gamedata/recipes/planks.json"
+		},
+		{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -999999,
+		"limitsUIMapping" : [
+			"splittingstump"
+			],
+			"npcType" : "pipliz.woodcutter",
+		"relativePath" : "gamedata/recipes/varnishedoak.json"
+		},
+		{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -999999,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/concrete.json"
+		},
+		{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -999999,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/concretecolumn.json"
+		},
+		{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -999999,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/newstonewallcolumn.json"
+		},
+		{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -999999,
+		"limitsUIMapping" : [
+			"stonemasonworkbench"
+			],
+			"npcType" : "pipliz.stonemason",
+		"relativePath" : "gamedata/recipes/roughmarblefloorcolumn.json"
+		}
+	]
+}
+]
