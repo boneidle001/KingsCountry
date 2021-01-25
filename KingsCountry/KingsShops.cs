@@ -5,7 +5,7 @@ namespace KingsShops
     [ModLoader.ModManager]
     public static class KingsShops
     {
-        [ModLoader.ModCallback(ModLoader.EModCallbackType.AfterItemTypesDefined, "KC.KingsShop.AfterItemTypesDefined")]
+        [ModLoader.ModCallback(ModLoader.EModCallbackType.AfterItemTypesDefined, "kc.Kingsshop.AfterItemTypesDefined")]
         [ModLoader.ModCallbackDependsOn("blockentitycallback.autoloaders")]
         public static void AfterItemTypesDefined()
         {
