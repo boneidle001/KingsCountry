@@ -1,0 +1,355 @@
+[
+	{
+		"defaultLimit" : 1000,
+		"name" : "kc.chef.boilingwater",
+		"requires" : [
+			{"amount":10,"type":"bucketwater"},
+			{"amount":10,"type":"firewood"}
+		],
+		"results" : [
+			{"amount":10,"type":"boilingwater"}
+		]
+	},
+	{
+		"name" : "kc.chef.newworldmeal",
+		"requires" : [
+			{"amount":10,"type":"potato"},
+			{"amount":5,"type":"tomato"},
+			{"type":"chickenmeat"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"type":"newworldmeal"}
+		]
+	},
+	{
+		"name" : "kc.chef.ricemeal",
+		"requires" : [
+			{"amount":20,"type":"rice"},
+			{"amount":5,"type":"cabbage"},
+			{"type":"chickenmeat"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"type":"ricemeal"}
+		]
+	},
+	{
+		"name" : "kc.chef.cookedfish",
+		"requires" : [
+			{"amount":2,"type":"rawfish"},
+			{"type":"oliveoil"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"cookedfish"}
+		]
+	},
+	{
+		"name" : "kc.cook.lobsterprepared",
+		"requires" : [
+			{"type":"lobster"},
+			{"type":"honey"},
+			{"type":"oliveoil"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"type":"lobsterprepared"}
+		]
+	},
+	{
+		"name" : "kc.chef.perpetualstew",
+		"requires" : [
+			{"amount":4,"type":"boilingwater"},
+			{"amount":8,"type":"rawfish"},
+			{"amount":10,"type":"cabbage"},
+			{"amount":10,"type":"berry"},
+			{"amount":6,"type":"honey"},
+			{"amount":2,"type":"oliveoil"},
+			{"amount":4,"type":"bread"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"type":"perpetualstew"}
+		]
+	},
+	{
+		"name" : "kc.chef.luxurymeal",
+		"requires" : [
+			{"amount":2,"type":"chickenmeat"},
+			{"amount":5,"type":"cabbage"},
+			{"amount":3,"type":"egg"},
+			{"amount":3,"type":"bread"},
+			{"amount":2,"type":"rawfish"},
+			{"amount":3,"type":"oliveoil"},
+			{"amount":2,"type":"honey"},
+			{"amount":2,"type":"boilingwater"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"type":"luxurymeal"}
+		]
+	},
+
+	{
+		"name" : "kc.chef.applepie",
+		"requires" : [
+			{"amount":5,"type":"apple"},
+			{"amount":5,"type":"flour"},
+			{"amount":2,"type":"honey"},
+			{"amount":3,"type":"egg"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":5,"type":"applepie"}
+		]
+	},
+	{
+		"name" : "kc.chef.cookedcrab",
+		"requires" : [
+			{"amount":5,"type":"crab"},
+			{"amount":2,"type":"boilingwater"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":5,"type":"cookedcrab"}
+		]
+	},
+	{
+		"name" : "kc.chef.crabsalad",
+		"requires" : [
+			{"amount":5,"type":"crab"},
+			{"amount":5,"type":"grapes"},
+			{"amount":5,"type":"cabbage"}
+		],
+		"results" : [
+			{"amount":5,"type":"crabsalad"}
+		]
+	},
+	{
+		"name" : "kc.chef.fishsoup",
+		"requires" : [
+			{"amount":1,"type":"rawfish"},
+			{"amount":1,"type":"boilingwater"},
+			{"amount":2,"type":"cabbage"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":1,"type":"fishsoup"},
+			{"amount":1,"type":"bucketempty"}
+		]
+	},
+	{
+		"name" : "kc.chef.fishpie",
+		"requires" : [
+			{"amount":5,"type":"rawfish"},
+			{"amount":2,"type":"salmon"},
+			{"amount":5,"type":"potato"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"fishpie"}
+		]
+	},
+	{
+		"name" : "kc.chef.cottagepie",
+		"requires" : [
+			{"amount":5,"type":"dicedbeef"},
+			{"amount":2,"type":"tomato"},
+			{"amount":5,"type":"potato"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"cottagepie"}
+		]
+	},
+	{
+		"name" : "kc.chef.bakedpotato",
+		"requires" : [
+			{"amount":10,"type":"potato"},
+			{"amount":10,"type":"cheese"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":10,"type":"bakedpotato"}
+		]
+	},
+	{
+		"name" : "kc.chef.steakpie",
+		"requires" : [
+			{"amount":5,"type":"dicedbeef"},
+			{"amount":2,"type":"flour"},
+			{"amount":2,"type":"egg"},
+			{"amount":2,"type":"flour"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"steakpie"}
+		]
+	},
+	{
+		"name" : "kc.chef.beefstew",
+		"requires" : [
+			{"amount":5,"type":"dicedbeef"},
+			{"amount":2,"type":"honey"},
+			{"amount":2,"type":"oliveoil"},
+			{"amount":2,"type":"bread"},
+			{"amount":5,"type":"bucketwater"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"beefstew"}
+		]
+	},
+	{
+		"name" : "kc.chef.beefcurry",
+		"requires" : [
+			{"amount":5,"type":"dicedbeef"},
+			{"amount":5,"type":"cabbage"},
+			{"amount":5,"type":"rice"},
+			{"amount":2,"type":"honey"},
+			{"amount":2,"type":"oliveoil"},
+			{"amount":2,"type":"bread"},
+			{"amount":5,"type":"bucketwater"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"beefcurry"}
+		]
+	},
+	{
+		"name" : "kc.chef.enchilada",
+		"requires" : [
+			{"amount":5,"type":"mincebeef"},
+			{"amount":2,"type":"cheese"},
+			{"amount":2,"type":"flour"},
+			{"amount":2,"type":"egg"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":10,"type":"enchilada"}
+		]
+	},
+	{
+		"name" : "kc.chef.beefburger",
+		"requires" : [
+			{"amount":5,"type":"rawbeefburger"},
+			{"amount":2,"type":"cheese"},
+			{"amount":2,"type":"bread"},
+			{"amount":2,"type":"oliveoil"},
+			{"amount":1,"type":"potato"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"beefburger"}
+		]
+	},
+	{
+		"name" : "kc.chef.meatballs",
+		"requires" : [
+			{"amount":5,"type":"rawmeatballs"},
+			{"amount":2,"type":"cheese"},
+			{"amount":2,"type":"flour"},
+			{"amount":2,"type":"egg"},
+			{"amount":5,"type":"bucketwater"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"meatballs"}
+		]
+	},
+	{
+		"name" : "kc.chef.ribeye",
+		"requires" : [
+			{"amount":2,"type":"ribeyesteak"},
+			{"amount":2,"type":"potato"},
+			{"amount":2,"type":"cabbage"},
+			{"amount":2,"type":"oliveoil"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"ribeye"}
+		]
+	},
+	{
+		"name" : "kc.chef.sirlion",
+		"requires" : [
+			{"amount":2,"type":"sirlionsteak"},
+			{"amount":2,"type":"cabbage"},
+			{"amount":2,"type":"tomato"},
+			{"amount":2,"type":"oliveoil"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"sirlion"}
+		]
+	},
+	{
+		"name" : "kc.chef.rump",
+		"requires" : [
+			{"amount":2,"type":"rumpsteak"},
+			{"amount":2,"type":"rice"},
+			{"amount":2,"type":"egg"},
+			{"amount":2,"type":"cabbage"},
+			{"amount":2,"type":"oliveoil"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"rump"}
+		]
+	},
+	{
+		"name" : "kc.chef.tbone",
+		"requires" : [
+			{"amount":2,"type":"tbonesteak"},
+			{"amount":2,"type":"oliveoil"},
+			{"amount":10,"type":"grapes"},
+			{"amount":2,"type":"cabbage"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"tbone"}
+		]
+	},
+	{
+		"name" : "kc.chef.cheese",
+		"requires" : [
+			{"amount":1,"type":"milk"}
+		],
+		"results" : [
+			{"amount":2,"type":"cheese"}
+		]
+	},
+	
+	{
+		"name" : "kc.chef.mixedgrill",
+		"requires" : [
+			{"amount":2,"type":"rumpsteak"},
+			{"amount":2,"type":"sirlionsteak"},
+			{"amount":2,"type":"ribeyesteak"},
+			{"amount":2,"type":"tbonesteak"},
+			{"amount":2,"type":"chickenmeat"},
+			{"amount":4,"type":"egg"},
+			{"amount":4,"type":"bread"},
+			{"amount":2,"type":"oliveoil"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":4,"type":"mixedgrill"}
+		]
+	},
+	{
+		"name" : "kc.chef.roastbeef",
+		"requires" : [
+			{"amount":2,"type":"beefjoint"},
+			{"amount":2,"type":"oliveoil"},
+			{"amount":10,"type":"grapes"},
+			{"amount":2,"type":"cabbage"},
+			{"type":"firewood"}
+		],
+		"results" : [
+			{"amount":2,"type":"roastbeef"}
+		]
+	}
+
+]

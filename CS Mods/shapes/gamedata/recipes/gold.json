@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldcurve",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldcurverotated",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldfourstep",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslab",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslabup",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslabdown",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslope",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldsloperotated",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslopecorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldspike",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldtwostep",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldtwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldtwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldtwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldtwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldtwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.goldslopedangle",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"goldslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.upsidedowngoldslopedangle",
+		"requires":[
+				{ "amount":2, "type":"goldbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedowngoldslopedangle" } 
+				]
+	}
+	
+]
+
+

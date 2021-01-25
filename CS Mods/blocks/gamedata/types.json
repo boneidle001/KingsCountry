@@ -138,7 +138,7 @@
 			"useNormalMap" : true
 			},
 		"color" : "#ffffff",
-		"icon" : "./textures/icon/concrete.png",
+		"icon" : "./textures/icon/whiteconcrete.png",
 		"isSolid" : true,
 		"maxStackSize" : 500,
 		"needsBase" : false,
@@ -397,5 +397,243 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "varnishedoak"
+	},
+	"bandedplanks" : {
+		"categories" : ["kings", "wall", "log", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/bandedplanks.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "bandedplanks"
+	},
+	"pineplanks" : {
+		"categories" : ["kings", "wall", "log", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/pineplanks.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "pineplanks"
+	},
+	"polishedpine" : {
+		"categories" : ["kings", "wall", "log", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/polishedpine.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "polishedpine"
+	},
+	"woodentile" : {
+		"categories" : ["kings", "wall", "log", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/woodentile.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "woodentile"
+	},
+	"gravel" : {
+		"categories" : ["kings", "floor", "gravel", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/gravel.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "gravel"
+	},
+	"gravel1" : {
+		"categories" : ["kings", "floor", "gravel", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/gravel1.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "gravel1"
+	},
+	"greytile" : {
+		"categories" : ["kings", "roof", "tile", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/greytile.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "greytile"
+	},
+	"leafytile" : {
+		"categories" : ["kings", "roof", "tile", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/leafytile.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "leafytile"
+	},
+	"stonewall2" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/stonewall2.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "stonewall2"
+	},
+	"stonewall3" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/stonewall3.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "stonewall3"
+	},
+	"stonewall4" : {
+		"categories" : ["kings", "wall", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/stonewall4.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "stonewall4"
+	},
+	"oldpath" : {
+		"categories" : ["kings", "floor", "stone", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/oldpath.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "oldpath"
+	},
+	"planks1" : {
+		"categories" : ["kings", "wood", "planks", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/planks1.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "planks1"
+	},
+	"woodpanel" : {
+		"categories" : ["kings", "wood", "planks", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/woodpanel.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "woodpanel"
+	},
+	"tatami" : {
+		"categories" : ["kings", "floor", "tatami", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/tatami.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "tatami"
+	},
+	"irondoor" : {
+		"categories" : ["kings", "door", "iron", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/irondoor.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "irondoor"
+	},
+	"goldbrick" : {
+		"categories" : ["kings", "gold", "decorative"],
+		"customData" : {
+			"useHeightMap" : true,
+			"useNormalMap" : true
+			},
+		"icon" : "./textures/icon/goldbrick.png",
+		"isSolid" : true,
+		"maxStackSize" : 500,
+		"needsBase" : false,
+		"onPlaceAudio" : "woodPlace",
+		"onRemoveAudio" : "woodDeleteLight",
+		"sideall" : "gold"
 	}
 }

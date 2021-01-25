@@ -1,0 +1,39 @@
+{
+	"kings.boatfisherlitz+" : {
+		"mesh": "../meshes/fishboatlit.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+		"sideall" : "varnishedoak"
+		},
+	"kings.boatfisherlitx+" : {
+		"mesh": "../meshes/fishboatlit.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+		"sideall" : "varnishedoak"
+		},
+	"kings.boatfisherlitz-" : {
+		"mesh": "../meshes/fishboatlit.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+		"sideall" : "varnishedoak"
+		},
+	"kings.boatfisherlitx-" : {
+		"mesh": "../meshes/fishboatlit.ply",
+		"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+		"sideall" : "varnishedoak"
+		}
+		
+}

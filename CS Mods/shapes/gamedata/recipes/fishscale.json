@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"fishscaletwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.fishscaleslopedangle",
+		"requires":[
+				{ "amount":2, "type":"fishscale" }
+				],
+		"results":[
+				{ "amount":5, "type":"fishscaleslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownfishscaleslopedangle",
+		"requires":[
+				{ "amount":2, "type":"fishscale" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownfishscaleslopedangle" } 
+				]
 	}
 	
 ]

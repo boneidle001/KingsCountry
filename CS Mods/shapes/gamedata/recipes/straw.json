@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"strawtwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.strawslopedangle",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"strawslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.upsidedownstrawslopedangle",
+		"requires":[
+				{ "amount":2, "type":"straw" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownstrawslopedangle" } 
+				]
 	}
 	
 ]

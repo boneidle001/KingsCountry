@@ -1,0 +1,38 @@
+[
+	{
+		"name" : "kc.rancher.milk",
+		"requires" : [
+			{"amount":5,"type":"straw"}
+		],
+		"results" : [
+			{"amount":1,"type":"milk"}
+		]
+	},
+	{
+		"name" : "kc.rancher.milk1",
+		"requires" : [
+			{"amount":5,"type":"straw"}
+		],
+		"results" : [
+			{"amount":5,"type":"milk"}
+		]
+	},
+	{
+		"name" : "kc.rancher.milk2",
+		"requires" : [
+			{"amount":5,"type":"straw"}
+		],
+		"results" : [
+			{"amount":10,"type":"milk"}
+		]
+	},
+	{
+		"name" : "kc.rancher.butcher",
+		"requires" : [
+			{"amount":5,"type":"straw"}
+		],
+		"results" : [
+			{"amount":1,"type":"cowcarcass"}
+		]
+	}
+]

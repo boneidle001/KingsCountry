@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"redtilestwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redtilesslopedangle",
+		"requires":[
+				{ "amount":2, "type":"redtiles" }
+				],
+		"results":[
+				{ "amount":5, "type":"redtilesslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownredtilesslopedangle",
+		"requires":[
+				{ "amount":2, "type":"redtiles" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownredtilesslopedangle" } 
+				]
 	}
 	
 ]

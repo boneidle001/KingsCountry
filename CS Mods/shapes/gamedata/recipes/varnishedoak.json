@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"varnishedoaktwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.varnishedoakslopedangle",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"varnishedoakslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownvarnishedoakslopedangle",
+		"requires":[
+				{ "amount":2, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownvarnishedoakslopedangle" } 
+				]
 	}
 	
 ]

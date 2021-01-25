@@ -93,6 +93,68 @@
 		"keyName" : "kc.applefarmer",
 		"npcType" : "worker",
 		"printName" : "Apple Farmer"
-	}
+	},
 	
+	{
+		"data" : {
+			"maskColor1" : "#7d9631"
+		},
+		"keyName" : "kc.boatfisher",
+		"npcType" : "worker",
+		"printName" : "Boat Fisher"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#7d9631"
+		},
+		"keyName" : "kc.dockworker",
+		"npcType" : "worker",
+		"printName" : "Dock Worker"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.smoker",
+		"npcType" : "worker",
+		"printName" : "Smoker"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.baker",
+		"npcType" : "worker",
+		"printName" : "Kings Baker"
+	},
+	
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.chef",
+		"npcType" : "worker",
+		"printName" : "Kings Chef"
+	},
+
+	{
+		"data" : {
+			"maskColor1" : "#465c85"
+		},
+		"keyName" : "kc.cowfarmer",
+		"npcType" : "worker",
+		"printName" : "Rancher"
+	},
+
+	{
+		"data" : {
+			"maskColor1" : "#ffffff"
+		},
+		"keyName" : "kc.butcher",
+		"npcType" : "worker",
+		"printName" : "Butcher"
+	}
 ]

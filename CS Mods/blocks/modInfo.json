@@ -1,12 +1,13 @@
 [
 {
+
 "name": "New Blocks",
 	"description" : "Various new blocks more to come soon",
-	"version" : "1.0.1.1",
+	"version" : "1.0.2",
 	"enableddefault" : true,
 	"dllpath" : "kc.dll",
 	"compatibleversions" : [
-		"0.7.0", "0.7.1", "0.7.2"
+		"0.8.0"
 	],
 
 "jsonFiles" :
@@ -179,6 +180,40 @@
 	},
 	
 	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/foodtypes.json"
+    },
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/butcher/types.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/butcher/butcher.json"
+    },
+	{
+		"fileType" : "addOrOverrideGrowableTypes",
+		"index" : -900000,
+		"relativePath" : "gamedata/brewer/animals/growables.json"
+	},
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/animals/generateblocks.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"shop"
+			],
+			"npcType" : "pipliz.merchant",
+		"relativePath" : "gamedata/brewer/recipes/shop.json"
+	},
+	{
 		"fileType" : "addOrOverrideAreaJobs",
 		"index" : -900000,
 		"relativePath" : "gamedata/brewer/areajobs.json"
@@ -260,10 +295,106 @@
         "fileType" : "addNewTypes",
         "index" : -900000,
         "relativePath" : "gamedata/brewer/grapes.json"
-    }
-	
+    },
+
+	{
+        "fileType" : "addNewTypes",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/fishtypes.json"
+    },
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/fisherman.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.boatfisherz+",
+			"kings.boatfisherz-",
+			"kings.boatfisherx+",
+			"kings.boatfisherlitx-",
+			"kings.boatfisherlitz-",
+			"kings.boatfisherlitx+",
+			"kings.boatfisherlitx-"
+			],
+			"npcType" : "kc.boatfisher",
+		"relativePath" : "gamedata/brewer/recipes/fisherman.json"
+	},
+	{	"index" : -900000,
+		"fileType" : "overrideTypeProperties",
+		"relativePath" : "gamedata/brewer/boatlitproperties.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.dockworker"
+			],
+			"npcType" : "kc.dockworker",
+		"relativePath" : "gamedata/brewer/recipes/dockworker.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.smoker"
+			],
+			"npcType" : "kc.smoker",
+		"relativePath" : "gamedata/brewer/recipes/smoker.json"
+	},
+	{
+        "fileType" : "generateBlocks",
+        "index" : -900000,
+        "relativePath" : "gamedata/brewer/largeoven.json"
+    },
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.ovenz+",
+			"kings.ovenz-",
+			"kings.ovenx+",
+			"kings.ovenx-"
+			],
+			"npcType" : "kc.baker",
+		"relativePath" : "gamedata/brewer/recipes/baker.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.chefz+",
+			"kings.chefz-",
+			"kings.chefx+",
+			"kings.chefx-"
+			],
+			"npcType" : "kc.chef",
+		"relativePath" : "gamedata/brewer/recipes/chef.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [
+			"kings.butcherz+",
+			"kings.butcherz-",
+			"kings.butcherx+",
+			"kings.butcherx-"
+			],
+			"npcType" : "kc.butcher",
+		"relativePath" : "gamedata/brewer/recipes/butcher.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -900000,
+		"limitsUIMapping" : [],
+			"npcType" : "kc.rancher",
+		"relativePath" : "gamedata/brewer/recipes/rancher.json"
+	}
 	
 	
 	]
+
 }
 ]

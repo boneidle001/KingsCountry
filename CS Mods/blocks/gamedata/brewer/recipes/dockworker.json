@@ -1,0 +1,33 @@
+[
+	{
+		"name" : "kings.dockworker.fish",
+		"requires" : [
+			
+		],
+		"results" : [
+			{"chance":0.5,"amount":2,"type":"rawfish"},
+			{"chance":0.5,"amount":2,"type":"salmon"}
+		]
+	},
+	{
+		"name" : "kings.dockworker.crabcage",
+		"requires" : [
+			{"amount":5,"type":"planks"}
+			
+		],
+		"results" : [
+			{"amount":10,"type":"crabcage"}
+		]
+	},
+	{
+		"name" : "kings.dockworker.featherlure",
+		"requires" : [
+			{"amount":5,"type":"feather"}
+			
+		],
+		"results" : [
+			{"amount":50,"type":"featherlure"}
+		]
+	}
+
+]

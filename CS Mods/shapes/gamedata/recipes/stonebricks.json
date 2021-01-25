@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"stonebrickstwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonebricksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonebricksslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownstonebricksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownstonebricksslopedangle" } 
+				]
 	}
 	
 ]

@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"stonefacadetwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stonefacadeslopedangle",
+		"requires":[
+				{ "amount":2, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonefacadeslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownstonefacadeslopedangle",
+		"requires":[
+				{ "amount":2, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownstonefacadeslopedangle" } 
+				]
 	}
 	
 ]

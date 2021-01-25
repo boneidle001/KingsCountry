@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplankscurve",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplankscurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplankscurverotated",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplankscurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplankscurvecorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplankscurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksfourstep",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslab",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslabup",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslabdown",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslope",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplankssloperotated",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplankssloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslopecorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksspike",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplankstwostep",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplankstwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplankstwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplankstwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplankstwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplankstwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.pineplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"pineplanksslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownpineplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"pineplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownpineplanksslopedangle" } 
+				]
+	}
+	
+]
+
+

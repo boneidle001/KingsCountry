@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"pewtertwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.pewterslopedangle",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"pewterslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownpewterslopedangle",
+		"requires":[
+				{ "amount":2, "type":"pewter" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownpewterslopedangle" } 
+				]
 	}
 	
 ]

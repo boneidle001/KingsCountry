@@ -2,31 +2,38 @@
 	"glass" : {
 		"categories" : ["kings", "drink", "glass"],
 		"icon" : "../textures/icon/glass.png",
-		"maxStackSize" : 500,
+		"maxStackSize" : 1000,
 		"isPlaceable" : false
 	},
 	"emptybottle" : {
 		"categories" : ["kings", "drink", "glass", "bottle"],
 		"icon" : "../textures/icon/empty.png",
-		"maxStackSize" : 500,
+		"maxStackSize" : 1000,
 		"isPlaceable" : false
 	},
 	"glasspanel" : {
 		"categories" : ["kings", "drink", "glass", "panel"],
 		"icon" : "../textures/icon/glasspanel.png",
-		"maxStackSize" : 500,
+		"maxStackSize" : 1000,
 		"isPlaceable" : false
 		},
 	
 	"apple" : {
 		"categories" : ["kings", "food", "apple", "edible"],
 		"icon" : "../textures/icon/apple.png",
-		"maxStackSize" : 500,
+		"maxStackSize" : 1000,
 		"isPlaceable" : false,
-		"dailyFoodFractionOptimal" : 0.5,
-		"foodValue" : 0.12,
-		"happiness" : 10
+		"colonyPointDays" : 1,
+		"colonyPointsPerDay" : 30,
 	},
+	"applepie" : {
+		"categories" : ["food", "edible", "kings", "crab"],
+		"icon" : "../textures/icon/applepie.png",
+		"maxStackSize" : 1000,
+		"isPlaceable" : false,
+		"colonyPointsMeal" : 90,
+		
+		},
 	"appleleaves" : {
 		"categories" : ["kings", "tree", "apple", "leaves"],
 		"icon" : "../textures/icon/apple.png",
@@ -38,7 +45,7 @@
 		},
 		"onRemove" : [
 			{"amount":1,"chance":1,"type":"apple"},
-			{"amount":1,"chance":0.05,"type":"applesapling"}
+			{"amount":1,"chance":0.005,"type":"applesapling"}
 		],
 		"sideall" : "appleleaves"
 	},
@@ -180,41 +187,41 @@
 	"bottledhoneymead" : {
 		"categories" : ["kings", "drink", "luxury", "honey"],
 		"icon" : "../textures/icon/honeybottle.png",
-		"maxStackSize" : 500,
-		"happiness" : 60,
-		"luxuryHours" : 24
+		"maxStackSize" : 1000,
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 50,
 		},
 	"bottledbeer" : {
 		"categories" : ["kings", "drink", "luxury", "beer"],
 		"icon" : "../textures/icon/beerbottle.png",
 		"maxStackSize" : 500,
 		"isPlaceable" : false,
-		"happiness" : 80,
-		"luxuryHours" : 24
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 100,
 	},
 	"bottledale" : {
 		"categories" : ["kings", "drink", "luxury", "ale"],
 		"icon" : "../textures/icon/alebottle.png",
 		"maxStackSize" : 500,
 		"isPlaceable" : false,
-		"happiness" : 80,
-		"luxuryHours" : 24
+		"colonyPointDays" : 2,
+		"colonyPointsPerDay" : 100,
 	},
 	"bottledcider" : {
 		"categories" : ["kings", "drink", "luxury", "cider"],
 		"icon" : "../textures/icon/ciderbottle.png",
 		"maxStackSize" : 500,
 		"isPlaceable" : false,
-		"happiness" : 80,
-		"luxuryHours" : 24
+		"colonyPointDays" : 5,
+		"colonyPointsPerDay" : 200,
 	},
 	"bottledwine" : {
 		"categories" : ["kings", "drink", "luxury", "wine"],
 		"icon" : "../textures/icon/winebottle.png",
 		"maxStackSize" : 500,
 		"isPlaceable" : false,
-		"happiness" : 100,
-		"luxuryHours" : 24
+		"colonyPointDays" : 10,
+		"colonyPointsPerDay" : 250,
 	}
 	
 }

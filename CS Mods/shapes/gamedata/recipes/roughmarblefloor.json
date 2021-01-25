@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"roughmarblefloortwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.roughmarblefloorslopedangle",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"roughmarblefloorslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownroughmarblefloorslopedangle",
+		"requires":[
+				{ "amount":2, "type":"roughmarblefloor" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownroughmarblefloorslopedangle" } 
+				]
 	}
 	
 ]

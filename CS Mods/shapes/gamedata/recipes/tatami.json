@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamicurve",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamicurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamicurverotated",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamicurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamiupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamiupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamicurvecorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamicurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamiupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamiupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamifourstep",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamifourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamifourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamifourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamifourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamifourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislab",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislabup",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislabdown",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislope",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamisloperotated",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamisloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamiupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamiupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislopecorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamiupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamiupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamiupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamiupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamispike",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamispike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamitwostep",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamitwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamitwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamitwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamitwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamitwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.tatamislopedangle",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"tatamislopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.crafter.upsidedowntatamislopedangle",
+		"requires":[
+				{ "amount":2, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedowntatamislopedangle" } 
+				]
+	}
+	
+]
+
+

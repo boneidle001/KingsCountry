@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"plankstwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.planksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"planksslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"planks" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownplanksslopedangle" } 
+				]
 	}
 	
 ]

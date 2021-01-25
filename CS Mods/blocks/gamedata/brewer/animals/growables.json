@@ -1,0 +1,26 @@
+[
+	{
+		"growthType" : "Always",
+		"identifier" : "cow1",
+		"patchType" : "simpleStages",
+		"stages" : [
+			{"type":"cow1", "growthTime" : 24.0},
+			{"type":"cow2", "growthTime" : 24.0},
+			{"type":"cow3", "growthTime" : 72.0},
+			{"type":"cow4"}
+
+			]
+	},
+
+	{
+		"growthType" : "Always",
+		"identifier" : "cowstage1",
+		"patchType" : "simpleStages",
+		"stages" : [
+			{"type":"cowstage1", "growthTime" : 24.0},
+			{"type":"cowstage2", "growthTime" : 24.0},
+			{"type":"cowstage3", "growthTime" : 72.0},
+			{"type":"cowstage4"}
+			]
+	},
+]

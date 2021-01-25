@@ -1,0 +1,93 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "butcher", "planks", "job"],
+			"icon" : "../../textures/icon/butcher.png",
+			"mesh" : "../../meshes/butchertable.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#a55b53",
+					"#00ff00->#deb887",
+					"#0000ff->#5b270b"
+					],
+				"useNormalMap" : true
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.butcher"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../../meshes/carpenterleg.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#5b270b"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "varnishedoak"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.butcherleg"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../../meshes/butchertop.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#a55b53",
+					"#00ff00->#696b6f",
+					"#0000ff->#ff0000"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "cowskin"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.butchertop"		
+	}
+]

@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"polishedplankstwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.polishedplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"polishedplanksslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownpolishedplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"polishedplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownpolishedplanksslopedangle" } 
+				]
 	}
 	
 ]

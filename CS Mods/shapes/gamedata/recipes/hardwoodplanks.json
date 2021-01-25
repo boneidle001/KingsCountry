@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"hardwoodplankstwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.hardwoodplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"hardwoodplanksslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownhardwoodplanksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownhardwoodplanksslopedangle" } 
+				]
 	}
 	
 ]

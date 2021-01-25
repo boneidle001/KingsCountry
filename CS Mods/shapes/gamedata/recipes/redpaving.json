@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"redpavingtwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.redpavingslopedangle",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"redpavingslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownredpavingslopedangle",
+		"requires":[
+				{ "amount":2, "type":"redpaving" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownredpavingslopedangle" } 
+				]
 	}
 	
 ]

@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"traditionaltwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.traditionalslopedangle",
+		"requires":[
+				{ "amount":2, "type":"traditional" }
+				],
+		"results":[
+				{ "amount":5, "type":"traditionalslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedowntraditionalslopedangle",
+		"requires":[
+				{ "amount":2, "type":"traditional" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedowntraditionalslopedangle" } 
+				]
 	}
 	
 ]

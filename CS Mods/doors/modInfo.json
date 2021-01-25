@@ -2,11 +2,11 @@
 {
 "name": "Doors",
 	"description" : "Various sized doors which can be opened and closed - Does not stop npcs when shut",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"enableddefault": true,
 	"dllpath" : "Doors.dll",
 	"compatibleversions": [
-		"0.7.0", "0.7.1","0.7.2"
+		"0.7.1"
 	],
 
 "jsonFiles" :

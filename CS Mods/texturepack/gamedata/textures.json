@@ -74,7 +74,6 @@
 	
 	"grassgeneric" : {
 		"albedo" : "grassgeneric",
-		"emissive" : "grassgeneric",
 		"height" : "grassgeneric",
 		"normal" : "grassgeneric"
 		},

@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"pavingtwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.pavingslopedangle",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"pavingslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.upsidedownpavingslopedangle",
+		"requires":[
+				{ "amount":2, "type":"paving" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownpavingslopedangle" } 
+				]
 	}
 	
 ]

@@ -1,0 +1,265 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelcurve",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelcurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelcurverotated",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelcurverotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelupsidedowncurve",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelupsidedowncurve" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelcurvecorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelcurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelupsidedowncurvecorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelupsidedowncurvecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelfourstep",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelfourstep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelfourstepcorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelfourstepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelfourstepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelfourstepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslab",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslab" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslabup",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslabup" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslabdown",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslabdown" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslope",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelsloperotated",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelsloperotated" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelupsidedownslope",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelupsidedownslope" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslopecorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelupsidedownslopecorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelupsidedownslopecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelupsidedownslopecorneredge",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelupsidedownslopecorneredge" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslopeinsidecorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslopeinsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslopeupsidedowninsidecorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslopeupsidedowninsidecorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelspike",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelspike" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpaneltwostep",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpaneltwostep" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpaneltwostepcorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpaneltwostepcorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpaneltwostepinnercorner",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpaneltwostepinnercorner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.woodpanelslopedangle",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"woodpanelslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.carpenter.upsidedownwoodpanelslopedangle",
+		"requires":[
+				{ "amount":2, "type":"woodpanel" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownwoodpanelslopedangle" } 
+				]
+	}
+	
+]
+
+

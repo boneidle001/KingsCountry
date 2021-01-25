@@ -18,7 +18,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete"
@@ -46,7 +46,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "leather",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -74,7 +74,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "leather",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -102,7 +102,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -154,7 +154,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "leather",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -182,7 +182,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -211,7 +211,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -239,7 +239,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -267,7 +267,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -295,7 +295,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -323,7 +323,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"
@@ -351,7 +351,7 @@
 			"blocksPathing" : true,
 			"isSolid" : false,
 			"collidePlayer" : true,
-			"sideall" : "planksgeneric",
+			"sideall" : "woodfurniture",
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "woodPlace",
 			"onRemoveAudio" : "woodDeleteLight"

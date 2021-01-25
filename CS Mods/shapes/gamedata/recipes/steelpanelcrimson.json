@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"steelpanelcrimsontwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpanelcrimsonslopedangle",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpanelcrimsonslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.upsidedownsteelpanelcrimsonslopedangle",
+		"requires":[
+				{ "amount":2, "type":"steelpanelcrimson" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownsteelpanelcrimsonslopedangle" } 
+				]
 	}
 	
 ]

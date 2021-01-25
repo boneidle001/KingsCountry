@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"greystonetwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.greystoneslopedangle",
+		"requires":[
+				{ "amount":2, "type":"greystone" }
+				],
+		"results":[
+				{ "amount":5, "type":"greystoneslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedowngreystoneslopedangle",
+		"requires":[
+				{ "amount":2, "type":"greystone" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedowngreystoneslopedangle" } 
+				]
 	}
 	
 ]

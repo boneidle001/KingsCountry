@@ -48,6 +48,36 @@
 		"results":[
 				{ "amount":5, "type":"roughplaster" } 
 				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "pipliz.stonemason.gravel",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "pipliz.stonemason.gravel1",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"gravel1" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "pipliz.stonemason.oldpath",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"oldpath" } 
+				]
 	}	
 	
 ]

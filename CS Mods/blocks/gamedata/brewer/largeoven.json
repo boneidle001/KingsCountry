@@ -1,0 +1,118 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["kings", "carpenter", "planks", "job"],
+			"icon" : "../textures/icon/largeoven.png",
+			"mesh" : "../meshes/largeoven.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : false
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useNormalMap" : true,
+				"useHeightMap" : true
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonebricks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.oven"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../meshes/largeovendoor.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "varnishedoak"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.ovendoor"		
+	},
+	{
+		"baseType" : {
+			"mesh" : "../meshes/largeovenworktop.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : false
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : false,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0,
+			"sideall" : "concrete"
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.ovenworktop"		
+	},
+	{
+		"baseType" : {
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+				"collidePlayer" : true
+				},
+			"customData" : {
+				"colors":[
+					"#ff0000->#ffffff"
+					],
+				"useHeightMap" : true,
+				"useNormalMap" : true
+				},
+			"isPlaceable" : false,
+			"isDestructible" : false,
+			"blocksPathing" : true,
+			"isSolid" : false,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"onRemoveAmount" : 0
+			},
+		"generateType" : "rotateBlock",
+		"typeName" : "kings.chef"		
+	}
+]

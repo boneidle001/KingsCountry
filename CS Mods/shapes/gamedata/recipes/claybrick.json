@@ -238,6 +238,46 @@
 		"results":[
 				{ "amount":5, "type":"claybricktwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslopedangle",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownclaybrickslopedangle",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownclaybrickslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.claybrickslopedangle",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"claybrickslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownclaybrickslopedangle",
+		"requires":[
+				{ "amount":2, "type":"claybrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownclaybrickslopedangle" } 
+				]
 	}
 	
 ]

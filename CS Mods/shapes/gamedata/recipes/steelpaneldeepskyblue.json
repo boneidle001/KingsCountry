@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"steelpaneldeepskybluetwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.steelpaneldeepskyblueslopedangle",
+		"requires":[
+				{ "amount":2, "type":"steelpaneldeepskyblue" }
+				],
+		"results":[
+				{ "amount":5, "type":"steelpaneldeepskyblueslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.forger.upsidedownsteelpaneldeepskyblueslopedangle",
+		"requires":[
+				{ "amount":2, "type":"steelpaneldeepskyblue" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownsteelpaneldeepskyblueslopedangle" } 
+				]
 	}
 	
 ]

@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"stockbricktwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.stockbricksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"stockbrickslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownstockbricksslopedangle",
+		"requires":[
+				{ "amount":2, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownstockbrickslopedangle" } 
+				]
 	}
 	
 ]

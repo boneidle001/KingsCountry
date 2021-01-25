@@ -1,0 +1,3200 @@
+{
+	"items" : [
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"t" : "berrybush",
+							"x" : 0,
+							"y" : 0,
+							"z" : 0
+						}
+					],
+					"format" : "blocks"
+				}
+			],
+			"name" : "berrybush"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "box",
+							"maxX" : 0,
+							"maxY" : 8,
+							"maxZ" : 0,
+							"minX" : 0,
+							"minY" : 0,
+							"minZ" : 0,
+							"type" : "logtemperate"
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.7,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 8,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.6,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 7,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "8tallskinny"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 0,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 1,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "genericbush2tall"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "box",
+							"maxX" : 0,
+							"maxY" : 8,
+							"maxZ" : 0,
+							"minX" : 0,
+							"minY" : 0,
+							"minZ" : 0,
+							"type" : "logtemperate"
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 8,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.8,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 7,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.7,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 6,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "temperatetree8tall"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "box",
+							"maxX" : 0,
+							"maxY" : 5,
+							"maxZ" : 0,
+							"minX" : 0,
+							"minY" : 0,
+							"minZ" : 0,
+							"type" : "logtemperate"
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 6,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 5,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.8,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 4,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.7,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 3,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "temperatetree5tall"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 29,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 28,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 27,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 26,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 25,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 24,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 24,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 2,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 23,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 23,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 22,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 22,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 21,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 21,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 2.5,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 20,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 20,
+							"z" : 0
+						},							
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 19,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 19,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 18,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 18,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 17,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 17,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 16,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 16,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 15,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 15,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 14,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 14,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 13,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 13,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 12,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 12,
+							"z" : 0
+						},	
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 11,
+							"z" : 0
+						},					
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 11,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 10,
+							"z" : 0
+						},						
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 9,
+							"z" : 0
+						},						
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 8,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 8,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.5,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 7,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 7,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.5,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 6,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 6,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 5,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.5,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 5,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 4,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestaiga",
+							"x" : 0,
+							"y" : 4,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 3,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 2,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 1,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : 0,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : -1,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.1,
+							"type" : "logtaiga",
+							"x" : 0,
+							"y" : -2,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "kingslargetaiga"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 14,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 13,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 12,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 11,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 8,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 7,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : -1,
+							"y" : 6,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : -1,
+							"y" : 5,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : -1,
+							"y" : 4,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 3,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 2,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 1,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 0,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : -1,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : -2,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "kingsmediumtree"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestemperate",
+							"x" : 5,
+							"y" : 16,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.3,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 16,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestemperate",
+							"x" : -5,
+							"y" : 16,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.3,
+							"type" : "leavestemperate",
+							"x" : 5,
+							"y" : 15,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 15,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.3,
+							"type" : "leavestemperate",
+							"x" : -5,
+							"y" : 15,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "leavestemperate",
+							"x" : 5,
+							"y" : 14,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 14,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "leavestemperate",
+							"x" : -5,
+							"y" : 14,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "leavestemperate",
+							"x" : 5,
+							"y" : 13,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 13,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "leavestemperate",
+							"x" : -5,
+							"y" : 13,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "leavestemperate",
+							"x" : 5,
+							"y" : 12,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 12,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "leavestemperate",
+							"x" : -5,
+							"y" : 12,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "leavestemperate",
+							"x" : 5,
+							"y" : 11,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 11,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "leavestemperate",
+							"x" : -5,
+							"y" : 11,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5,
+							"type" : "leavestemperate",
+							"x" : 5,
+							"y" : 10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5.5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5,
+							"type" : "leavestemperate",
+							"x" : -5,
+							"y" : 10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4,
+							"type" : "leavestemperate",
+							"x" : 5,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4,
+							"type" : "leavestemperate",
+							"x" : -5,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 5,
+							"y" : 10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : -5,
+							"y" : 10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 4,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : -4,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 3,
+							"y" : 8,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : -3,
+							"y" : 8,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 2,
+							"y" : 7,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : -2,
+							"y" : 7,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 1,
+							"y" : 6,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : -1,
+							"y" : 6,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 5,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 4,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 3,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 2,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 1,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 0,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "kingstwinoakx"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 16,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 16,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 15,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 15,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 14,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 14,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 13,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 13,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 12,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 12,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 11,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 11,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 10,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 5,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 10,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 9,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4,
+							"type" : "leavestemperate",
+							"x" : 0,
+							"y" : 9,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 10,
+							"z" : 5
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 10,
+							"z" : -5
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 9,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 9,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 8,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 8,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 7,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 7,
+							"z" : -2
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 6,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 6,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 5,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 4,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 3,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 2,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 1,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 1.3,
+							"type" : "logtemperate",
+							"x" : 0,
+							"y" : 0,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "kingstwinoaky"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 4.1,
+							"type" : "air",
+							"x" : 0,
+							"y" : -51,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5.3,
+							"type" : "air",
+							"x" : 0,
+							"y" : -52,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : -53,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.7,
+							"type" : "air",
+							"x" : 0,
+							"y" : -54,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.7,
+							"type" : "air",
+							"x" : 0,
+							"y" : -55,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : -56,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5.3,
+							"type" : "air",
+							"x" : 0,
+							"y" : -57,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.1,
+							"type" : "air",
+							"x" : 0,
+							"y" : -58,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5.1,
+							"type" : "air",
+							"x" : -3,
+							"y" : -54,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.3,
+							"type" : "air",
+							"x" : -3,
+							"y" : -55,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -56,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 8.7,
+							"type" : "air",
+							"x" : -3,
+							"y" : -57,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 8.7,
+							"type" : "air",
+							"x" : -3,
+							"y" : -58,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -59,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.3,
+							"type" : "air",
+							"x" : -3,
+							"y" : -60,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 5.1,
+							"type" : "air",
+							"x" : -3,
+							"y" : -61,
+							"z" : -3
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "cavern"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 4.1,
+							"type" : "air",
+							"x" : 0,
+							"y" : -41,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5.3,
+							"type" : "air",
+							"x" : 0,
+							"y" : -42,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : -43,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.7,
+							"type" : "air",
+							"x" : 0,
+							"y" : -44,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.7,
+							"type" : "air",
+							"x" : 0,
+							"y" : -45,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : -46,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 5.3,
+							"type" : "air",
+							"x" : 0,
+							"y" : -47,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.1,
+							"type" : "air",
+							"x" : 0,
+							"y" : -48,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.1,
+							"type" : "air",
+							"x" : 3,
+							"y" : -35,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.3,
+							"type" : "air",
+							"x" : 3,
+							"y" : -36,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 8.5,
+							"type" : "air",
+							"x" : 3,
+							"y" : -37,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 9.7,
+							"type" : "air",
+							"x" : 3,
+							"y" : -38,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 9.7,
+							"type" : "air",
+							"x" : 3,
+							"y" : -39,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 9.7,
+							"type" : "air",
+							"x" : 3,
+							"y" : -40,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 8.5,
+							"type" : "air",
+							"x" : 3,
+							"y" : -41,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 7.3,
+							"type" : "air",
+							"x" : 3,
+							"y" : -42,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 6.1,
+							"type" : "air",
+							"x" : 3,
+							"y" : -43,
+							"z" : -3
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "cavern2"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 6,
+							"type" : "air",
+							"x" : 0,
+							"y" : -40,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 7,
+							"type" : "air",
+							"x" : 0,
+							"y" : -41,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 8,
+							"type" : "air",
+							"x" : 0,
+							"y" : -42,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 9,
+							"type" : "air",
+							"x" : 0,
+							"y" : -43,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 10,
+							"type" : "air",
+							"x" : 0,
+							"y" : -44,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 11,
+							"type" : "air",
+							"x" : 0,
+							"y" : -45,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 12,
+							"type" : "air",
+							"x" : 0,
+							"y" : -46,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 12,
+							"type" : "air",
+							"x" : 0,
+							"y" : -47,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 12,
+							"type" : "air",
+							"x" : 0,
+							"y" : -48,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 12,
+							"type" : "air",
+							"x" : 0,
+							"y" : -49,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 13,
+							"type" : "air",
+							"x" : 0,
+							"y" : -50,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 14,
+							"type" : "air",
+							"x" : 0,
+							"y" : -51,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 15,
+							"type" : "air",
+							"x" : 0,
+							"y" : -52,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 15,
+							"type" : "air",
+							"x" : 0,
+							"y" : -53,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 15,
+							"type" : "air",
+							"x" : 0,
+							"y" : -54,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 15,
+							"type" : "air",
+							"x" : 0,
+							"y" : -55,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 15,
+							"type" : "air",
+							"x" : 0,
+							"y" : -56,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 15,
+							"type" : "air",
+							"x" : 0,
+							"y" : -57,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 15,
+							"type" : "air",
+							"x" : 0,
+							"y" : -58,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 14,
+							"type" : "air",
+							"x" : 0,
+							"y" : -59,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 13,
+							"type" : "air",
+							"x" : 0,
+							"y" : -60,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 12,
+							"type" : "air",
+							"x" : 0,
+							"y" : -61,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -36,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -37,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -38,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -39,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -40,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -41,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -42,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -43,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -44,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -45,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -46,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -47,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -48,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -49,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -50,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -51,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -52,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -53,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -54,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -55,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -56,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -57,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -58,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -59,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -60,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -61,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.1,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -62,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -63,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -64,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "darkstone",
+							"x" : 0,
+							"y" : -65,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "cave"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 2.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 2.75,
+							"type" : "air",
+							"x" : 1,
+							"y" : 9,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 8,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.75,
+							"type" : "air",
+							"x" : 0,
+							"y" : 7,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 6,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 5,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 4,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 3,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 2,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 1,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 0,
+							"y" : 0,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 1,
+							"y" : -1,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 1,
+							"y" : -2,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 2,
+							"y" : -3,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 3,
+							"y" : -4,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 3,
+							"y" : -5,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 3,
+							"y" : -6,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 4,
+							"y" : -7,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 5,
+							"y" : -8,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 6,
+							"y" : -9,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 7,
+							"y" : -10,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 6,
+							"y" : -11,
+							"z" : 5
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 6,
+							"y" : -12,
+							"z" : 6
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 5,
+							"y" : -13,
+							"z" : 6
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 4,
+							"y" : -14,
+							"z" : 5
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 5,
+							"y" : -15,
+							"z" : 6
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 4,
+							"y" : -16,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 4,
+							"y" : -17,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 3,
+							"y" : -18,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 2,
+							"y" : -19,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : 1,
+							"y" : -20,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -1,
+							"y" : -21,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -1,
+							"y" : -22,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -2,
+							"y" : -23,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -24,
+							"z" : -2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -25,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -4,
+							"y" : -26,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -27,
+							"z" : -4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -4,
+							"y" : -28,
+							"z" : -2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -4,
+							"y" : -29,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -4,
+							"y" : -30,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -4,
+							"y" : -31,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -32,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -33,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -34,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -35,
+							"z" : 5
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -36,
+							"z" : 4
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -37,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -38,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -39,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -40,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "air",
+							"x" : -3,
+							"y" : -41,
+							"z" : 2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "entrance"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitecopper",
+							"x" : 0,
+							"y" : -10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitecopper",
+							"x" : -1,
+							"y" : -11,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitecopper",
+							"x" : 1,
+							"y" : -11,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitecopper",
+							"x" : -2,
+							"y" : -12,
+							"z" : -2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitecopper",
+							"x" : 2,
+							"y" : -12,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitecopper",
+							"x" : -3,
+							"y" : -13,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitecopper",
+							"x" : 3,
+							"y" : -13,
+							"z" : 2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "coppernode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitetin",
+							"x" : 0,
+							"y" : -10,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitetin",
+							"x" : 1,
+							"y" : -11,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitetin",
+							"x" : 1,
+							"y" : -11,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitetin",
+							"x" : 2,
+							"y" : -12,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitetin",
+							"x" : 2,
+							"y" : -12,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitetin",
+							"x" : 3,
+							"y" : -13,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitetin",
+							"x" : 3,
+							"y" : -13,
+							"z" : 2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "tinnode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infiniteiron",
+							"x" : 0,
+							"y" : -13,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infiniteiron",
+							"x" : -1,
+							"y" : -14,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infiniteiron",
+							"x" : 1,
+							"y" : -14,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infiniteiron",
+							"x" : -2,
+							"y" : -15,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infiniteiron",
+							"x" : 2,
+							"y" : -15,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infiniteiron",
+							"x" : -3,
+							"y" : -15,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infiniteiron",
+							"x" : 3,
+							"y" : -15,
+							"z" : -2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "ironnode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegypsum",
+							"x" : 0,
+							"y" : -15,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegypsum",
+							"x" : -1,
+							"y" : -14,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegypsum",
+							"x" : 1,
+							"y" : -14,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegypsum",
+							"x" : -2,
+							"y" : -13,
+							"z" : -2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegypsum",
+							"x" : 2,
+							"y" : -13,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegypsum",
+							"x" : -3,
+							"y" : -12,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegypsum",
+							"x" : 3,
+							"y" : -12,
+							"z" : 2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "gypsumnode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infiniteclay",
+							"x" : 0,
+							"y" : -13,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infiniteclay",
+							"x" : -1,
+							"y" : -14,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infiniteclay",
+							"x" : 1,
+							"y" : -14,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infiniteclay",
+							"x" : -2,
+							"y" : -15,
+							"z" : -2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infiniteclay",
+							"x" : 2,
+							"y" : -15,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infiniteclay",
+							"x" : -3,
+							"y" : -16,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infiniteclay",
+							"x" : 3,
+							"y" : -16,
+							"z" : 2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "claynode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitegold",
+							"x" : 0,
+							"y" : -15,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitegold",
+							"x" : -1,
+							"y" : -16,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitegold",
+							"x" : 1,
+							"y" : -16,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitegold",
+							"x" : -2,
+							"y" : -17,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitegold",
+							"x" : 2,
+							"y" : -17,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitegold",
+							"x" : -3,
+							"y" : -18,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitegold",
+							"x" : 3,
+							"y" : -18,
+							"z" : -2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "goldnode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitecoal",
+							"x" : 0,
+							"y" : -15,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.5,
+							"type" : "infinitecoal",
+							"x" : 0,
+							"y" : -16,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.5,
+							"type" : "infinitecoal",
+							"x" : 0,
+							"y" : -17,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitecoal",
+							"x" : 0,
+							"y" : -18,
+							"z" : 0
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "coalnode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitekaolinite",
+							"x" : 0,
+							"y" : -15,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitekaolinite",
+							"x" : -1,
+							"y" : -16,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitekaolinite",
+							"x" : 1,
+							"y" : -16,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitekaolinite",
+							"x" : -2,
+							"y" : -17,
+							"z" : -2
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitekaolinite",
+							"x" : 2,
+							"y" : -17,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitekaolinite",
+							"x" : -3,
+							"y" : -18,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitekaolinite",
+							"x" : 3,
+							"y" : -18,
+							"z" : -2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "kaolinitenode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegalena",
+							"x" : 0,
+							"y" : -18,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegalena",
+							"x" : -1,
+							"y" : -19,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegalena",
+							"x" : 1,
+							"y" : -19,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegalena",
+							"x" : -2,
+							"y" : -20,
+							"z" : -2
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegalena",
+							"x" : 2,
+							"y" : -20,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegalena",
+							"x" : -3,
+							"y" : -21,
+							"z" : -3
+						},
+						{
+							"format" : "circleY",
+							"r" : 4.5,
+							"type" : "infinitegalena",
+							"x" : 3,
+							"y" : -21,
+							"z" : 2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "galenanode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitesalpeter",
+							"x" : 0,
+							"y" : -18,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitesalpeter",
+							"x" : 1,
+							"y" : -19,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitesalpeter",
+							"x" : 1,
+							"y" : -19,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitesalpeter",
+							"x" : 2,
+							"y" : -20,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitesalpeter",
+							"x" : 2,
+							"y" : -20,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitesalpeter",
+							"x" : 3,
+							"y" : -21,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitesalpeter",
+							"x" : 3,
+							"y" : -21,
+							"z" : 2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "salpeternode"
+		},
+		{
+			"actions" : [
+				{
+					"data" : [
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitediamond",
+							"x" : 0,
+							"y" : -20,
+							"z" : 0
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitediamond",
+							"x" : -1,
+							"y" : -21,
+							"z" : 1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitediamond",
+							"x" : 1,
+							"y" : -21,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitediamond",
+							"x" : -2,
+							"y" : -22,
+							"z" : 2
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitediamond",
+							"x" : 2,
+							"y" : -22,
+							"z" : -1
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitediamond",
+							"x" : -3,
+							"y" : -23,
+							"z" : 3
+						},
+						{
+							"format" : "circleY",
+							"r" : 3.3,
+							"type" : "infinitediamond",
+							"x" : 3,
+							"y" : -23,
+							"z" : -2
+						}
+					],
+					"format" : "complex"
+				}
+			],
+			"name" : "diamondnode"
+		}
+	]
+}

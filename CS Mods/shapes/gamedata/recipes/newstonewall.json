@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"newstonewalltwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.newstonewallslopedangle",
+		"requires":[
+				{ "amount":2, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":5, "type":"newstonewallslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownnewstonewallslopedangle",
+		"requires":[
+				{ "amount":2, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownnewstonewallslopedangle" } 
+				]
 	}
 	
 ]

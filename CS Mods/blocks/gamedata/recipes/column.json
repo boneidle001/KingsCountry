@@ -100,10 +100,56 @@
 		"requires":[
 				{ "amount":50, "type":"varnishedoak" },
 				{ "amount":10, "type":"plasterblock" },
-				{ "amount":2, "type":"wine"},
 				],
 		"results":[
 				{ "amount":1, "type":"kings.bar" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.oven",
+		"requires":[
+				{ "amount":50, "type":"stonebricks" },
+				{ "amount":10, "type":"whiteconcrete" },
+				{ "amount":2, "type":"varnishedoak"},
+				],
+		"results":[
+				{ "amount":1, "type":"kings.oven" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.smoker",
+		"requires":[
+				{ "amount":50, "type":"hardwoodplanks" },
+				{ "amount":10, "type":"stonefacade" },
+				{ "amount":2, "type":"coppernails"},
+				],
+		"results":[
+				{ "amount":1, "type":"kings.smoker" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.docks",
+		"requires":[
+				{ "amount":50, "type":"hardwoodplanks" },
+				{ "amount":10, "type":"varnishedoak" },
+				{ "amount":2, "type":"coppernails"},
+				],
+		"results":[
+				{ "amount":1, "type":"kings.docks" } 
+				]
+	},
+	{
+		"defaultLimit" : 1,
+		"name": "kc.mayor.kings.butcher",
+		"requires":[
+				{ "amount":50, "type":"varnishedoak" }
+				{ "amount":2, "type":"coppernails"},
+				],
+		"results":[
+				{ "amount":1, "type":"kings.butcher" } 
 				]
 	}
 

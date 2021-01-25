@@ -1,0 +1,13 @@
+[
+{
+
+"name": "Kings Jobs",
+	"description" : "Jobs for Kings Country requires New Blocks",
+	"version" : "1.0.2",
+	"enableddefault" : true,
+	"dllpath" : "kcjobs.dll",
+	"compatibleversions" : [
+		"0.8.0"
+	]
+}
+]

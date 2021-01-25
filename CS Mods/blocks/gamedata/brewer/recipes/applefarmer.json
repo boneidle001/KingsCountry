@@ -5,8 +5,8 @@
 			
 		],
 		"results" : [
-			{"amount":5,"type":"apple"},
-			{"chance":0.01,"type":"applesapling"}
+			{"amount":7,"type":"apple"},
+			{"chance":0.001,"type":"applesapling"}
 		]
 	}
 ]

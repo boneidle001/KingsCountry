@@ -1,0 +1,182 @@
+{
+	"BaseSettings" : {
+		"BaseHeight" : 150,
+		"CoastHeight" : 3,
+		"DarkStoneDepth" : 8,
+		"DefaultCliffType" : "stoneblock",
+		"DefaultSteepnessThreshold" : 1.3,
+		"DefaultSubTopLayerDepth" : 2,
+		"DefaultSubTopLayerType" : "dirt",
+		"DefaultSubTopLayerTypeSteep" : "stoneblock",
+		"HillRange" : 50,
+		"HillynessLakeDepthPower" : 0.75,
+		"MetaBiomeGridDimensions" : 36,
+		"MetaBiomeGridWorldRadius" : 18000,
+		"PreciseNoiseOffset1Width" : 0.01,
+		"PreciseNoiseOffset2Width" : 0.01,
+		"TemperatureDifferencePerHeight" : -0.15,
+		"WaterLevel" : 148
+	},
+	"CliffSettings" : {
+		"Height" : 60,
+		"NoiseMaskWidth" : 0.0015,
+		"NoiseOffset1Multiplier" : -15,
+		"NoiseOffset2Multiplier" : -17,
+		"NoiseWidth" : 0.001
+	},
+	"NoiseOctaves" : {
+		"Height" : [
+			{
+				"ReciprocalWidth" : 0.002,
+				"Scale" : 1
+			},
+			{
+				"ReciprocalWidth" : 0.004,
+				"Scale" : 0.5
+			},
+			{
+				"ReciprocalWidth" : 0.008,
+				"Scale" : 0.1
+			}
+		],
+		"Hillyness" : [
+			{
+				"ReciprocalWidth" : 256,
+				"Scale" : 1.75
+			},
+			{
+				"ReciprocalWidth" : 128,
+				"Scale" : 1
+			},
+			{
+				"ReciprocalWidth" : 64,
+				"Scale" : 1
+			},
+			{
+				"ReciprocalWidth" : 8,
+				"Scale" : 0.5
+			},
+			{
+				"ReciprocalWidth" : 6,
+				"Scale" : 0.5
+			},
+			{
+				"ReciprocalWidth" : 4,
+				"Scale" : 0.25
+			}
+		],
+		"Precipitation" : [
+			{
+				"ReciprocalWidth" : 0.00005,
+				"Scale" : 1
+			},
+			{
+				"ReciprocalWidth" : 0.000075,
+				"Scale" : 0.5
+			},
+			{
+				"ReciprocalWidth" : 0.0002,
+				"Scale" : 0.2
+			}
+		],
+		"Temperature" : [
+			{
+				"ReciprocalWidth" : 0.000025,
+				"Scale" : 1
+			},
+			{
+				"ReciprocalWidth" : 0.00005,
+				"Scale" : 0.5
+			},
+			{
+				"ReciprocalWidth" : 0.0001,
+				"Scale" : 0.2
+			}
+		]
+	},
+	"OreLayers" : [
+		{
+			"Chance" : 24,
+			"Depth" : 70,
+			"Type" : "infinitecopper"
+		},
+		{
+			"Chance" : 8,
+			"Depth" : 71,
+			"Type" : "infinitetin"
+		},
+		{
+			"Chance" : 10,
+			"Depth" : 72,
+			"Type" : "infiniteiron"
+		},
+		{
+			"Chance" : 10,
+			"Depth" : 73,
+			"Type" : "infiniteclay"
+		},
+		{
+			"Chance" : 10,
+			"Depth" : 74,
+			"Type" : "infinitegypsum"
+		},
+		{
+			"Chance" : 10,
+			"Depth" : 75,
+			"Type" : "infinitegold"
+		},
+		{
+			"Chance" : 10,
+			"Depth" : 76,
+			"Type" : "infinitecoal"
+		},
+		{
+			"Chance" : 10,
+			"Depth" : 77,
+			"ScienceBiome" : "sciencebiome.fareast",
+			"Type" : "infinitekaolinite"
+		},
+		{
+			"Chance" : 10,
+			"Depth" : 78,
+			"Type" : "infinitegalena"
+		},
+		{
+			"Chance" : 10,
+			"Depth" : 79,
+			"Type" : "infinitesalpeter"
+		},
+		{
+			"Chance" : 5,
+			"Depth" : 80,
+			"ScienceBiome" : "sciencebiome.tropics",
+			"Type" : "infinitediamond"
+		}
+	],
+	"RidgeSettings" : {
+		"MaxHeight" : 25,
+		"NoiseMaskWidth" : 0.003,
+		"NoiseOffset1Multiplier" : -15,
+		"NoiseOffset2Multiplier" : 12,
+		"NoiseWidth" : 0.001,
+		"Power" : 0.7
+	},
+	"RiverSettings" : {
+		"Depth" : 2,
+		"MaxCanyonDepth" : 150,
+		"NoiseMaskWidth" : 0.0001,
+		"NoiseOffset1Multiplier" : 20,
+		"NoiseOffset2Multiplier" : -25,
+		"NoiseWidth" : 0.001,
+		"Power" : 0.85
+	},
+	"TechnicalSettings" : {
+		"CacheChunkStructuresCapacity" : 150,
+		"CacheGatheredStructuresCapacity" : 150,
+		"CachePreciseSamplesCapacity" : 150,
+		"CacheRoughSamplesCapacity" : 90,
+		"PoolPreciseSampleCapacity" : 10,
+		"PoolStructureListCapacity" : 10,
+		"QueueBufferedSize" : 10000
+	}
+}

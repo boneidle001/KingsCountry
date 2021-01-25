@@ -2,10 +2,10 @@
 {
 "name": "Lights",
 	"description" : "Adds various new lights more to come",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"enableddefault": true,
 	"compatibleversions": [
-		"0.7.0", "0.7.1","0.7.2"
+		"0.7.1"
 	],
 
 "jsonFiles" :

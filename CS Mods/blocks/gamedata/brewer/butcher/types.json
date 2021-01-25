@@ -1,0 +1,67 @@
+{
+	"mincebeef" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/mincedbeefraw.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	},
+	"rawbeefburger" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/burgerraw.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	},
+	"rawmeatballs" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/meatballsraw.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	},
+
+	"ribeyesteak" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/ribeyeraw.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	},
+	"tbonesteak" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/tboneraw.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	},
+	"sirlionsteak" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/sirlionraw.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	},
+	"rumpsteak" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/rumpraw.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	},
+
+	"dicedbeef" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/dicedbeef.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	},
+
+	"beefjoint" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/beefjointraw.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false	
+	},
+
+	"beefcuts" : {
+		"categories" : ["beef", "food", "kings"],
+		"icon" : "../../textures/icon/beefcuts.png",
+		"maxStackSize" : 50,
+		"isPlaceable" : false
+	}
+
+}

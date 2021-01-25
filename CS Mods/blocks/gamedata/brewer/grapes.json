@@ -11,9 +11,7 @@
 		"icon" : "../textures/icon/grapes.png",
 		"maxStackSize" : 5000,
 		"isPlaceable" : false,
-		"dailyFoodFractionOptimal" : 0.5,
-		"foodValue" : 0.12,
-		"happiness" : 10
+		"colonyPointsMeal" : 10,
 	},
 	
 	"grapesframe" : {

@@ -61,6 +61,36 @@
 	},
 	{
 		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stonewall2",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonewall2" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stonewall3",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonewall3" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.stonewall4",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"stonewall4" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
 		"name": "kc.brickmaker.wornbrickwall",
 		"requires":[
 				{ "amount":2, "type":"stonebricks" }
@@ -127,6 +157,26 @@
 				],
 		"results":[
 				{ "amount":5, "type":"redtiles" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.greytile",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"greytile" } 
+				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"name": "kc.brickmaker.leafytile",
+		"requires":[
+				{ "amount":2, "type":"stonebricks" }
+				],
+		"results":[
+				{ "amount":5, "type":"leafytile" } 
 				]
 	},
 	{

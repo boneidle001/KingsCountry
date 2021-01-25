@@ -48,6 +48,12 @@
 		"normal" : "kilndoor",
 		"emissive" : "torch"
 		},
+	"metalgeneric" : {
+		"albedo" : "neutral",
+		"height" : "kilndoor",
+		"normal" : "kilndoor",
+		"emissive" : "torch"
+		},
 		
 	"alebarrel" : {
 		"albedo" : "alebarrel",
@@ -80,7 +86,23 @@
 		"height" : "appleleaves",
 		"normal" : "appleleaves"
 		},
-		
+	
+	"fishtop" : {
+		"albedo" : "fishtop",
+		"height" : "fishtop",
+		"normal" : "fishtop"
+	},
+	"cow" : {
+		"albedo" : "cow",
+		"height" : "cow",
+		"normal" : "cow"
+	},
+	"cowskin" : {
+		"albedo" : "cowskin",
+		"height" : "cowskin",
+		"normal" : "cowskin"
+	},
+
 	"paving" : {
 		"albedo" : "paving",
 		"height" : "paving",
@@ -200,5 +222,101 @@
 		"albedo" : "varnishedoak",
 		"height" : "varnishedoak",
 		"normal" : "varnishedoak"
+		},
+	"bandedplanks" : {
+		"albedo" : "bandedplanks",
+		"height" : "bandedplanks",
+		"normal" : "bandedplanks"
+		},
+	"pineplanks" : {
+		"albedo" : "pineplanks",
+		"height" : "pineplanks",
+		"normal" : "pineplanks"
+		},
+	"polishedpine" : {
+		"albedo" : "polishedpine",
+		"height" : "polishedpine",
+		"normal" : "polishedpine"
+		},
+	"woodentile" : {
+		"albedo" : "woodentile",
+		"height" : "woodentile",
+		"normal" : "woodentile"
+		},
+	"gravel" : {
+		"albedo" : "gravel",
+		"height" : "gravel",
+		"normal" : "gravel"
+		},
+	"gravel1" : {
+		"albedo" : "gravel1",
+		"height" : "gravel1",
+		"normal" : "gravel1"
+		},
+	"greytile" : {
+		"albedo" : "greytile",
+		"height" : "greytile",
+		"normal" : "greytile"
+		},
+	"leafytile" : {
+		"albedo" : "leafytile",
+		"height" : "leafytile",
+		"normal" : "leafytile"
+		},
+	"stonewall2" : {
+		"albedo" : "stonewall2",
+		"height" : "stonewall2",
+		"normal" : "stonewall2"
+		},
+	"stonewall3" : {
+		"albedo" : "stonewall3",
+		"height" : "stonewall3",
+		"normal" : "stonewall3"
+		},
+	"stonewall4" : {
+		"albedo" : "stonewall4",
+		"height" : "stonewall4",
+		"normal" : "stonewall4"
+		},
+	"oldpath" : {
+		"albedo" : "oldpath",
+		"height" : "oldpath",
+		"normal" : "oldpath"
+		},
+	"planks1" : {
+		"albedo" : "planks1",
+		"height" : "planks1",
+		"normal" : "planks1"
+		},
+	"woodpanel" : {
+		"albedo" : "woodpanel",
+		"height" : "woodpanel",
+		"normal" : "woodpanel"
+		},
+	"tatami" : {
+		"albedo" : "tatami",
+		"height" : "tatami",
+		"normal" : "tatami"
+		},
+	"irondoor" : {
+		"albedo" : "irondoor",
+		"height" : "irondoor",
+		"normal" : "irondoor"
+		},
+	"gold" : {
+		"albedo" : "gold",
+		"height" : "gold",
+		"normal" : "gold",
+	}
+
+	"woodfurniture" : {
+		"albedo" : "woodveneergeneric",
+		"height" : "woodveneer",
+		"normal" : "woodveneer"
+		},
+	"leather" : {
+		"albedo" : "leather",
+		"height" : "leather",
+		"normal" : "leather"
 		}
 }

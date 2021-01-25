@@ -231,12 +231,22 @@
 	},
 	{
 		"defaultLimit" : 100,
-		"name": "kc.brickmaker.brickpathtwostepinnercorner",
+		"name": "kc.brickmaker.brickpathslopedangle",
 		"requires":[
 				{ "amount":2, "type":"brickpath" }
 				],
 		"results":[
-				{ "amount":5, "type":"brickpathtwostepinnercorner" } 
+				{ "amount":5, "type":"brickpathslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownbrickpathslopedangle",
+		"requires":[
+				{ "amount":2, "type":"brickpath" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownbrickpathslopedangle" } 
 				]
 	}
 	

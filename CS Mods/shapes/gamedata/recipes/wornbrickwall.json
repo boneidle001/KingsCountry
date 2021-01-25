@@ -238,6 +238,26 @@
 		"results":[
 				{ "amount":5, "type":"wornbrickwalltwostepinnercorner" } 
 				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.wornbrickwallslopedangle",
+		"requires":[
+				{ "amount":2, "type":"wornbrickwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"wornbrickwallslopedangle" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.brickmaker.upsidedownwornbrickwallslopedangle",
+		"requires":[
+				{ "amount":2, "type":"wornbrickwall" }
+				],
+		"results":[
+				{ "amount":5, "type":"upsidedownwornbrickwallslopedangle" } 
+				]
 	}
 	
 ]

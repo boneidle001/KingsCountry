@@ -41,9 +41,9 @@
 	
 	{	
 		"blockType" : "kings.brewery",
-		"cooldown" : 15,
+		"cooldown" : 30,
 		"jobType" : "craftingblockrotated",
-		"maxCraftsPerHaul" : 1,
+		"maxCraftsPerHaul" : 5,
 		"npcType" : "kc.brewer"
 	},
 	
@@ -51,14 +51,14 @@
 		"blockType" : "kings.bartaps",
 		"cooldown" : 15,
 		"jobType" : "craftingblockrotated",
-		"maxCraftsPerHaul" : 5,
+		"maxCraftsPerHaul" : 10,
 		"npcType" : "kc.bar"
 	},
 	{	
 		"blockType" : "kings.bottlerleg",
 		"cooldown" : 15,
 		"jobType" : "craftingblockrotated",
-		"maxCraftsPerHaul" : 5,
+		"maxCraftsPerHaul" : 15,
 		"npcType" : "kc.bottler"
 	},
 	
@@ -66,14 +66,57 @@
 		"blockType" : "kings.glasstable",
 		"cooldown" : 5,
 		"jobType" : "craftingblockrotated",
-		"maxCraftsPerHaul" : 5,
+		"maxCraftsPerHaul" : 10,
 		"npcType" : "kc.glassmaker"
 	},
 	{	
 		"blockType" : "kings.glasspress",
 		"cooldown" : 5,
 		"jobType" : "craftingblockrotated",
-		"maxCraftsPerHaul" : 5,
+		"maxCraftsPerHaul" : 10,
 		"npcType" : "kc.glassmaker"
+	},
+
+	{	
+		"blockType" : "kings.boatfisher",
+		"cooldown" : 15,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "kc.boatfisher"
+	},
+	{	
+		"blockType" : "kings.dockworker",
+		"cooldown" : 10,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 5,
+		"npcType" : "kc.dockworker"
+	},
+	{	
+		"blockType" : "kings.smoker",
+		"cooldown" : 5,
+		"jobType" : "craftingblock",
+		"maxCraftsPerHaul" : 15,
+		"npcType" : "kc.smoker"
+	},
+	{	
+		"blockType" : "kings.oven",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "kc.baker"
+	},
+	{	
+		"blockType" : "kings.chef",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 10,
+		"npcType" : "kc.chef"
+	},
+	{	
+		"blockType" : "kings.butcher",
+		"cooldown" : 5,
+		"jobType" : "craftingblockrotated",
+		"maxCraftsPerHaul" : 20,
+		"npcType" : "kc.butcher"
 	}
 ]

@@ -151,6 +151,18 @@
 		"results":[
 				{ "amount":5, "type":"steelpaneldeepgrey" } 
 				]
+	},
+	{
+		"defaultLimit" : 1000,
+		"defaultPriority" : 100,
+		"name": "kc.forger.goldbrick",
+		"requires":[
+				{"amount":10,"type":"goldore"},
+				{"type":"cokes"}
+				],
+		"results":[
+				{ "amount":5, "type":"goldbrick" } 
+				]
 	}
 ]
 

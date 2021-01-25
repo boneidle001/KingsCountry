@@ -15,7 +15,7 @@
 					"useNormalMap" : true
 				},	
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -41,7 +41,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -67,7 +67,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -93,7 +93,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -119,7 +119,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -150,7 +150,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -181,7 +181,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -213,7 +213,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -244,7 +244,7 @@
 					{"min":[0.0, -0.5, -0.5],"max":[0.5, 0.5, 0.5]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -275,7 +275,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.5]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -306,7 +306,7 @@
 					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -338,7 +338,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -364,7 +364,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -390,7 +390,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -421,7 +421,7 @@
 					{"min":[-0.5, 0.0, 0.0],"max":[0.0, 0.5, 0.5]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -447,7 +447,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -478,7 +478,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -504,7 +504,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -536,7 +536,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -562,7 +562,7 @@
 					"useNormalMap" : true
 				},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -592,7 +592,7 @@
 					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -624,7 +624,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -655,7 +655,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.0]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -687,7 +687,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -719,7 +719,7 @@
 					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
 				]},
 			"blocksPathing" : true,
-			"isSolid" : false,
+			"isSolid" : true,
 			"collidePlayer" : true,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
@@ -728,5 +728,37 @@
 		},
 		"generateType" : "rotateBlock",
 		"typeName" : "logwallslopedangle"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["kings", "step", "two", "corner", "stone", "decorative"],
+			"icon" : "../textures/icon/logwall/icon_26.png",
+			"mesh" : "../meshes/slopedangleblock.ply",
+			"meshRotationEuler" : {
+				"x" : 180,
+				"y" : 180,
+				"z" : 0
+				},
+			"customData" : {
+					"colors":["#ff0000->#ffffff"],
+					"useHeightMap" : true,
+					"useNormalMap" : true
+				},
+			"colliders" : {
+				"boxes" : [
+					{"min":[-0.5, -0.5, -0.5],"max":[0.5, 0.0, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.0, 0.5, 0.5]},
+					{"min":[-0.5, 0.0, -0.5],"max":[0.5, 0.5, 0.0]}
+				]},
+			"blocksPathing" : true,
+			"isSolid" : true,
+			"collidePlayer" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "logwall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "upsidedownlogwallslopedangle"
 	}
 ]

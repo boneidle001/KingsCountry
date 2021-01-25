@@ -2,11 +2,11 @@
 {
 "name": "Spiral Stairs",
 	"description" : "Spiral stairs which npcs and players can use",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"enableddefault": true,
 	"dllpath" : "SpiralStairs.dll",
 	"compatibleversions": [
-		"0.7.0", "0.7.1","0.7.2"
+		"0.7.1"
 	],
 
 "jsonFiles" :
