@@ -307,7 +307,7 @@
 		"albedo" : "gold",
 		"height" : "gold",
 		"normal" : "gold",
-	}
+	},
 
 	"woodfurniture" : {
 		"albedo" : "woodveneergeneric",

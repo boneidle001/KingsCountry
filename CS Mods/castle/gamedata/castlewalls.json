@@ -1,0 +1,173 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall.png",
+			"mesh" : "./meshes/wall.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wall.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall_1t_2b.png",
+			"mesh" : "./meshes/wall1t2b.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wall1t2b.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall_2t_1b.png",
+			"mesh" : "./meshes/wall2t1b.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wall2t1b.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall_corner_angled.png",
+			"mesh" : "./meshes/wallcornerangled.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallcornerangled.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall_end_1.png",
+			"mesh" : "./meshes/wallend1.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallend1.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall_end_2.png",
+			"mesh" : "./meshes/wallend2.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallend2.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall_slab.png",
+			"mesh" : "./meshes/wallslab.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallslab.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall_ramp.png",
+			"mesh" : "./meshes/wallslope.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallslope.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/concrete_wall_ramp_upsidedown.png",
+			"mesh" : "./meshes/wallslopeupsidedown.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallslopeupsidedown.concrete"		
+	}
+]

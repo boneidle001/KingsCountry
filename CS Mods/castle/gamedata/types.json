@@ -1,0 +1,41 @@
+{		
+	"kings.obelisk" : {
+		"categories" : ["kings", "obelisk"],
+		"customData" : {
+			"useNormalMap" : true,
+			"useHeightMap" : true
+			},
+		"colliders" : {
+			"boxes" : [{"max":[1.5,3.5,1.5],"min":[-1.5,-0.5,-1.5]}],
+			"collidePlayer" : true
+			},
+		"mesh" : "./meshes/obelisk.ply",
+		"icon" : "./textures/icon/obelisk.png",
+		"isSolid" : true,
+		"maxStackSize" : 10,
+		"needsBase" : false,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "concrete"
+	},
+
+	"kc.castle.wallcorner" : {
+		"categories" : ["kings", "Castle", "wall"],
+		"customData" : {
+			"useNormalMap" : true,
+			"useHeightMap" : true
+			},
+		"colliders" : {
+			"boxes" : [{"max":[1.5,3.5,1.5],"min":[-1.5,-0.5,-1.5]}],
+			"collidePlayer" : true
+			},
+		"mesh" : "./meshes/wallcorner.ply",
+		"icon" : "./textures/icon/concrete_wall_corner.png",
+		"isSolid" : true,
+		"maxStackSize" : 10,
+		"needsBase" : false,
+		"onPlaceAudio" : "stonePlace",
+		"onRemoveAudio" : "stoneDelete",
+		"sideall" : "concrete"
+	}
+}
