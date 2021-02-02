@@ -111,17 +111,6 @@
 				]
 	},
 
-	
-	{
-		"defaultLimit" : 100,
-		"name": "kc.castlecrafter.banner",
-		"requires":[
-				{ "amount":5, "type":"concrete" }
-				],
-		"results":[
-				{ "amount":10, "type":"kc.castle.banner" } 
-				]
-	},
 	{
 		"defaultLimit" : 100,
 		"name": "kc.castlecrafter.lightceilingconcrete",
