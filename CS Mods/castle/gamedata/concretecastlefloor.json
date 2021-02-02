@@ -10,6 +10,7 @@
 				"z" : 0
 				},
 			"isSolid" : false,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
@@ -29,6 +30,7 @@
 				"z" : 0
 				},
 			"isSolid" : false,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
@@ -48,6 +50,7 @@
 				"z" : 0
 				},
 			"isSolid" : false,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",

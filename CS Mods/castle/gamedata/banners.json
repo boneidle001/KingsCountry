@@ -1,0 +1,118 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["castle", "banner", "decorative"],
+			"icon" : "./textures/icon/banner_red.png",
+			"mesh" : "./meshes/banner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "neutral"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.banner.red"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "banner", "decorative"],
+			"icon" : "./textures/icon/banner_white.png",
+			"mesh" : "./meshes/banner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"customData" : {
+			"colors":[
+				"#ff0000->#ffffff"
+				]},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "neutral"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.banner.white"		
+	},	
+	{
+		"baseType" : {
+			"categories" : ["castle", "banner", "decorative"],
+			"icon" : "./textures/icon/banner_black.png",
+			"mesh" : "./meshes/banner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"customData" : {
+			"colors":[
+				"#ff0000->#000000"
+				]},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "neutral"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.banner.black"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "banner", "decorative"],
+			"icon" : "./textures/icon/banner_yellow.png",
+			"mesh" : "./meshes/banner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"customData" : {
+			"colors":[
+				"#ff0000->#ffff00"
+				]},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "neutral"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.banner.yellow"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "banner", "decorative"],
+			"icon" : "./textures/icon/banner_blue.png",
+			"mesh" : "./meshes/banner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"customData" : {
+			"colors":[
+				"#ff0000->#0000ff"
+				]},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "neutral"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.banner.blue"		
+	}
+]

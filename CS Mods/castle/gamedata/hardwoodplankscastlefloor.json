@@ -1,0 +1,62 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["castle", "floor", "decorative"],
+			"icon" : "./textures/icon/hardwoodplanks_floor_3x3.png",
+			"mesh" : "./meshes/floor3x3.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.floor3x3.hardwoodplanks"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "floor", "decorative"],
+			"icon" : "./textures/icon/hardwoodplanks_floor_3x1.png",
+			"mesh" : "./meshes/floor3x1.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.floor3x1.hardwoodplanks"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "floor", "decorative"],
+			"icon" : "./textures/icon/hardwoodplanks_floor_1x3.png",
+			"mesh" : "./meshes/floor1x3.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.floor1x3.hardwoodplanks"		
+	}
+]

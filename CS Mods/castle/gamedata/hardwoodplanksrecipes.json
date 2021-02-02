@@ -1,0 +1,93 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor3x3hardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor3x3.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor1x3hardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor1x3.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor3x1hardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor3x1.hardwoodplanks" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.lightceilinghardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.lightceiling.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanelhardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanel.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanel3hardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanel3.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanelcornerhardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanelcorner.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.windowinsidehardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.windowinside.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.windowoutsidehardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.windowoutside.hardwoodplanks" } 
+				]
+	}
+]

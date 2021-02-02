@@ -26,7 +26,7 @@
 			"useHeightMap" : true
 			},
 		"colliders" : {
-			"boxes" : [{"max":[1.5,3.5,1.5],"min":[-1.5,-0.5,-1.5]}],
+			"boxes" : [{"max":[0.55,0.5,0.55],"min":[-0.55,-0.5,-0.55]}],
 			"collidePlayer" : true
 			},
 		"mesh" : "./meshes/wallcorner.ply",

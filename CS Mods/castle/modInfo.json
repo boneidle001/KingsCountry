@@ -20,21 +20,6 @@
 		"index" : -800000,
 		"relativePath" : "gamedata/generateblocks.json"
 	},
-    {
-		"fileType" : "generateBlocks",
-		"index" : -800000,
-		"relativePath" : "gamedata/castlefloor.json"
-	},
-    {
-		"fileType" : "generateBlocks",
-		"index" : -800000,
-		"relativePath" : "gamedata/castlewalls.json"
-	},
-    {
-		"fileType" : "generateBlocks",
-		"index" : -800000,
-		"relativePath" : "gamedata/castledecor.json"
-	},
 	{
 		"fileType" : "addOrReplaceNPCRecipes",
 		"index" : -800000,
@@ -43,7 +28,114 @@
 			],
 			"npcType" : "pipliz.stonemason",
 		"relativePath" : "gamedata/recipes.json"
+	},
+
+    {
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/banners.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"kc.castle.worktablez-",
+			"kc.castle.worktablez+",
+			"kc.castle.worktablex-",
+			"kc.castle.worktablex+"
+			],
+			"npcType" : "kc.castlecrafter",
+		"relativePath" : "gamedata/bannerrecipes.json"
+	},
+
+	{
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/concretecastlewalls.json"
+	},
+	{
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/concretecastlefloor.json"
+	},
+    {
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/concretecastledecor.json"
+	},
+
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/hardwoodplankscastlefloor.json"
+	},
+    {
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/hardwoodplankscastledecor.json"
+	},
+
+	
+	{
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/varnishedoakcastlefloor.json"
+	},
+    {
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/varnishedoakcastledecor.json"
+	},
+
+	{
+		"fileType" : "addBlockJobs",
+		"index" : -800000,
+		"relativePath" : "gamedata/jobblocks.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCTypes",
+		"index" : -800000,
+		"relativePath" : "gamedata/npcTypes.json"
+	},
+
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"kc.castle.worktablez-",
+			"kc.castle.worktablez+",
+			"kc.castle.worktablex-",
+			"kc.castle.worktablex+"
+			],
+			"npcType" : "kc.castlecrafter",
+		"relativePath" : "gamedata/concreterecipes.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"kc.castle.worktablez-",
+			"kc.castle.worktablez+",
+			"kc.castle.worktablex-",
+			"kc.castle.worktablex+"
+			],
+			"npcType" : "kc.castlecrafter",
+		"relativePath" : "gamedata/hardwoodplanksrecipes.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"kc.castle.worktablez-",
+			"kc.castle.worktablez+",
+			"kc.castle.worktablex-",
+			"kc.castle.worktablex+"
+			],
+			"npcType" : "kc.castlecrafter",
+		"relativePath" : "gamedata/varnsihedoakrecipes.json"
 	}
+
 	]
 }
 ]

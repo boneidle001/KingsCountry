@@ -1,0 +1,185 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wall.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wall1t2bconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wall1t2b.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wall2t1bconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wall2t1b.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallcornerangledconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallcornerangled.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallend2concrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallend2.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallslabconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallslab.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallslopeconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallslope.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallslopeupsidedownconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallslopeupsidedown.concrete" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor3x3concrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor3x3.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor1x3concrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor1x3.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor3x1concrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor3x1.concrete" } 
+				]
+	},
+
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.banner",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.banner" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.lightceilingconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.lightceiling.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanelconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanel.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanel3concrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanel3.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanelcornerconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanelcorner.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.windowinsideconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.windowinside.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.windowoutsideconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.windowoutside.concrete" } 
+				]
+	}
+]

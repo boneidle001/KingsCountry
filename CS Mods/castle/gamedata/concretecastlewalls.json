@@ -2,6 +2,29 @@
 	{
 		"baseType" : {
 			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/hardwoodplanks_worktable.png",
+			"mesh" : "./meshes/worktable.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"colliders" : {
+				"boxes" : [{"max":[0.5,0.5,1.5],"min":[-0.5,-0.5,-1.5]}],
+				"collidePlayer" : true
+				},
+			"isSolid" : true,
+			"maxStackSize" : 10,
+			"onPlaceAudio" : "stonePlace",
+			"onRemoveAudio" : "stoneDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.worktable"		
+	},	
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
 			"icon" : "./textures/icon/concrete_wall.png",
 			"mesh" : "./meshes/wall.ply",
 			"meshRotationEuler" : {
@@ -67,6 +90,7 @@
 				"z" : 0
 				},
 			"isSolid" : true,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "stonePlace",
 			"onRemoveAudio" : "stoneDelete",
@@ -124,6 +148,7 @@
 				"z" : 0
 				},
 			"isSolid" : true,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "stonePlace",
 			"onRemoveAudio" : "stoneDelete",
@@ -143,6 +168,7 @@
 				"z" : 0
 				},
 			"isSolid" : true,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "stonePlace",
 			"onRemoveAudio" : "stoneDelete",
@@ -162,6 +188,7 @@
 				"z" : 0
 				},
 			"isSolid" : true,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "stonePlace",
 			"onRemoveAudio" : "stoneDelete",

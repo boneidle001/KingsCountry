@@ -1,0 +1,10 @@
+[
+	{
+		"data" : {
+			"maskColor1" : "#000080"
+		},
+		"keyName" : "kc.castlecrafter",
+		"npcType" : "worker",
+		"printName" : "Castle Worker"
+	}
+]

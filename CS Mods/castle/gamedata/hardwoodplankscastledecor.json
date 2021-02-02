@@ -1,27 +1,8 @@
 [
 	{
 		"baseType" : {
-			"categories" : ["castle", "banner", "decorative"],
-			"icon" : "./textures/icon/banner.png",
-			"mesh" : "./meshes/banner.ply",
-			"meshRotationEuler" : {
-				"x" : 0,
-				"y" : 270,
-				"z" : 0
-				},
-			"isSolid" : false,
-			"maxStackSize" : 500,
-			"onPlaceAudio" : "dirtPlace",
-			"onRemoveAudio" : "grassDelete",
-			"sideall" : "neutral"
-		},
-		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.banner"		
-	},
-	{
-		"baseType" : {
 			"categories" : ["castle", "light", "decorative"],
-			"icon" : "./textures/icon/concrete_light_ceiling.png",
+			"icon" : "./textures/icon/hardwoodplanks_light_ceiling.png",
 			"mesh" : "./meshes/lightceiling.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -29,18 +10,22 @@
 				"z" : 0
 				},
 			"isSolid" : true,
+			"customData" : {
+				"offsety" : -0.5
+				"torches" : {"a":{"color":"#db7b2b","intensity":12.5,"range":16,"volume":0.5}}
+				},
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "concrete"
+			"sideall" : "hardwoodplanks"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.lightceiling.concrete"		
+		"typeName" : "kc.castle.lightceiling.hardwoodplanks"		
 	},
 	{
 		"baseType" : {
 			"categories" : ["castle", "wall", "panel", "decorative"],
-			"icon" : "./textures/icon/concrete_wall_panel_1.png",
+			"icon" : "./textures/icon/hardwoodplanks_wall_panel_1.png",
 			"mesh" : "./meshes/wallpanel.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -48,18 +33,19 @@
 				"z" : 0
 				},
 			"isSolid" : false,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "concrete"
+			"sideall" : "hardwoodplanks"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.wallpanel.concrete"		
+		"typeName" : "kc.castle.wallpanel.hardwoodplanks"		
 	},
 	{
 		"baseType" : {
 			"categories" : ["castle",  "wall", "panel", "decorative"],
-			"icon" : "./textures/icon/concrete_wall_panel_3.png",
+			"icon" : "./textures/icon/hardwoodplanks_wall_panel_3.png",
 			"mesh" : "./meshes/wallpanel3.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -67,18 +53,19 @@
 				"z" : 0
 				},
 			"isSolid" : false,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "concrete"
+			"sideall" : "hardwoodplanks"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.wallpanel3.concrete"		
+		"typeName" : "kc.castle.wallpanel3.hardwoodplanks"		
 	},
 	{
 		"baseType" : {
 			"categories" : ["castle",  "wall", "panel", "decorative"],
-			"icon" : "./textures/icon/concrete_wall_panel_corner.png",
+			"icon" : "./textures/icon/hardwoodplanks_wall_panel_corner.png",
 			"mesh" : "./meshes/wallpanelcorner.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -86,18 +73,19 @@
 				"z" : 0
 				},
 			"isSolid" : false,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "concrete"
+			"sideall" : "hardwoodplanks"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.wallpanelcorner.concrete"		
+		"typeName" : "kc.castle.wallpanelcorner.hardwoodplanks"		
 	},
 	{
 		"baseType" : {
 			"categories" : ["castle",  "window", "decorative"],
-			"icon" : "./textures/icon/concrete_window_inside.png",
+			"icon" : "./textures/icon/hardwoodplanks_window_inside.png",
 			"mesh" : "./meshes/windowframeinside.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -105,18 +93,19 @@
 				"z" : 0
 				},
 			"isSolid" : false,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "concrete"
+			"sideall" : "hardwoodplanks"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.windowinside.concrete"		
+		"typeName" : "kc.castle.windowinside.hardwoodplanks"		
 	},
 	{
 		"baseType" : {
 			"categories" : ["castle",  "window", "decorative"],
-			"icon" : "./textures/icon/concrete_window_outside.png",
+			"icon" : "./textures/icon/hardwoodplanks_window_outside.png",
 			"mesh" : "./meshes/windowframeoutside.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -124,12 +113,13 @@
 				"z" : 0
 				},
 			"isSolid" : false,
+			"lightingTransparency" : 255,
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "concrete"
+			"sideall" : "hardwoodplanks"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.windowoutside.concrete"		
+		"typeName" : "kc.castle.windowoutside.hardwoodplanks"		
 	}
 ]

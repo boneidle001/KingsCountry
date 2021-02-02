@@ -1,0 +1,93 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor3x3varnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor3x3.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor1x3varnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor1x3.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor3x1varnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor3x1.varnishedoak" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.lightceilingvarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.lightceiling.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanelvarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanel.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanel3varnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanel3.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.wallpanelcornervarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.wallpanelcorner.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.windowinsidevarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.windowinside.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.windowoutsidevarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.windowoutside.varnishedoak" } 
+				]
+	}
+]

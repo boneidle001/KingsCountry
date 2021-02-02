@@ -1,0 +1,52 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.bannerred",
+		"requires":[
+				{ "amount":5, "type":"linen" }
+				],
+		"results":[
+				{ "amount":1, "type":"kc.castle.banner.red" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.bannerwhite",
+		"requires":[
+				{ "amount":5, "type":"linen" }
+				],
+		"results":[
+				{ "amount":1, "type":"kc.castle.banner.white" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.bannerblack",
+		"requires":[
+				{ "amount":5, "type":"linen" }
+				],
+		"results":[
+				{ "amount":1, "type":"kc.castle.banner.black" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.banneryellow",
+		"requires":[
+				{ "amount":5, "type":"linen" }
+				],
+		"results":[
+				{ "amount":1, "type":"kc.castle.banner.yellow" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.bannerblue",
+		"requires":[
+				{ "amount":5, "type":"linen" }
+				],
+		"results":[
+				{ "amount":1, "type":"kc.castle.banner.blue" } 
+				]
+	},
+]

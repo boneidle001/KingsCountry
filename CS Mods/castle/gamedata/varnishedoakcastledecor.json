@@ -1,0 +1,125 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["castle", "light", "decorative"],
+			"icon" : "./textures/icon/varnishedoak_light_ceiling.png",
+			"mesh" : "./meshes/lightceiling.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"customData" : {
+				"offsety" : -0.5
+				"torches" : {"a":{"color":"#db7b2b","intensity":12.5,"range":16,"volume":0.5}}
+				},
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.lightceiling.varnishedoak"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "panel", "decorative"],
+			"icon" : "./textures/icon/varnishedoak_wall_panel_1.png",
+			"mesh" : "./meshes/wallpanel.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallpanel.varnishedoak"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle",  "wall", "panel", "decorative"],
+			"icon" : "./textures/icon/varnishedoak_wall_panel_3.png",
+			"mesh" : "./meshes/wallpanel3.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallpanel3.varnishedoak"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle",  "wall", "panel", "decorative"],
+			"icon" : "./textures/icon/varnishedoak_wall_panel_corner.png",
+			"mesh" : "./meshes/wallpanelcorner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.wallpanelcorner.varnishedoak"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle",  "window", "decorative"],
+			"icon" : "./textures/icon/varnishedoak_window_inside.png",
+			"mesh" : "./meshes/windowframeinside.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.windowinside.varnishedoak"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle",  "window", "decorative"],
+			"icon" : "./textures/icon/varnishedoak_window_outside.png",
+			"mesh" : "./meshes/windowframeoutside.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : false,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.windowoutside.varnishedoak"		
+	}
+]
