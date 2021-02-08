@@ -1,0 +1,886 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall.png",
+			"mesh" : "./meshes/wall.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall_diagonal_large.png",
+			"mesh" : "./meshes/wall/wall_diagonal.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.concrete"		
+	},	
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall_diagonal_left.png",
+			"mesh" : "./meshes/wall/wall_diagonal_left.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.left.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall_diagonal_small.png",
+			"mesh" : "./meshes/wall/wall_diagonal_small.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.small.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall_diagonal_right.png",
+			"mesh" : "./meshes/wall/wall_diagonal_right.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.right.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall_diagonal_y.png",
+			"mesh" : "./meshes/wall/wall_diagonal_y.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.y.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall_t.png",
+			"mesh" : "./meshes/wall/wall_t.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.t.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall_end.png",
+			"mesh" : "./meshes/wall/wall_end.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.end.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall+2.png",
+			"mesh" : "./meshes/wall/wall+2.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+2.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall+3.png",
+			"mesh" : "./meshes/wall/wall+3.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+3.concrete"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/concrete_wall+4.png",
+			"mesh" : "./meshes/wall/wall+4.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+4.concrete"		
+	},
+
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall.png",
+			"mesh" : "./meshes/wall/wall.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall_diagonal_large.png",
+			"mesh" : "./meshes/wall/wall_diagonal.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.newstonewall"		
+	},	
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall_diagonal_left.png",
+			"mesh" : "./meshes/wall/wall_diagonal_left.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.left.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall_diagonal_small.png",
+			"mesh" : "./meshes/wall/wall_diagonal_small.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.small.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall_diagonal_right.png",
+			"mesh" : "./meshes/wall/wall_diagonal_right.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.right.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall_diagonal_y.png",
+			"mesh" : "./meshes/wall/wall_diagonal_y.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.y.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall_t.png",
+			"mesh" : "./meshes/wall/wall_t.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.t.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall_end.png",
+			"mesh" : "./meshes/wall/wall_end.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.end.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall+2.png",
+			"mesh" : "./meshes/wall/wall+2.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+2.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall+3.png",
+			"mesh" : "./meshes/wall/wall+3.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+3.newstonewall"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/newstonewall_wall+4.png",
+			"mesh" : "./meshes/wall/wall+4.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "newstonewall"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+4.newstonewall"		
+	},
+
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall.png",
+			"mesh" : "./meshes/wall/wall.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall_diagonal_large.png",
+			"mesh" : "./meshes/wall/wall_diagonal.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.stockbrick"		
+	},	
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall_diagonal_left.png",
+			"mesh" : "./meshes/wall/wall_diagonal_left.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.left.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall_diagonal_small.png",
+			"mesh" : "./meshes/wall/wall_diagonal_small.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.small.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall_diagonal_right.png",
+			"mesh" : "./meshes/wall/wall_diagonal_right.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.right.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall_diagonal_y.png",
+			"mesh" : "./meshes/wall/wall_diagonal_y.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.y.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall_t.png",
+			"mesh" : "./meshes/wall/wall_t.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.t.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall_end.png",
+			"mesh" : "./meshes/wall/wall_end.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.end.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall+2.png",
+			"mesh" : "./meshes/wall/wall+2.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+2.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall+3.png",
+			"mesh" : "./meshes/wall/wall+3.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+3.stockbrick"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stockbrick_wall+4.png",
+			"mesh" : "./meshes/wall/wall+4.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stockbrick"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+4.stockbrick"		
+	},
+
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall.png",
+			"mesh" : "./meshes/wall/wall.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall_diagonal_large.png",
+			"mesh" : "./meshes/wall/wall_diagonal.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.stonefacade"		
+	},	
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall_diagonal_left.png",
+			"mesh" : "./meshes/wall/wall_diagonal_left.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.left.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall_diagonal_small.png",
+			"mesh" : "./meshes/wall/wall_diagonal_small.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.small.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall_diagonal_right.png",
+			"mesh" : "./meshes/wall/wall_diagonal_right.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.right.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall_diagonal_y.png",
+			"mesh" : "./meshes/wall/wall_diagonal_y.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.diagonal.y.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall_t.png",
+			"mesh" : "./meshes/wall/wall_t.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 0,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.t.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall_end.png",
+			"mesh" : "./meshes/wall/wall_end.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.end.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall+2.png",
+			"mesh" : "./meshes/wall/wall+2.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+2.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall+3.png",
+			"mesh" : "./meshes/wall/wall+3.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+3.stonefacade"		
+	},
+	{
+		"baseType" : {
+			"categories" : ["castle", "wall", "decorative"],
+			"icon" : "./textures/icon/fence/stonefacade_wall+4.png",
+			"mesh" : "./meshes/wall/wall+4.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 180,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "stonefacade"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.fence.wall.+4.stonefacade"		
+	}
+
+]

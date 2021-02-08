@@ -91,17 +91,17 @@
 		"albedo" : "fishtop",
 		"height" : "fishtop",
 		"normal" : "fishtop"
-	},
+		},
 	"cow" : {
 		"albedo" : "cow",
 		"height" : "cow",
 		"normal" : "cow"
-	},
+		},
 	"cowskin" : {
 		"albedo" : "cowskin",
 		"height" : "cowskin",
 		"normal" : "cowskin"
-	},
+		},
 
 	"paving" : {
 		"albedo" : "paving",

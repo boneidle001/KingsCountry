@@ -32,7 +32,7 @@
 		"mesh" : "./meshes/wallcorner.ply",
 		"icon" : "./textures/icon/concrete_wall_corner.png",
 		"isSolid" : true,
-		"maxStackSize" : 10,
+		"maxStackSize" : 500,
 		"needsBase" : false,
 		"onPlaceAudio" : "stonePlace",
 		"onRemoveAudio" : "stoneDelete",

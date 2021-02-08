@@ -2,7 +2,7 @@
 	{
 	"baseType" : {
 			"categories" : ["castle", "floor", "decorative"],
-			"icon" : "./textures/icon/hardwoodplanks_floor_3x3.png",
+			"icon" : "./textures/icon/tatami_floor_3x3.png",
 			"mesh" : "./meshes/floor3x3.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -14,15 +14,15 @@
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "hardwoodplanks"
+			"sideall" : "tatami"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.floor3x3.hardwoodplanks"		
+		"typeName" : "kc.castle.floor3x3.tatami"		
 	},
 	{
 	"baseType" : {
 			"categories" : ["castle", "floor", "decorative"],
-			"icon" : "./textures/icon/hardwoodplanks_floor_3x1.png",
+			"icon" : "./textures/icon/tatami_floor_3x1.png",
 			"mesh" : "./meshes/floor3x1.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -34,15 +34,15 @@
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "hardwoodplanks"
+			"sideall" : "tatami"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.floor3x1.hardwoodplanks"		
+		"typeName" : "kc.castle.floor3x1.tatami"		
 	},
 	{
 	"baseType" : {
 			"categories" : ["castle", "floor", "decorative"],
-			"icon" : "./textures/icon/hardwoodplanks_floor_1x3.png",
+			"icon" : "./textures/icon/tatami_floor_1x3.png",
 			"mesh" : "./meshes/floor1x3.ply",
 			"meshRotationEuler" : {
 				"x" : 0,
@@ -54,9 +54,9 @@
 			"maxStackSize" : 500,
 			"onPlaceAudio" : "dirtPlace",
 			"onRemoveAudio" : "grassDelete",
-			"sideall" : "hardwoodplanks"
+			"sideall" : "tatami"
 		},
 		"generateType" : "rotateBlock",
-		"typeName" : "kc.castle.floor1x3.hardwoodplanks"		
+		"typeName" : "kc.castle.floor1x3.tatami"		
 	}
 ]

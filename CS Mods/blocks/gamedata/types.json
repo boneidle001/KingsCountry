@@ -17,7 +17,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "concrete"
-	},
+		},
 
 	"paving" : {
 		"categories" : ["kings", "grey", "paving", "decorative"],
@@ -31,7 +31,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "paving"
-	},
+		},
 	"pewter" : {
 		"categories" : ["kings", "pewter","paving", "decorative"],
 		"customData" : {
@@ -44,7 +44,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "pewter"
-	},
+		},
 	"traditional" : {
 		"categories" : ["kings", "traditional","paving", "decorative"],
 		"customData" : {
@@ -57,7 +57,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "traditional"
-	},
+		},
 	"redpaving" : {
 		"categories" : ["kings", "red","paving", "decorative"],
 		"customData" : {
@@ -70,7 +70,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "redpaving"
-	},
+		},
 	"steelpanelcrimson" : {
 		"categories" : ["kings", "steel","panel", "red", "crimson", "decorative"],
 		"customData" : {
@@ -85,7 +85,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "steelpanel"
-	},
+		},
 	"steelpaneldeepskyblue" : {
 		"categories" : ["kings", "steel","panel", "sky", "blue", "decorative"],
 		"customData" : {
@@ -100,7 +100,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "steelpanel"
-	},
+		},
 	"steelpaneldeepgrey" : {
 		"categories" : ["kings", "steel","panel", "sky", "blue", "decorative"],
 		"customData" : {
@@ -115,7 +115,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "steelpanel"
-	},
+		},
 	"concrete" : {
 		"categories" : ["kings", "concrete", "grey", "decorative"],
 		"customData" : {
@@ -130,7 +130,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "concrete"
-	},
+		},
 	"whiteconcrete" : {
 		"categories" : ["kings", "concrete", "grey", "decorative"],
 		"customData" : {
@@ -145,7 +145,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "concrete"
-	},
+		},
 	"claybrick" : {
 		"categories" : ["kings", "clay", "brick", "decorative"],
 		"customData" : {
@@ -159,7 +159,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "claybrick"
-	},
+		},
 	"stockbrick" : {
 		"categories" : ["kings", "stock", "brick", "decorative"],
 		"customData" : {
@@ -173,7 +173,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "stockbrick"
-	},
+		},
 	"hardwoodplanks" : {
 		"categories" : ["kings", "hard", "wood", "planks", "decorative"],
 		"customData" : {
@@ -187,7 +187,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "hardwoodplanks"
-	},
+		},
 	"brickpath" : {
 		"categories" : ["kings", "hard", "wood", "planks", "decorative"],
 		"customData" : {
@@ -201,7 +201,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "brickpath"
-	},
+		},
 	"road" : {
 		"categories" : ["kings", "road", "decorative"],
 		"customData" : {
@@ -215,7 +215,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "road"
-	},
+		},
 	"polishedplanks" : {
 		"categories" : ["kings", "wood", "polished", "decorative"],
 		"customData" : {
@@ -229,7 +229,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "polishedplanks"
-	},
+		},
 	"stonewall" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -243,7 +243,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "stonewall"
-	},
+		},
 	"wornbrickwall" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -257,7 +257,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "wornbrickwall"
-	},
+		},
 	"roughplaster" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -271,7 +271,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "roughplaster"
-	},
+		},
 	"oldstonewall" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -285,7 +285,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "oldstonewall"
-	},
+		},
 	"newstonewall" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -299,7 +299,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "newstonewall"
-	},
+		},
 	"greystone" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -313,7 +313,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "greystone"
-	},
+		},
 	"roughmarblefloor" : {
 		"categories" : ["kings", "marble", "floor", "decorative"],
 		"customData" : {
@@ -327,7 +327,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "roughmarblefloor"
-	},
+		},
 	"stonefacade" : {
 		"categories" : ["kings", "facade", "stone", "decorative"],
 		"customData" : {
@@ -341,7 +341,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "stonefacade"
-	},
+		},
 	"logwall" : {
 		"categories" : ["kings", "wall", "log", "decorative"],
 		"customData" : {
@@ -355,7 +355,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "logwall"
-	},
+		},
 	"fishscale" : {
 		"categories" : ["kings", "stone", "tile", "decorative"],
 		"customData" : {
@@ -369,7 +369,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "fishscale"
-	},
+		},
 	"redtiles" : {
 		"categories" : ["kings", "stone", "tile", "decorative"],
 		"customData" : {
@@ -383,7 +383,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "redtiles"
-	},
+		},
 	"varnishedoak" : {
 		"categories" : ["kings", "wall", "log", "decorative"],
 		"customData" : {
@@ -397,7 +397,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "varnishedoak"
-	},
+		},
 	"bandedplanks" : {
 		"categories" : ["kings", "wall", "log", "decorative"],
 		"customData" : {
@@ -411,7 +411,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "bandedplanks"
-	},
+		},
 	"pineplanks" : {
 		"categories" : ["kings", "wall", "log", "decorative"],
 		"customData" : {
@@ -425,7 +425,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "pineplanks"
-	},
+		},
 	"polishedpine" : {
 		"categories" : ["kings", "wall", "log", "decorative"],
 		"customData" : {
@@ -439,7 +439,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "polishedpine"
-	},
+		},
 	"woodentile" : {
 		"categories" : ["kings", "wall", "log", "decorative"],
 		"customData" : {
@@ -453,7 +453,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "woodentile"
-	},
+		},
 	"gravel" : {
 		"categories" : ["kings", "floor", "gravel", "decorative"],
 		"customData" : {
@@ -467,7 +467,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "gravel"
-	},
+		},
 	"gravel1" : {
 		"categories" : ["kings", "floor", "gravel", "decorative"],
 		"customData" : {
@@ -481,7 +481,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "gravel1"
-	},
+		},
 	"greytile" : {
 		"categories" : ["kings", "roof", "tile", "decorative"],
 		"customData" : {
@@ -495,7 +495,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "greytile"
-	},
+		},
 	"leafytile" : {
 		"categories" : ["kings", "roof", "tile", "decorative"],
 		"customData" : {
@@ -509,7 +509,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "leafytile"
-	},
+		},
 	"stonewall2" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -523,7 +523,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "stonewall2"
-	},
+		},
 	"stonewall3" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -537,7 +537,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "stonewall3"
-	},
+		},
 	"stonewall4" : {
 		"categories" : ["kings", "wall", "stone", "decorative"],
 		"customData" : {
@@ -551,7 +551,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "stonewall4"
-	},
+		},
 	"oldpath" : {
 		"categories" : ["kings", "floor", "stone", "decorative"],
 		"customData" : {
@@ -565,7 +565,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "oldpath"
-	},
+		},
 	"planks1" : {
 		"categories" : ["kings", "wood", "planks", "decorative"],
 		"customData" : {
@@ -579,7 +579,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "planks1"
-	},
+		},
 	"woodpanel" : {
 		"categories" : ["kings", "wood", "planks", "decorative"],
 		"customData" : {
@@ -593,7 +593,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "woodpanel"
-	},
+		},
 	"tatami" : {
 		"categories" : ["kings", "floor", "tatami", "decorative"],
 		"customData" : {
@@ -607,7 +607,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "tatami"
-	},
+		},
 	"irondoor" : {
 		"categories" : ["kings", "door", "iron", "decorative"],
 		"customData" : {
@@ -621,7 +621,7 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "irondoor"
-	},
+		},
 	"goldbrick" : {
 		"categories" : ["kings", "gold", "decorative"],
 		"customData" : {
@@ -635,5 +635,5 @@
 		"onPlaceAudio" : "woodPlace",
 		"onRemoveAudio" : "woodDeleteLight",
 		"sideall" : "gold"
-	}
+		}
 }

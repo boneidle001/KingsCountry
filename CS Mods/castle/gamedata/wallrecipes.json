@@ -1,0 +1,450 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewallconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalleftconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.left.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalsmallconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.small.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalrightconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.right.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalyconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.y.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalltconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.t.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewallendconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.end.concrete" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+2newstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+2.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+3newstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+3.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+4newstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+4.newstonewall" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewallnewstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalnewstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalleftnewstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.left.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalsmallnewstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.small.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalrightnewstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.right.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalynewstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.y.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalltnewstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.t.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewallendnewstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.end.newstonewall" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+2newstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+2.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+3newstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+3.newstonewall" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+4newstonewall",
+		"requires":[
+				{ "amount":5, "type":"newstonewall" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+4.newstonewall" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewallstockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalstockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalleftstockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.left.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalsmallstockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.small.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalrightstockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.right.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalystockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.y.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalltstockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.t.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewallendstockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.end.stockbrick" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+2stockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+2.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+3stockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+3.stockbrick" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+4stockbrick",
+		"requires":[
+				{ "amount":5, "type":"stockbrick" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+4.stockbrick" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewallstonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalstonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalleftstonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.left.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalsmallstonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.small.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalrightstonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.right.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalldiagonalystonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.diagonal.y.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewalltstonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.t.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewallendstonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.end.stonefacade" } 
+				]
+	},
+	
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+2stonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+2.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+3stonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+3.stonefacade" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.fencewall+4stonefacade",
+		"requires":[
+				{ "amount":5, "type":"stonefacade" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.fence.wall.+4.stonefacade" } 
+				]
+	}
+
+]

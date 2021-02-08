@@ -1,6 +1,17 @@
 [
 	{
 		"defaultLimit" : 100,
+		"name": "pipliz.stonemason.castleworktable",
+		"requires":[
+				{ "amount":25, "type":"stonebricks" },
+				{ "amount":5, "type":"ironingot" }
+				],
+		"results":[
+				{ "amount":5, "type":"kc.castle.worktable" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
 		"name": "pipliz.stonemason.castlewindowtop",
 		"requires":[
 				{ "amount":25, "type":"stonebricks" },

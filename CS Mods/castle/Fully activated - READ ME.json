@@ -1,3 +1,6 @@
+Need to look at fences and walls, something in the mesh is causing frame lag on placement and pick up.
+
+
 [
 {
 "name": "Castle Decorations",
@@ -94,6 +97,16 @@
 		"relativePath" : "gamedata/concretecastlefloor.json"
 	},
 
+	{
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/fences.json"
+	},
+    {
+		"fileType" : "generateBlocks",
+		"index" : -800000,
+		"relativePath" : "gamedata/walls.json"
+	},
     {
 		"fileType" : "generateBlocks",
 		"index" : -800000,
@@ -158,6 +171,30 @@
 			],
 			"npcType" : "kc.castlecrafter",
 		"relativePath" : "gamedata/tatamirecipes.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"kc.castle.worktablez-",
+			"kc.castle.worktablez+",
+			"kc.castle.worktablex-",
+			"kc.castle.worktablex+"
+			],
+			"npcType" : "kc.castlecrafter",
+		"relativePath" : "gamedata/fencerecipes.json"
+	},
+	{
+		"fileType" : "addOrReplaceNPCRecipes",
+		"index" : -800000,
+		"limitsUIMapping" : [
+			"kc.castle.worktablez-",
+			"kc.castle.worktablez+",
+			"kc.castle.worktablex-",
+			"kc.castle.worktablex+"
+			],
+			"npcType" : "kc.castlecrafter",
+		"relativePath" : "gamedata/wallrecipes.json"
 	},
 	{
 		"fileType" : "addOrReplaceNPCRecipes",

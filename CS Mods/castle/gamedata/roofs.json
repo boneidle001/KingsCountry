@@ -1,0 +1,691 @@
+[
+	{
+		"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/fishscale_roof_large.png",
+			"mesh" : "./meshes/roof/roof_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "fishscale"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.fishscale"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/fishscale_roof_large_corner.png",
+			"mesh" : "./meshes/roof/roof_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "fishscale"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.corner.fishscale"		
+	},
+
+	{
+		"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/greytile_roof_large.png",
+			"mesh" : "./meshes/roof/roof_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "greytile"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.greytile"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/greytile_roof_large_corner.png",
+			"mesh" : "./meshes/roof/roof_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "greytile"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.corner.greytile"		
+	},
+
+	{
+		"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/leafytile_roof_large.png",
+			"mesh" : "./meshes/roof/roof_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "leafytile"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.leafytile"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/leafytile_roof_large_corner.png",
+			"mesh" : "./meshes/roof/roof_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "leafytile"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.corner.leafytile"		
+	},
+
+	{
+		"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/redtile_roof_large.png",
+			"mesh" : "./meshes/roof/roof_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "redtiles"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.redtile"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/redtile_roof_large_corner.png",
+			"mesh" : "./meshes/roof/roof_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "redtiles"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.corner.redtile"		
+	},
+
+	{
+		"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/straw_roof_large.png",
+			"mesh" : "./meshes/roof/roof_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "straw"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.straw"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/straw_roof_large_corner.png",
+			"mesh" : "./meshes/roof/roof_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "straw"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.large.corner.straw"		
+	},
+
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/concrete_roof_top.png",
+			"mesh" : "./meshes/roof/roof_top.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.top.concrete"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/concrete_roof_top_end.png",
+			"mesh" : "./meshes/roof/roof_top_end.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.top.end.concrete"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/concrete_upsidedown_corner_large.png",
+			"mesh" : "./meshes/roof/upsidedown_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.large.corner.concrete"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/concrete_upsidedown_large.png",
+			"mesh" : "./meshes/roof/upsidedown_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.large.concrete"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/concrete_upsidedown_corner_small.png",
+			"mesh" : "./meshes/roof/upsidedown_small_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.small.corner.concrete"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/concrete_upsidedown_small.png",
+			"mesh" : "./meshes/roof/upsidedown_small.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "concrete"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.small.concrete"		
+	},
+
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/hardwoodplanks_roof_top.png",
+			"mesh" : "./meshes/roof/roof_top.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.top.hardwoodplanks"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/hardwoodplanks_roof_top_end.png",
+			"mesh" : "./meshes/roof/roof_top_end.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.top.end.hardwoodplanks"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/hardwoodplanks_upsidedown_corner_large.png",
+			"mesh" : "./meshes/roof/upsidedown_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.large.corner.hardwoodplanks"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/hardwoodplanks_upsidedown_large.png",
+			"mesh" : "./meshes/roof/upsidedown_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.large.hardwoodplanks"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/hardwoodplanks_upsidedown_corner_small.png",
+			"mesh" : "./meshes/roof/upsidedown_small_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.small.corner.hardwoodplanks"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/hardwoodplanks_upsidedown_small.png",
+			"mesh" : "./meshes/roof/upsidedown_small.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "hardwoodplanks"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.small.hardwoodplanks"		
+	},
+
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/varnishedoak_roof_top.png",
+			"mesh" : "./meshes/roof/roof_top.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.top.varnishedoak"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/varnishedoak_roof_top_end.png",
+			"mesh" : "./meshes/roof/roof_top_end.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.top.end.varnishedoak"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/varnishedoak_upsidedown_corner_large.png",
+			"mesh" : "./meshes/roof/upsidedown_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.large.corner.varnishedoak"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/varnishedoak_upsidedown_large.png",
+			"mesh" : "./meshes/roof/upsidedown_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.large.varnishedoak"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/varnishedoak_upsidedown_corner_small.png",
+			"mesh" : "./meshes/roof/upsidedown_small_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.small.corner.varnishedoak"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/varnishedoak_upsidedown_small.png",
+			"mesh" : "./meshes/roof/upsidedown_small.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "varnishedoak"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.small.varnishedoak"		
+	}
+	,
+
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/planks1_roof_top.png",
+			"mesh" : "./meshes/roof/roof_top.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "planks1"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.top.planks1"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/planks1_roof_top_end.png",
+			"mesh" : "./meshes/roof/roof_top_end.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 90,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "planks1"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.roof.top.end.planks1"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/planks1_upsidedown_corner_large.png",
+			"mesh" : "./meshes/roof/upsidedown_large_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "planks1"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.large.corner.planks1"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/planks1_upsidedown_large.png",
+			"mesh" : "./meshes/roof/upsidedown_large.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "planks1"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.large.planks1"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/planks1_upsidedown_corner_small.png",
+			"mesh" : "./meshes/roof/upsidedown_small_corner.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "planks1"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.small.corner.planks1"		
+	},
+	{
+	"baseType" : {
+			"categories" : ["castle", "roof", "decorative"],
+			"icon" : "./textures/icon/roof/planks1_upsidedown_small.png",
+			"mesh" : "./meshes/roof/upsidedown_small.ply",
+			"meshRotationEuler" : {
+				"x" : 0,
+				"y" : 270,
+				"z" : 0
+				},
+			"isSolid" : true,
+			"lightingTransparency" : 255,
+			"maxStackSize" : 500,
+			"onPlaceAudio" : "dirtPlace",
+			"onRemoveAudio" : "grassDelete",
+			"sideall" : "planks1"
+		},
+		"generateType" : "rotateBlock",
+		"typeName" : "kc.castle.upsidedown.small.planks1"		
+	}
+]

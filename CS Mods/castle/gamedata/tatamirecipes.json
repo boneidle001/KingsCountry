@@ -1,0 +1,32 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor3x3tatami",
+		"requires":[
+				{ "amount":5, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor3x3.tatami" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor1x3tatami",
+		"requires":[
+				{ "amount":5, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor1x3.tatami" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.floor3x1tatami",
+		"requires":[
+				{ "amount":5, "type":"tatami" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.floor3x1.tatami" } 
+				]
+	}
+]

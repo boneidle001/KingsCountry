@@ -1,0 +1,350 @@
+[
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargefishscale",
+		"requires":[
+				{ "amount":5, "type":"fishscale" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.fishscale" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargecornerfishscale",
+		"requires":[
+				{ "amount":5, "type":"fishscale" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.corner.fishscale" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargegreytile",
+		"requires":[
+				{ "amount":5, "type":"greytile" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.greytile" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargecornergreytile",
+		"requires":[
+				{ "amount":5, "type":"greytile" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.corner.greytile" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargeleafytile",
+		"requires":[
+				{ "amount":5, "type":"leafytile" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.leafytile" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargecornerleafytile",
+		"requires":[
+				{ "amount":5, "type":"leafytile" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.corner.leafytile" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargeredtile",
+		"requires":[
+				{ "amount":5, "type":"redtiles" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.redtile" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargecornerredtile",
+		"requires":[
+				{ "amount":5, "type":"redtiles" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.corner.redtile" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargestraw",
+		"requires":[
+				{ "amount":5, "type":"straw" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.straw" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooflargecornerstraw",
+		"requires":[
+				{ "amount":5, "type":"straw" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.large.corner.straw" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooftopconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.top.end.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooftopendconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.top.end.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownlargecornerconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.large.corner.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownlargeconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.large.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownsmallcornerconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.small.corner.concrete" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownsmallconcrete",
+		"requires":[
+				{ "amount":5, "type":"concrete" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.small.concrete" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooftophardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.top.end.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooftopendhardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.top.end.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownlargecornerhardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.large.corner.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownlargehardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.large.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownsmallcornerhardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.small.corner.hardwoodplanks" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownsmallhardwoodplanks",
+		"requires":[
+				{ "amount":5, "type":"hardwoodplanks" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.small.hardwoodplanks" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooftopvarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.top.end.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooftopendvarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.top.end.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownlargecornervarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.large.corner.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownlargevarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.large.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownsmallcornervarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.small.corner.varnishedoak" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownsmallvarnishedoak",
+		"requires":[
+				{ "amount":5, "type":"varnishedoak" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.small.varnishedoak" } 
+				]
+	},
+
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooftopplanks1",
+		"requires":[
+				{ "amount":5, "type":"planks1" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.top.end.planks1" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.rooftopendplanks1",
+		"requires":[
+				{ "amount":5, "type":"planks1" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.roof.top.end.planks1" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownlargecornerplanks1",
+		"requires":[
+				{ "amount":5, "type":"planks1" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.large.corner.planks1" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownlargeplanks1",
+		"requires":[
+				{ "amount":5, "type":"planks1" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.large.planks1" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownsmallcornerplanks1",
+		"requires":[
+				{ "amount":5, "type":"planks1" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.small.corner.planks1" } 
+				]
+	},
+	{
+		"defaultLimit" : 100,
+		"name": "kc.castlecrafter.upsidedownsmallplanks1",
+		"requires":[
+				{ "amount":5, "type":"planks1" }
+				],
+		"results":[
+				{ "amount":10, "type":"kc.castle.upsidedown.small.planks1" } 
+				]
+	}
+]
